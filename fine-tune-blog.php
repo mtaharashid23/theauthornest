@@ -96,7 +96,7 @@
                             approach of critical self-assessment and a dedicated mindset. Here's how you can enhance
                             your self-editing process and ensure your work is as polished as possible:</p>
                         <div class="blog-cta-box">
-                            <h3>Looking to perfect your book? HOBs provides expert editing services to polish your
+                            <h3>Looking to perfect your book? The Author Nest provides expert editing services to polish your
                                 manuscript and make it irresistible to readers.</h3>
                             <a class="cta-btn" href="request-free-proposal.php">Learn More</a>
                         </div>
@@ -219,7 +219,7 @@
                             those little slips that you might miss—because, hey, everyone makes mistakes. And when
                             you've been deep in your writing for months, it's tough to step back and spot the small,
                             fixable flaws.</p>
-                        <p>At <a href="../index.htm">HOBs</a>, putting your best work forward is what we're all about.
+                        <p>At <a href="../index.php">The Author Nest</a>, putting your best work forward is what we're all about.
                             That's why we kick things
                             off with a free consultation to figure out exactly what you need.</p>
                         <h3 id="sub-23">What to Expect in Your Free Consultation</h3>

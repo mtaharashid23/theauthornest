@@ -244,7 +244,7 @@
                                 the competition reach your audience before you do.</p>
                             <p>Let us handle your social media marketing so you can focus on writing your next
                                 bestseller.</p>
-                            <div class=" mt-5"> <button onclick="setButtonURL()" class="primary-btn">Chat
+                            <div class=" mt-5"> <button class="primary-btn chat">Chat
                                     With Our
                                     Social Media Strategist</button>
                             </div>

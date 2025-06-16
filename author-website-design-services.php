@@ -59,7 +59,7 @@
                                 unique needs of authors—your website should showcase your books, share your story, and
                                 reflect your personal voice. Fill out the form below to get started on designing a
                                 website that speaks to your audience and supports your writing career.</p>
-                            <div class=" mt-5"> <button onclick="setButtonURL()" class="primary-btn">Chat
+                            <div class=" mt-5"> <button class="primary-btn chat">Chat
                                     With Our
                                     Expert Web designer</button>
                             </div>

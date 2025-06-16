@@ -229,7 +229,7 @@
                         </div>
                         <div class="banner-btns justify-content-center">
                             <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                            <button href="#rfp-top" class="talk-chat" onclick="setButtonURL()"> Start a Live
+                            <button href="#rfp-top" class="talk-chat chat"> Start a Live
                                 Chat</button>
                         </div>
                     </div>
@@ -354,7 +354,7 @@
                         subject matter, and content requirements.
                         For a personalized quote tailored to your specific needs, please call us at<a
                             href="tel:+13239168484" style="color:#ef1012;">+1 (323) 916 8484</a>,
-                        start a <a href="javascript:;" onclick="setButtonURL()" style="color:#ef1012;">live chat</a>,
+                        start a <a href="javascript:;" class="chat" style="color:#ef1012;">live chat</a>,
                         or submit a <a href="#request" style="color:#ef1012;">request for
                             proposal</a>.</p>
                 </div>

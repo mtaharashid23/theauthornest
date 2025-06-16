@@ -5,11 +5,11 @@
         <div class="row align-items-center">
             <div class="col-md-7 div-text">
                 <h1 class="heading">
-                    Your Book Could Be the <br><span class="heading-ani"> Next Big Thing!</span>
+                    Your Story Deserves the <br><span class="heading-ani"> Spotlight!</span>
                 </h1>
                 <p style="font-size: 25px;">
-                    We’re Your <span style="color:#EF1012; font-weight:900;"> Trusted Global Partner </span>for Writing,
-                    Publishing, and Marketing
+                    Partner with a <span style="color:#EF1012; font-weight:900;">Trusted Global Team</span> for Expert
+                    Writing, Publishing, and Marketing Solutions.
                 </p>
                 <div class="banner-btns">
                     <a href="#rfp-top" class="talk-chat"> Get Started </a>
@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="form-head text-center">
-                        <h2>Get Your <span>Free Proposal </span>Now</h2>
+                        <h2>Start Your Publishing Journey with a <span>Free Proposal</span></h2>
                     </div>
                     <div class="footer-rfp form-style">
                         <div class="form-body">
@@ -88,7 +88,7 @@
     <div class="container">
         <div class="row">
             <div class="heading text-center">
-                <h2>Help for Each Phase of Your <span>Author Journey</span></h2>
+                <h2>Comprehensive Support Throughout Your <span>Author Journey</span></h2>
             </div>
 
             <div class="col-md-4">
@@ -195,13 +195,13 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading text-center">
-                    <h2>Still unsure about what you need?</h2>
-                    <p>Contact our senior strategist to explore your goals and craft a personalized <span
-                            class="blink-soft">Bestseller Package!</span>
+                    <h2>Not Sure Where to Start?</h2>
+                    <p>Speak with Our Senior Strategist to Clarify Your Vision and Design a Customized <span
+                            class="blink-soft">Bestseller Plan Just for You!</span>
                     </p>
                     <div class="banner-btns">
-                        <a href="request-free-proposal/index.htm" class="talk-chat"> Book a Free Call</a>
-                        <button href="#rfp-top" class="talk-chat" onclick="setButtonURL()"> Start a Live
+                        <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
+                        <button href="#rfp-top" class="talk-chat chat"> Start a Live
                             Chat</button>
                     </div>
                 </div>
@@ -214,95 +214,109 @@
     <div class="container">
         <div class="row">
             <div class="heading text-center">
-                <h2>The Complete Author’s Journey</h2>
-                <p>We guide you through each stage of your publishing journey—from developing your idea to
-                    launching and promoting your book—with professional support and transparency at every step.
+                <h2>The Complete Author Journey</h2>
+                <p>
+                    From the spark of an idea to a successful book launch, we provide expert guidance at every step.
+                    With transparent processes and dedicated support, we turn your publishing dreams into reality.
                 </p>
             </div>
         </div>
         <div class="ttff">
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
                     <div class="service-img">
                         <img src="img/services-img-1.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="service-meta">
-                        <h3><span>1</span> Your Idea Our Words</h3>
-                        <p>Our writing team consists of skilled professionals with expertise across various
-                            genres and topics. We work closely with you to transform your ideas into original,
-                            well-crafted manuscripts. All content is created specifically for you, and we ensure
-                            open communication throughout the process.</p>
-                        <a href="request-free-proposal/index.htm" class="primary-btn">Learn
+                        <h3><span>1</span> Your Vision, Our Words</h3>
+                        <p>
+                            Our team of experienced writers specializes in a wide range of genres and subjects. We
+                            collaborate closely with you to turn your ideas into compelling, custom-written manuscripts.
+                            Every piece is crafted uniquely for you, with transparent communication at every stage of
+                            the process.
+                        </p>
+                        <a href="request-free-proposal.php" class="primary-btn">Learn
                             More</a>
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
                     <div class="service-meta">
-                        <h3><span>2</span> Refine Your Content</h3>
-                        <p>Our editors provide detailed revisions to improve clarity, structure, and consistency
-                            while respecting your voice and vision. Editing and proofreading are essential steps
-                            to ensure your manuscript is professionally presented and ready for publication.</p>
-                        <a href="request-free-proposal/index.htm" class="primary-btn">Learn
+                        <h3><span>2</span> Refine Your Manuscript with Precision</h3>
+                        <p>
+                            Our expert editors enhance your work with meticulous revisions, focusing on clarity,
+                            structure, and consistency while preserving your unique voice and creative intent.
+                            Professional editing and proofreading ensure your manuscript is polished, publication-ready,
+                            and positioned for success.
+                        </p>
+                        <a href="request-free-proposal.php" class="primary-btn">Learn
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="service-img">
                         <img src="img/services-img-2.webp" alt="Book writing process">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
                     <div class="service-img">
                         <img src="img/services-img-3.webp" alt="Ebooks">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="service-meta">
-                        <h3><span>3</span> Launch Your Book</h3>
-                        <p>We assist with key publishing steps, such as file formatting, ISBN setup, and
-                            distribution recommendations. Our team ensures your manuscript meets technical
-                            publishing standards for print and digital platforms.</p>
-                        <a href="request-free-proposal/index.htm" class="primary-btn">Learn
+                        <h3><span>3</span> Launch Your Book with Confidence</h3>
+                        <p>
+                            We handle the essential steps of publishing— from formatting your manuscript and securing an
+                            ISBN to guiding you on the best distribution channels. Our team ensures your book meets all
+                            technical requirements for both print and digital platforms, so you're ready to launch with
+                            ease and professionalism.
+                        </p>
+                        <a href="request-free-proposal.php" class="primary-btn">Learn
                             More</a>
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service mt-3">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
                     <div class="service-meta">
-                        <h3><span>4</span> Promote Your Book</h3>
-                        <p>We offer marketing services to help increase visibility, using ethical strategies
-                            aligned with your audience and goals. Our promotional support includes book
-                            branding, positioning, and consultation—customized to fit your needs.</p>
-                        <a href="request-free-proposal/index.htm" class="primary-btn">Learn
+                        <h3><span>4</span> Promote Your Book the Right Way</h3>
+                        <p>
+                            Our tailored marketing services boost your book’s visibility through ethical,
+                            audience-focused strategies. From branding and market positioning to expert consultation, we
+                            help you build a strong presence that aligns with your goals and resonates with your
+                            readers.
+                        </p>
+                        <a href="request-free-proposal.php" class="primary-btn">Learn
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="service-img">
                         <img src="img/services-img-4.webp" alt="Books">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
                     <div class="service-img">
                         <img src="img/services-img-5.webp" alt="Book printing">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="service-meta">
-                        <h3><span>5</span> Print with Quality</h3>
-                        <p>Our print solutions focus on delivering professional-grade copies of your book with
-                            attention to design and layout. From paperback to hardcover, we ensure your book is
-                            publication-ready and visually polished.</p>
-                        <a href="request-free-proposal/index.htm" class="primary-btn">Learn
+                        <h3><span>5</span> Print with Excellence</h3>
+                        <p>
+                            We deliver high-quality print solutions that bring your book to life with precision and
+                            style. Whether paperback or hardcover, our team ensures every detail from layout to
+                            finish meets professional standards, giving your book the polished look it deserves.
+                        </p>
+                        <a href="request-free-proposal.php" class="primary-btn">Learn
                             More</a>
                     </div>
                 </div>
@@ -314,29 +328,33 @@
 <section class="section multi">
     <div class="container">
         <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
-            <h2>Publish a Wide Variety of Books</h2>
+            <h2>We Publish Across Every Genre</h2>
+            <p>
+                No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
+                books, including:
+            </p>
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="multiple-books text-center">
                     <ul>
                         <li>Business & Investing</li>
-                        <li>Children's Book</li>
+                        <li>Children’s Books</li>
                         <li>Non-Fiction</li>
                         <li>Literature & Fiction</li>
                         <li>Mystery, Thriller & Suspense</li>
                         <li>Science Fiction</li>
                         <li>Teens & Young Adults</li>
                         <li>Comics & Graphic Novels</li>
-                        <li>Biography</li>
+                        <li>Biographies</li>
                         <li>Romance</li>
                         <li>Short Stories</li>
-                        <li class="and-more">...and more!</li>
+                        <li class="and-more">...and many more!</li>
                     </ul>
                 </div>
                 <div class="banner-btns justify-content-center">
-                    <a href="request-free-proposal/index.htm" class="talk-chat"> Book a Free Call</a>
-                    <button href="#rfp-top" class="talk-chat" onclick="setButtonURL()"> Start a Live
+                    <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
+                    <button href="#rfp-top" class="talk-chat chat"> Start a Live
                         Chat</button>
                 </div>
             </div>
@@ -348,48 +366,53 @@
     <div class="container">
         <div class="heading text-center" data-aos="fade-up" data-aos-duration="2000">
             <h2>Our Published Blogs</h2>
-            <p>Explore expert insights on book writing, publishing, and marketing—grounded in practical
-                strategies and modern storytelling approaches.</p>
+            <p>
+                Explore expert insights on writing, publishing, and marketing—rooted in real-world strategies and modern
+                storytelling techniques.
+            </p>
         </div>
         <div class="row resources-style ttff">
             <div class="col-md-4 resource-box" data-aos="fade-right" data-aos-duration="2000">
                 <div class="resource-img">
-                    <a href="fine-tune-blog/index.htm"><img alt="A Concise Book Publishing Guide" width="164"
-                            height="221" src="img/resource-img-1.webp"></a>
+                    <a href="fine-tune-blog.php"><img alt="A Concise Book Publishing Guide" width="164" height="221"
+                            src="img/resource-img-1.webp"></a>
                 </div>
-                <a href="fine-tune-blog/index.htm">
+                <a href="fine-tune-blog.php">
                     <div class="resource-details">
                         <h3>Fine-Tune Your Book: The Ultimate Self-Editing Guide</h3>
-                        <p>The easy and fast way to publish a book.</p>
+                        <p>Master the art of self-editing with practical tips to enhance clarity, structure, and
+                            flow—making your manuscript reader-ready.</p>
                     </div>
                 </a>
             </div>
             <div class="col-md-4 resource-box">
                 <div class="resource-img">
-                    <a href="formatting-blog/index.htm"><img alt="A Concise Book Publishing Guide" width="164"
-                            height="221" src="img/resource-img-2.webp"></a>
+                    <a href="formatting-blog.php"><img alt="A Concise Book Publishing Guide" width="164" height="221"
+                            src="img/resource-img-2.webp"></a>
                 </div>
-                <a href="formatting-blog/index.htm">
+                <a href="formatting-blog.php">
                     <div class="resource-details">
-                        <h3>Formatting 101: Preparing Your Book for Publishing Like a Professional</h3>
-                        <p>An in-depth overview to fulfil your book publishing needs. </p>
+                        <h3>Formatting 101: Prepare Your Book Like a Pro</h3>
+                        <p>A step-by-step guide to formatting your manuscript for both print and digital
+                            platforms—essential for a polished, professional finish.</p>
                     </div>
                 </a>
             </div>
             <div class="col-md-4 resource-box" data-aos="fade-left" data-aos-duration="2000">
                 <div class="resource-img">
-                    <a href="your-complete-guide-blog/index.htm"><img alt="A Concise Book Publishing Guide" width="164"
+                    <a href="your-complete-guide-blog.php"><img alt="A Concise Book Publishing Guide" width="164"
                             height="221" src="img/resource-img-3.webp"></a>
                 </div>
-                <a href="your-complete-guide-blog/index.htm">
+                <a href="your-complete-guide-blog.php">
                     <div class="resource-details">
                         <h3>Your Complete Guide to Self-Publishing: From Idea to Bestseller</h3>
-                        <p>Convert your fixer-upper to a smooth read. </p>
+                        <p>Navigate every stage of self-publishing with confidence—from concept development to building
+                            your bestseller strategy.</p>
                     </div>
                 </a>
             </div>
         </div>
-        <div class="text-center"> <a href="blogs/index.htm" class="primary-btn">Explore More</a> </div>
+        <div class="text-center"> <a href="blogs.php" class="primary-btn">Explore More</a> </div>
     </div>
 </section>
 
@@ -397,44 +420,51 @@
     <div class="container home-com">
         <div class="heading text-center">
             <h2>Our Commitment to You</h2>
-            <p>We provide reliable support throughout your publishing journey—from idea development to writing,
-                editing, publishing, and marketing. Our goal is to help you present your book professionally and
-                reach the right audience with confidence.</p>
+            <p>
+                At The Author Nest, we’re with you at every stage of your publishing journey from the first spark of an
+                idea to the final product in readers' hands. Our mission is to ensure your book is professionally
+                crafted, confidently launched, and widely recognized.
+            </p>
         </div>
         <div class="row ttff">
             <div class="col-md-3">
                 <div class="com hommie">
                     <img src="img/num-1.webp" alt="Number one">
                     <h4 class="mt-2">Book Writing</h4>
-                    <p>Our writing professionals collaborate with you to turn your ideas into a compelling
-                        manuscript. We focus on creating engaging, original content tailored to your goals and
-                        readers.</p>
+                    <p>
+                        Our skilled writers work closely with you to transform your ideas into captivating, original
+                        content. We tailor each manuscript to align with your goals and resonate with your target
+                        audience.
+                    </p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="com hommie">
                     <img src="img/num-2.webp" alt="Number two">
                     <h4 class="mt-2">Book Marketing</h4>
-                    <p>We help promote your book using a combination of digital outreach and brand development
-                        strategies. Our team provides customized marketing services to increase your book’s
-                        visibility.</p>
+                    <p>
+                        We enhance your book’s visibility through strategic digital marketing and brand development.
+                        From custom campaigns to targeted outreach, we help you connect with the right readers.
+                    </p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="com hommie">
                     <img src="img/num-3.webp" alt="Number three">
-                    <h4 class="mt-2">Book Editing, Publishing & Formatting</h4>
-                    <p>From editing for clarity and quality to formatting your book for multiple platforms, we
-                        ensure your manuscript meets publishing standards and is ready for global distribution.
+                    <h4 class="mt-2">Editing, Publishing & Formatting</h4>
+                    <p>
+                        We refine your manuscript with expert editing, format it for print and digital platforms, and
+                        ensure it meets professional publishing standards ready for distribution worldwide.
                     </p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="com hommie">
                     <img src="img/num-4.webp" alt="Number four">
-                    <h4 class="mt-2">Audiobook</h4>
-                    <p>Extend your book’s reach by offering professionally narrated audiobooks. We assist with
-                        production and formatting to help you connect with listeners and expand your audience.
+                    <h4 class="mt-2">Audiobooks</h4>
+                    <p>
+                        Expand your book’s reach with professionally produced audiobooks. We manage everything from
+                        narration to production, helping you tap into the growing market of audio readers.
                     </p>
                 </div>
             </div>
@@ -448,11 +478,14 @@
             <div class="row align-items-center">
                 <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="form-head text-center">
-                        <h2>Ready to <span>Publish</span> and <span>Promote</span>
+                        <h2>
+                            Ready to <span>Publish</span> and <span>Promote</span>
                             Your Book?
                         </h2>
-                        <p>Contact us today for a free consultation with our publishing and marketing
-                            professionals.</p>
+                        <p>
+                            Contact us today for a free consultation with our publishing and marketing experts and
+                            take the first step toward becoming a published author.
+                        </p>
                     </div>
                     <div class="footer-rfp form-style">
                         <div class="form-body">
@@ -510,11 +543,12 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="heading text-center last-sec-meta">
-                    <h2>We support authors in publishing their books <span>Every Day - </span> Are you ready to
-                        start your journey?</h2>
-                    <div class="text-center mt-5"> <button onclick="setButtonURL()" class="primary-btn">Chat
-                            With Our
-                            Creative Strategist</button>
+                    <h2>We Help Authors Publish <span>Every Day —</span> Are You Ready to Begin?</h2>
+                    <p>
+                        Connect with our Creative Strategist today and take the first step toward bringing your book to
+                        life.
+                    </p>
+                    <div class="text-center"> <button class="primary-btn chat">Chat Now</button>
                     </div>
                 </div>
             </div>
@@ -525,7 +559,7 @@
 <section class="section s10" data-aos="fade-in" data-aos-duration="2000">
     <div class="container">
         <div class="heading text-center width-70 m-auto">
-            <h2>Some Questions & Answers</h2>
+            <h2>Frequently Asked Questions</h2>
         </div>
         <div class="custom-row">
             <div class="col-md-6">
@@ -538,9 +572,12 @@
                             <h4>What services do you offer for book publishing?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>We provide a range of publishing services, including manuscript editing, book
-                                formatting, ISBN registration, and global distribution. Our team ensures that
-                                your book meets industry standards for print and digital formats.</p>
+                            <p>
+                                We offer comprehensive publishing solutions to support your entire journey. Our services
+                                include manuscript editing, professional formatting for print and digital platforms,
+                                ISBN registration, and global distribution. Our team ensures your book meets all
+                                industry standards, presenting it professionally to readers worldwide.
+                            </p>
                         </div>
                     </div>
 
@@ -552,9 +589,11 @@
                             <h4>How do you help with manuscript editing?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>Our professional editing team works closely with you to enhance the clarity,
-                                structure, and flow of your manuscript. We offer comprehensive editing and
-                                proofreading services to ensure your book is polished and ready for publication.
+                            <p>
+                                Our professional editing team collaborates with you to improve the clarity, structure,
+                                and overall flow of your manuscript while preserving your unique voice. We provide
+                                comprehensive editing and thorough proofreading to ensure your book is polished,
+                                error-free, and ready for publication.
                             </p>
                         </div>
                     </div>
@@ -567,9 +606,12 @@
                             <h4>What is the process for getting an ISBN?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>We assist with ISBN registration to ensure that your book is properly identified
-                                in the global market. Our team will guide you through the process and help
-                                secure your ISBN for both print and digital formats.</p>
+                            <p>
+                                We assist you in registering an International Standard Book Number ISBN to uniquely
+                                identify your book in the global marketplace. Our team handles the technical details and
+                                guides you through the entire process ensuring your book receives a valid ISBN for both
+                                print and digital editions, making it ready for distribution and cataloging worldwide.
+                            </p>
                         </div>
                     </div>
 
@@ -581,8 +623,11 @@
                             <h4>Do you assist with copyright protection?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>Yes, we help authors understand and navigate copyright protection for their work.
-                                We offer guidance on how to legally protect your book from unauthorized use.</p>
+                            <p>
+                                Yes, we provide guidance on securing copyright protection for your work. Our team helps
+                                you understand your rights as an author and supports you in taking the necessary steps
+                                to legally protect your book from unauthorized use or reproduction.
+                            </p>
                         </div>
                     </div>
 
@@ -594,9 +639,12 @@
                             <h4>Which publishing platforms do you use?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>We support a variety of publishing platforms, including a img, IngramSpark,
-                                and other industry-standard digital and print services. We work with you to
-                                choose the best platform for your book’s needs.</p>
+                            <p>
+                                We support a range of trusted publishing platforms, including Amazon KDP, IngramSpark,
+                                and other industry-standard services for both print and digital publishing. Our team
+                                works closely with you to select the platform that best fits your book’s goals,
+                                audience, and distribution needs.
+                            </p>
                         </div>
                     </div>
 
@@ -605,13 +653,15 @@
                             <span class="icon-count">
                                 <p>06</p>
                             </span>
-                            <h4>Is online book marketing for me?</h4>
+                            <h4>Is online book marketing right for me?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>Online book marketing can be beneficial for any author looking to increase
-                                visibility. We tailor our marketing strategies to suit your book’s genre and
-                                target audience, whether you're just starting out or looking to expand your
-                                reach.</p>
+                            <p>
+                                Absolutely. Online book marketing is valuable for authors at any stage whether you’re
+                                launching your first book or aiming to grow your readership. We customize marketing
+                                strategies based on your genre, goals, and target audience to help you boost visibility,
+                                connect with readers, and build your author brand effectively.
+                            </p>
                         </div>
                     </div>
 
@@ -641,8 +691,12 @@
                             <h4>Can you design my book cover?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>Yes, our design team creates custom book covers that are professional,
-                                eye-catching, and aligned with your book's genre and theme.</p>
+                            <p>
+                                Yes! Our experienced design team specializes in creating custom book covers that are
+                                visually striking, genre-appropriate, and tailored to your book’s unique message and
+                                audience. We ensure your cover makes a powerful first impression both in print and
+                                online.
+                            </p>
                         </div>
                     </div>
 
@@ -668,9 +722,12 @@
                             <h4>Do you offer print-on-demand services?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>Yes, we offer print-on-demand services, allowing you to print copies of your book
-                                as needed. This is an efficient and cost-effective solution for authors looking
-                                to minimize upfront printing costs.</p>
+                            <p>
+                                Yes, we offer print-on-demand POD services, allowing you to print copies of your book
+                                as orders come in—no large inventory required. This flexible and cost-effective solution
+                                helps authors minimize upfront printing expenses while ensuring high-quality,
+                                professional results for every copy.
+                            </p>
                         </div>
                     </div>
 
@@ -682,9 +739,12 @@
                             <h4>How long does it take to publish a book?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>The timeline varies depending on the complexity of your project. Typically, the
-                                process can take anywhere from a few weeks to a few months, depending on the
-                                services you require.</p>
+                            <p>
+                                The publishing timeline depends on the scope and complexity of your project. On average,
+                                it can take a few weeks to several months, depending on the services involved—such as
+                                writing, editing, design, formatting, and marketing. We provide a customized timeline
+                                based on your goals to ensure a smooth and efficient publishing process.
+                            </p>
                         </div>
                     </div>
 
@@ -696,9 +756,13 @@
                             <h4>What is your pricing structure?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>Our pricing varies depending on the services you choose. We offer packages that
-                                are designed to meet different needs and budgets. Contact us for a customized
-                                quote based on your specific requirements.</p>
+                            <p>
+                                Our pricing is flexible and tailored to your specific needs. We offer a range of service
+                                packages designed to suit different goals and budgets whether you're looking for
+                                full-service publishing or targeted support.
+                                For the most accurate pricing, we recommend reaching out to us for a personalized quote
+                                based on your project's scope and requirements.
+                            </p>
                         </div>
                     </div>
 
@@ -711,8 +775,11 @@
                             </h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>Yes, we offer flexibility in our services. You can select only the services you
-                                need, and we will tailor a package to fit your exact requirements.</p>
+                            <p>
+                                Absolutely. Our services are fully customizable—you only pay for what you need. Whether
+                                it's editing, cover design, formatting, marketing, or publishing support, we’ll tailor a
+                                personalized package that fits your specific goals and budget.
+                            </p>
                         </div>
                     </div>
 
@@ -721,11 +788,14 @@
                             <span class="icon-count">
                                 <p>14</p>
                             </span>
-                            <h4>I do not have any social media accounts. How can you help?</h4>
+                            <h4>I don’t have any social media accounts. How can you help?</h4>
                         </div>
                         <div class="accordion__item__content" style="display:none;">
-                            <p>No worries! We can assist in creating and managing social media accounts for your
-                                book, as well as help with promotional strategies to build your online presence.
+                            <p>
+                                No problem at all! We can create and manage social media accounts for you, specifically
+                                tailored to your book and author brand. Our team will also develop and implement
+                                effective promotional strategies to build your online presence, grow your audience, and
+                                engage with readers—even if you're starting from scratch.
                             </p>
                         </div>
                     </div>

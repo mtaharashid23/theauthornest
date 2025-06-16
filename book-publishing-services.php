@@ -122,7 +122,7 @@
                                 <li>Post-Publication Consultation to assist with platform navigation</li>
                             </ul>
                             <div class="banner-btns justify-content-center">
-                                <a href="javascript:;" onclick="setButtonURL()" class="talk-chat">Learn More</a>
+                                <a href="javascript:;" class="talk-chat chat">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                                 <li>Dedicated Publishing Expert</li>
                             </ul>
                             <div class="banner-btns justify-content-center">
-                                <a href="javascript:;" onclick="setButtonURL()" class="talk-chat">Get A Quote</a>
+                                <a href="javascript:;" class="talk-chat chat">Get A Quote</a>
                             </div>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
 
                             </ul>
                             <div class="banner-btns justify-content-center">
-                                <a href="javascript:;" onclick="setButtonURL()" class="talk-chat">Get A Quote</a>
+                                <a href="javascript:;" class="talk-chat chat">Get A Quote</a>
                             </div>
                         </div>
                     </div>
@@ -283,7 +283,7 @@
                         </div>
                         <div class="banner-btns justify-content-center">
                             <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                            <button href="#rfp-top" class="talk-chat" onclick="setButtonURL()"> Start a Live
+                            <button href="#rfp-top" class="talk-chat chat"> Start a Live
                                 Chat</button>
                         </div>
                     </div>
@@ -317,7 +317,7 @@
                                     From unique cover art to carefully designed layouts, we make your book truly stand
                                     out. Let us transform your ideas into a visually striking reality that attracts and
                                     resonates with readers.</p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -333,7 +333,7 @@
                                     readability and accessibility. This approach makes sure that our materials are both
                                     aesthetically pleasing and functionally effective, providing a top-notch experience
                                     for all users.</p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -358,7 +358,7 @@
                                     will enrich the overall aesthetic of your book. Each image is crafted to complement
                                     and elevate your content, creating a memorable visual experience for readers.
                                 </p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -374,7 +374,7 @@
                                     addressing even the smallest details to meet the highest standards. Rely on us to
                                     perfect your manuscript, making it not only error-free but also compelling and
                                     impactful.</p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -397,7 +397,7 @@
                                     mistakes, and grammatical errors. We carefully examine every sentence and
                                     punctuation mark to ensure clarity and coherence throughout your manuscript. Our
                                     focus is on enhancing readability while preserving your unique voice and style.</p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -411,7 +411,7 @@
                                     expertise, your work will be available to readers and listeners everywhere,
                                     maximizing its potential for success.
                                 </p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -435,7 +435,7 @@
                                     and binding techniques, tailored to meet your unique needs. From traditional to
                                     contemporary designs, we use advanced technology and skilled craftsmanship to ensure
                                     that each product is both visually appealing and durable.</p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -450,7 +450,7 @@
                                     engagement. Let us help you create a lasting impact and build anticipation for your
                                     release.
                                 </p>
-                                <a href="javascript:;" onclick="setButtonURL()" class="primary-btn">Learn
+                                <a href="javascript:;" class="primary-btn chat">Learn
                                     More</a>
                             </div>
                         </div>
@@ -508,7 +508,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="text-center"> <a href="../blogs/index.htm" class="primary-btn">Explore More</a> </div>
+                <div class="text-center"> <a href="../blogs.php" class="primary-btn">Explore More</a> </div>
             </div>
         </section>
         <section class="section s7" style="background:none !important;" data-aos="fade-in" data-aos-duration="2000">

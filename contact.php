@@ -5,9 +5,8 @@
             <div class="col-md-5 left-side">
                 <div class="footer-rfp form-style">
                     <div class="heading" data-aos="fade-down" data-aos-duration="2000">
-                        <h2 style="color:#fff;">Contact Form</h2>
-                        <p style="color:#fff;">Have a concern or query? Fill out the form below, and you’ll get
-                            a swift response.</p>
+                        <h2 style="color:#fff;">Get in Touch</h2>
+                        <p style="color:#fff;">Have a question or need assistance? Fill out the form below, and our team will get back to you promptly.</p>
                     </div>
                     <div class="form-body" id="hero-form" data-aos="fade-right" data-aos-duration="2000">
                         <form class="entryform">

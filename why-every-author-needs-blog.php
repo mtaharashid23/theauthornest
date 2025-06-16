@@ -136,7 +136,7 @@
                             platform for your other ventures. It should have a good design and be functional with
                             features like e-commerce integration, event calendars, and more.</p>
                         <div class="blog-cta-box">
-                            <h3>Ready to start your self-publishing journey? HOBs provides the technical support you
+                            <h3>Ready to start your self-publishing journey? The Author Nest provides the technical support you
                                 need to guide your manuscript from concept to publication, ensuring a smooth process and
                                 a book readily available in the market for your readers</h3>
                             <a class="cta-btn" href="request-free-proposal.php">Learn More</a>

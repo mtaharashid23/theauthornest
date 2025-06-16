@@ -256,14 +256,7 @@
                                 <a href="#rfp-top" class="talk-chat">Request a Quote</a>
                             </div>
                         </div>
-                    </div>
-                    <!-- <p class="mt-5"><span style="color:#ef1012;">** </span>The packages quoted on this page are for
-                        standard projects. Your requirements such as the complexity, the industry, and quality may
-                        necessitate custom pricing. To get an accurate quote, please call toll free <a
-                            href="tel:+13239168484" style="color:#ef1012;">+1 (323) 916 8484</a>,
-                        start our <a href="javascript:;" onclick="setButtonURL()" style="color:#ef1012;">live chat</a>,
-                        or fill out a <a href="book-writing-services/#request" style="color:#ef1012;">request for
-                            proposal</a>.</p> -->
+                    </div>                
                 </div>
             </div>
         </section>
@@ -364,7 +357,7 @@
                         </div>
                         <div class="banner-btns justify-content-center">
                             <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                            <button href="#rfp-top" class="talk-chat" onclick="setButtonURL()"> Start a Live
+                            <button href="#rfp-top" class="talk-chat chat"> Start a Live
                                 Chat</button>
                         </div>
                     </div>

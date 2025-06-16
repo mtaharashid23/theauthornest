@@ -90,7 +90,7 @@
 <section class="section s3 audio-com" data-aos="fade-in" data-aos-duration="2000">
     <div class="container">
         <div class="heading text-center">
-            <h2>Listen Up: What Makes HOBs' Audiobook Services Exceptional?</h2>
+            <h2>Listen Up: What Makes The Author Nest' Audiobook Services Exceptional?</h2>
         </div>
         <div class="row ttff">
             <div class="col-md-3">
@@ -158,7 +158,7 @@
                 </div>
                 <div class="banner-btns justify-content-center">
                     <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                    <button href="#rfp-top" class="talk-chat" onclick="setButtonURL()"> Start a Live
+                    <button href="#rfp-top" class="talk-chat chat"> Start a Live
                         Chat</button>
                 </div>
             </div>
@@ -266,14 +266,7 @@
                         <a href="#rfp-top" class="talk-chat">Learn More</a>
                     </div>
                 </div>
-            </div>
-            <!-- <p class="mt-5"><span style="color:#ef1012;">** </span>The packages quoted on this page are for
-                        standard projects. Your requirements such as the complexity, the industry, and quality may
-                        necessitate custom pricing. To get an accurate quote, please call toll free <a
-                            href="tel:+13239168484" style="color:#ef1012;">+1 (323) 916 8484</a>,
-                        start our <a href="javascript:;" onclick="setButtonURL()" style="color:#ef1012;">live chat</a>,
-                        or fill out a <a href="book-writing-services/#request" style="color:#ef1012;">request for
-                            proposal</a>.</p> -->
+            </div>           
         </div>
     </div>
 </section>
@@ -366,7 +359,7 @@
     <div class="container">
         <div class="heading text-center">
             <h2>Genre-Based Audiobook Production: Find Your Fit!</h2>
-            <p>Transform your book into an audiobook with HOBs, where we specialize in a broad spectrum of
+            <p>Transform your book into an audiobook with The Author Nest, where we specialize in a broad spectrum of
                 genres:</p>
         </div>
         <div class="market-book-slider">

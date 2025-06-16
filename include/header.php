@@ -96,7 +96,7 @@
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                                 <li class="contact-btn">
-                                    <button onclick="setButtonURL()">Live Chat</button>
+                                    <button class="chat">Live Chat</button>
                                 </li>
                             </ul>
                         </div>

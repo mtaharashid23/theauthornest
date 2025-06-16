@@ -103,7 +103,7 @@
                         <p>However, when it's time to prepare your manuscript for publishing, you'll want to put some
                             thought into your font choices and text alignment. Here's what you should keep in mind</p>
                         <div class="blog-cta-box">
-                            <h3>Looking to publish your book? HOBs can help you prepare and format your manuscript like
+                            <h3>Looking to publish your book? The Author Nest can help you prepare and format your manuscript like
                                 a pro, ensuring it’s ready for a successful launch.</h3>
                             <a class="cta-btn" href="request-free-proposal.php">Learn More</a>
                         </div>

@@ -93,7 +93,7 @@
         <section class="section s3 special-secc" data-aos="fade-in" data-aos-duration="2000">
             <div class="container printing-com">
                 <div class="heading text-center">
-                    <h2>Why Print Your Book with HOBs?</h2>
+                    <h2>Why Print Your Book with The Author Nest?</h2>
                 </div>
                 <div class="row ttff">
                     <div class="col-md-3">
@@ -160,7 +160,7 @@
                         </div>
                         <div class="banner-btns justify-content-center">
                             <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                            <button href="#rfp-top" class="talk-chat" onclick="setButtonURL()"> Start a Live
+                            <button href="#rfp-top" class="talk-chat chat"> Start a Live
                                 Chat</button>
                         </div>
                     </div>

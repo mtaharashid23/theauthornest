@@ -136,7 +136,7 @@
                     <div class="col-md-6">
                         <div class="heading last-sec-meta">
                             <h2>From Concept to Creation: Your Book’s Visual Story Begins Here!</h2>
-                            <div class=" mt-5"> <button onclick="setButtonURL()" class="primary-btn">Chat
+                            <div class=" mt-5"> <button class="primary-btn chat">Chat
                                     With Our
                                     Expert Book Illustrator</button>
                             </div>
@@ -224,14 +224,7 @@
                                 <a href="#rfp-top" class="talk-chat">Learn More</a>
                             </div>
                         </div>
-                    </div>
-                    <!-- <p class="mt-5"><span style="color:#ef1012;">** </span>The packages quoted on this page are for
-                        standard projects. Your requirements such as the complexity, the industry, and quality may
-                        necessitate custom pricing. To get an accurate quote, please call toll free <a
-                            href="tel:+13239168484" style="color:#ef1012;">+1 (323) 916 8484</a>,
-                        start our <a href="javascript:;" onclick="setButtonURL()" style="color:#ef1012;">live chat</a>,
-                        or fill out a <a href="book-writing-services/#request" style="color:#ef1012;">request for
-                            proposal</a>.</p> -->
+                    </div>                    
                 </div>
             </div>
         </section>
