@@ -19,9 +19,9 @@
                             like Audible and iTunes.</span></li>
                 </ul>
                 <div class="banner-btns"> <a href="#request" class="talk-chat"> Get Started
-                    </a> <a href="tel:+1 (323) 916 8484" class="talk-phone phons-mobile"><i
+                    </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
                             class="fa-solid fa-phone"></i>+1
-                        (323) 916 8484</a> </div>
+                        (206) 203 7424</a> </div>
             </div>
             <div class="col-md-5 div-img"><img width="501" style="width:60%;" height="611" alt="Book Cover"
                     src="img/audio-new.png">
@@ -136,24 +136,28 @@
 <section class="section multi">
     <div class="container">
         <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
-            <h2>Publish a Wide Variety of Books</h2>
+            <h2>We Publish Across Every Genre</h2>
+            <p>
+                No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
+                books, including:
+            </p>
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="multiple-books text-center">
                     <ul>
                         <li>Business & Investing</li>
-                        <li>Children's Book</li>
+                        <li>Children’s Books</li>
                         <li>Non-Fiction</li>
                         <li>Literature & Fiction</li>
                         <li>Mystery, Thriller & Suspense</li>
                         <li>Science Fiction</li>
                         <li>Teens & Young Adults</li>
                         <li>Comics & Graphic Novels</li>
-                        <li>Biography</li>
+                        <li>Biographies</li>
                         <li>Romance</li>
                         <li>Short Stories</li>
-                        <li class="and-more">...and more!</li>
+                        <li class="and-more">...and many more!</li>
                     </ul>
                 </div>
                 <div class="banner-btns justify-content-center">
@@ -280,8 +284,8 @@
             <img src="img/audio-logos.webp" data-aos="fade-up" data-aos-duration="2000" alt="">
             <div class="banner-btns justify-content-center"> <a href="request-free-proposal.php"
                     class="talk-chat extra-ress-2"> Get Started </a>
-                <a href="tel:+1 (323) 916 8484" class="talk-phone exta-ress"><i class="fa-solid fa-phone"></i>+1
-                    (323) 916 8484</a> </div>
+                <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i class="fa-solid fa-phone"></i>+1
+                    (206) 203 7424</a> </div>
         </div>
     </div>
 </section>
@@ -449,9 +453,9 @@
                     </ul>
                     <div class="banner-btns"> <a href="request-free-proposal.php" class="talk-chat extra-ress-2">
                             Get Started
-                        </a> <a href="tel:+1 (323) 916 8484" class="talk-phone exta-ress"><i
+                        </a> <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i
                                 class="fa-solid fa-phone"></i>+1
-                            (323) 916 8484</a> </div>
+                            (206) 203 7424</a> </div>
                 </div>
             </div>
             <div class="col-md-4">
@@ -479,9 +483,9 @@
                     </p>
                     <div class="banner-btns"> <a href="request-free-proposal.php" class="talk-chat extra-ress-2">
                             Get Started
-                        </a> <a href="tel:+1 (323) 916 8484" class="talk-phone exta-ress"><i
+                        </a> <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i
                                 class="fa-solid fa-phone"></i>+1
-                            (323) 916 8484</a> </div>
+                            (206) 203 7424</a> </div>
                 </div>
             </div>
         </div>
@@ -505,9 +509,9 @@
                             </ul> -->
                     <div class="banner-btns"> <a href="request-free-proposal.php" class="talk-chat extra-ress-2">
                             Get Started
-                        </a> <a href="tel:+1 (323) 916 8484" class="talk-phone exta-ress"><i
+                        </a> <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i
                                 class="fa-solid fa-phone"></i>+1
-                            (323) 916 8484</a> </div>
+                            (206) 203 7424</a> </div>
                 </div>
             </div>
             <div class="col-md-4">

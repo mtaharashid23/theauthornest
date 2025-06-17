@@ -16,9 +16,9 @@
                         </ul>
                         <div class="banner-btns"> <a href="request-free-proposal.php"
                                 class="talk-chat extra-ress-2"> Get
-                                Started </a> <a href="tel:+1 (323) 916 8484" class="talk-phone phons-mobile"><i
+                                Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
                                     class="fa-solid fa-phone"></i>+1
-                                (323) 916 8484</a> </div>
+                                (206) 203 7424</a> </div>
                     </div>
                     <div class="col-md-5 div-img">
                         <img alt="" width="446" height="596" src="img/illustration-banner-img.webp">

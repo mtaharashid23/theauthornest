@@ -28,7 +28,7 @@
                     <ul>
                         <li>
                             <span class="nitro-lazy"><i class="fa-solid fa-phone"></i></span>
-                            <a href="tel:+1 (323) 916 8484"> +1 (323) 916 8484</a>
+                            <a href="tel:+1 (206) 203 7424"> +1 (206) 203 7424</a>
                         </li>
                         <span class="line"></span>
                         <li>
@@ -49,8 +49,8 @@
                     </div>
                     <div class="header-right">
                         <div class="header-contact hide-desktop">
-                            <a href="tel:+1 (323) 916 8484" class="primary-btn">
-                                <i class="fa-solid fa-phone"></i> +1 (323) 916 8484
+                            <a href="tel:+1 (206) 203 7424" class="primary-btn">
+                                <i class="fa-solid fa-phone"></i> +1 (206) 203 7424
                             </a>
                         </div>
                         <div class="primary-menu menu-style">

@@ -55,12 +55,11 @@
                         <h3>Contact</h3>
                         <ul>
                             <li><span class="nitro-lazy"><i class="fa-solid fa-phone"></i></span><a
-                                    href="tel:+1 (323) 916 8484">+1 (323) 916 8484</a></li>
+                                    href="tel:+1 (206) 203 7424">+1 (206) 203 7424</a></li>
                             <li><span><i class="fa-solid fa-envelope"></i></span><a
                                     href="mailto:info@theauthornest.com">info@theauthornest.com</span></a>
                             </li>
-                            <li><span><i class="fa-solid fa-location-dot"></i></span><a href="javascript:;">117 E
-                                    Broadway, Glendale, CA 91205</a></li>
+                            <li><span><i class="fa-solid fa-location-dot"></i></span><a href="javascript:;">150 EB ST LBBY 1810 SMB 86780 CASPER, WY 82601</a></li>
                         </ul>
                     </div>
                     <ul class="d-flex">

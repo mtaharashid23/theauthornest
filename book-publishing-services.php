@@ -23,9 +23,9 @@
                             <img alt="a img" src="img/addi-10.png">
                         </div> -->
                         <div class="banner-btns"> <a href="#request" class="talk-chat extra-ress-2"> Get
-                                Started </a> <a href="tel:+1 (323) 916 8484" class="talk-phone phons-mobile"><i
+                                Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
                                     class="fa-solid fa-phone"></i>+1
-                                (323) 916 8484</a> </div>
+                                (206) 203 7424</a> </div>
                     </div>
                     <div class="col-md-5 div-img">
                         <img alt="" width="446" height="596" src="img/publishing-banner.webp">
@@ -259,37 +259,41 @@
             </div>
         </section>
         <section class="section multi">
-            <div class="container">
-                <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
-                    <h2>Publish a Wide Variety of Books</h2>
+    <div class="container">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+            <h2>We Publish Across Every Genre</h2>
+            <p>
+                No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
+                books, including:
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="multiple-books text-center">
+                    <ul>
+                        <li>Business & Investing</li>
+                        <li>Children’s Books</li>
+                        <li>Non-Fiction</li>
+                        <li>Literature & Fiction</li>
+                        <li>Mystery, Thriller & Suspense</li>
+                        <li>Science Fiction</li>
+                        <li>Teens & Young Adults</li>
+                        <li>Comics & Graphic Novels</li>
+                        <li>Biographies</li>
+                        <li>Romance</li>
+                        <li>Short Stories</li>
+                        <li class="and-more">...and many more!</li>
+                    </ul>
                 </div>
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <div class="multiple-books text-center">
-                            <ul>
-                                <li>Business & Investing</li>
-                                <li>Children's Book</li>
-                                <li>Non-Fiction</li>
-                                <li>Literature & Fiction</li>
-                                <li>Mystery, Thriller & Suspense</li>
-                                <li>Science Fiction</li>
-                                <li>Teens & Young Adults</li>
-                                <li>Comics & Graphic Novels</li>
-                                <li>Biography</li>
-                                <li>Romance</li>
-                                <li>Short Stories</li>
-                                <li class="and-more">...and more!</li>
-                            </ul>
-                        </div>
-                        <div class="banner-btns justify-content-center">
-                            <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                            <button href="#rfp-top" class="talk-chat chat"> Start a Live
-                                Chat</button>
-                        </div>
-                    </div>
+                <div class="banner-btns justify-content-center">
+                    <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
+                    <button href="#rfp-top" class="talk-chat chat"> Start a Live
+                        Chat</button>
                 </div>
             </div>
-        </section>
+        </div>
+    </div>
+</section>
         <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="2000"
             style="padding:100px 0;">
             <div class="container">

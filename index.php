@@ -13,8 +13,8 @@
                 </p>
                 <div class="banner-btns">
                     <a href="#rfp-top" class="talk-chat"> Get Started </a>
-                    <a href="tel:+1 (323) 916 8484" class="talk-phone phons-mobile">
-                        <i class="fa-solid fa-phone"></i> +1 (323) 916 8484
+                    <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile">
+                        <i class="fa-solid fa-phone"></i> +1 (206) 203 7424
                     </a>
                 </div>
             </div>

@@ -48,7 +48,7 @@
 </section>
 <section class="lives">
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row">
             <div class="col-md-6">
                 <div class="about-one-img">
                     <img src="img/about2.webp" alt="">

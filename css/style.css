@@ -6076,3 +6076,13 @@ label.error {
     color: #EF1012;
     margin: .25rem 0 0;
 }
+
+.about-one-img {
+    height: 100%;
+}
+
+.about-one-img > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

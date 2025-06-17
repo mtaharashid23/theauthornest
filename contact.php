@@ -67,8 +67,7 @@
                         </div>
                         <div class="details">
                             <span class="det-head">Phone:</span>
-                            <span class="det-head-sub"> <a href="tel:+1 (323) 916 8484">+1 (323) 916
-                                    8484</a></span>
+                            <span class="det-head-sub"> <a href="tel:+1 (206) 203 7424">+1 (206) 203 7424</a></span>
 
                         </div>
                     </li>
@@ -78,7 +77,7 @@
                         </div>
                         <div class="details">
                             <span class="det-head">Address:</span>
-                            <span class="det-head-sub">117 E Broadway, Glendale, CA 91205</span>
+                            <span class="det-head-sub">150 EB ST LBBY 1810 SMB 86780 CASPER, WY 82601</span>
                         </div>
                     </li>
                 </ul>
