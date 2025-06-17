@@ -9,7 +9,7 @@
                                                 <h1 class="mb-0 text-center" style="    margin-bottom: 30px;">
                             Thank you for your response. We will contact you as soon as possible!
                         </h1>
-                                                <a href="/" class="btn-sm btn btn-solid text-uppercase round btn-bordered border-thin font-size-18 font-weight-semibold mt-4 mx-auto d-table" style="    background: #EF1012 !important;
+                                                <a href="/" class="btn-sm btn btn-solid text-uppercase round btn-bordered border-thin font-size-18 font-weight-semibold mt-4 mx-auto d-table" style="    background: #000053 !important;
     padding: .7rem 2rem;
     color: #fff;
     border-radius: 50px;

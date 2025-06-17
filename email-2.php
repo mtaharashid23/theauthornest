@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           overflow: hidden;
         }
         .email-header {
-          background-color: #EF1012;
+          background-color: #000053;
           color: white;
           padding: 20px;
           text-align: center;
@@ -50,7 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           color: #777777;
         }
         .highlight {
-          color: #EF1012;
+          color: #000053;
           font-weight: bold;
         }
       </style>

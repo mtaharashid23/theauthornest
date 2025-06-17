@@ -6,7 +6,7 @@
                 <h1 class="heading">Affordable Book Editing Services</h1>
                 <h2 class="starting-p">Starting at just <span class="">$4.95</span> per page.</h2>
                 <p style="font-size: 25px;">Ensure your manuscript is flawless with our comprehensive editing
-                    solutions—all in a single, <span style="color:#EF1012; font-weight:900;">streamlined process</span>.
+                    solutions—all in a single, <span style="color:#000053; font-weight:900;">streamlined process</span>.
                 </p>
                 <ul class="list-style for-mul">
                     <li> <i class="fa-solid fa-circle-check"></i> <span>Thorough proofreading and professional
@@ -19,9 +19,8 @@
                     </li>
                 </ul>
                 <div class="banner-btns"> <a href="#request" class="talk-chat extra-ress-2"> Get
-                        Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                            class="fa-solid fa-phone"></i> +1
-                        (206) 203 7424</a> </div>
+                        Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                            class="fa-solid fa-phone"></i> +1 (206) 388 2791</a> </div>
             </div>
             <div class="col-md-5 div-img">
                 <img alt="" width="446" height="596" src="img/editing-banner.webp">
@@ -172,7 +171,7 @@
                     <h3><span style="color:#000; font-size:14px;">Proofreading </span><span>$</span>4.95<span
                             style="color:#000; font-size:14px;">/Page </span>
                     </h3>
-                    <p style="color: #ef1012; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> For a grammatically correct, typo-free book edited by seasoned
                         proofreaders</p>
                     <ul>
@@ -193,7 +192,7 @@
                 <div class="pack-1">
                     <h3><span style="color:#000; font-size:14px;">Copy Editing </span><span>$</span>9.95<span
                             style="color:#000; font-size:14px;">/Page </span></h3>
-                    <p style="color: #ef1012; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> For a surface-level edit by an expert editor to refine and elevate your
                         book</p>
                     <ul>
@@ -219,7 +218,7 @@
                                 <span>Bundle</span></h4> -->
                     <h3><span style="color:#000; font-size:14px;">Line Editing </span><span>$</span>14.95<span
                             style="color:#000; font-size:14px;">/Page </span></h3>
-                    <p style="color: #ef1012; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> For in-depth edit that addresses grammar, writing style, and story
                         structure.</p>
                     <ul>

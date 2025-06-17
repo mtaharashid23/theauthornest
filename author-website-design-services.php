@@ -4,7 +4,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-7 div-text">
                         <h1 class="heading">Get Noticed with Custom <span>Author Website Design </span>Services</h1>
-                        <h2 class="starting-p">Starting at Just <span class="">$999 </span>Affordable, Professional Web
+                        <h2 class="starting-p">Starting at Just <span class="">$499 </span>Affordable, Professional Web
                             Design for Authors!
                         </h2>
                         <ul class="list-style for-mul">
@@ -17,9 +17,8 @@
                         </ul>
                         <div class="banner-btns"> <a href="request-free-proposal.php"
                                 class="talk-chat extra-ress-2"> Get
-                                Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                                    class="fa-solid fa-phone"></i>+1
-                                (206) 203 7424</a> </div>
+                                Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                                    class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                     </div>
                     <div class="col-md-5 div-img">
                         <img alt="" width="446" height="596" src="img/author-website-banner-img.webp">
@@ -260,7 +259,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #EF1012;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">FAQs </h2>

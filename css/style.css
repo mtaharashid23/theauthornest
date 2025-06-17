@@ -36,7 +36,7 @@ h1 {
     font-family: "Lexend Deca", sans-serif;
     font-size: 2rem;
     font-weight: 700;
-    color: #EF1012;
+    color: #000053;
     letter-spacing: .5rem;
     line-height: 1;
     display: flex;
@@ -89,7 +89,7 @@ h1 {
 }
 
 .banner-btns .talk-chat {
-    background: #EF1012;
+    background: #000053;
     color: #ffffff !important;
 }
 
@@ -109,7 +109,7 @@ h1 {
 }
 
 .s2 .rfp-section {
-    background: #EF1012;
+    background: #000053;
     border-radius: 1.25rem;
     padding: 0 2.5rem;
 }
@@ -249,7 +249,7 @@ a.primary-btn i {
     --secondary-2: #231f20;
     --text-1: #fff;
     --white: #fff;
-    --black: #EF1012;
+    --black: #000053;
 }
 
 * {
@@ -336,7 +336,7 @@ img {
 .list-style>li>span:before {
     position: absolute;
     content: "";
-    background: #EF1012;
+    background: #000053;
     width: 1.875rem;
     height: 2px;
     top: 1rem;
@@ -344,7 +344,7 @@ img {
 }
 
 .list-style>li>i {
-    color: #EF1012;
+    color: #000053;
     margin: .3rem 0 0;
 }
 
@@ -366,7 +366,7 @@ img {
 
 .primary-btn {
     font-family: "Lexend Deca", sans-serif;
-    background: #EF1012;
+    background: #000053;
     color: #ededed;
     display: inline-flex;
     align-items: center;
@@ -488,7 +488,7 @@ textarea {
     overflow: hidden;
 } */
 .header-bottom .site-branding img {
-    width: 150px;
+    width: 200px;
 }
 
 .header-top {
@@ -502,7 +502,7 @@ textarea {
     justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
-    background: #EF1012;
+    background: #000053;
     float: right;
     padding: .3rem .6rem !important;
     border-radius: 0 0 0 1.125rem;
@@ -524,7 +524,7 @@ span.line {
     .header-top ul:before {
         position: absolute;
         content: "";
-        background: #EF1012;
+        background: #000053;
         width: 100vw;
         height: 100%;
         top: 0;
@@ -552,11 +552,11 @@ span.line {
     border-radius: 50%;
     margin: 0 .3rem 0 0;
     border: 2px solid var(--white);
-    box-shadow: inset 0 0 0 2px #EF1012;
+    box-shadow: inset 0 0 0 2px #000053;
 }
 
 .header-top ul>li>span>i {
-    color: #EF1012;
+    color: #000053;
 }
 
 .header-bottom>.container {
@@ -592,7 +592,7 @@ li.dropdown.first {
 .banner-btns button:hover {
     background: #fff !important;
     border: none;
-    color: #EF1012;
+    color: #000053;
 }
 
 .banner-btns button {
@@ -616,14 +616,14 @@ li.dropdown.first {
     border-radius: 50px;
     font-size: .875rem;
     font-weight: 500;
-    background: #ef1012;
+    background: #000053;
     border: 0;
 }
 
 .header-bottom .menu-style>ul>.contact-btn>button:hover {
     background: #fff;
-    border: 2px solid #ef1012;
-    color: #ef1012;
+    border: 2px solid #000053;
+    color: #000053;
 }
 
 
@@ -805,7 +805,7 @@ ul.sub-menu.dropdown-list li a {
 
     .responsive-menu .menu-span-2 {
         width: 2.6rem;
-        background: #EF1012;
+        background: #000053;
     }
 
     .responsive-menu .menu-span-3 {
@@ -1006,7 +1006,7 @@ ul.sub-menu.dropdown-list li a {
     font-family: "Lexend Deca", sans-serif;
     font-size: .875rem;
     font-weight: 600;
-    color: #EF1012;
+    color: #000053;
     padding: 6px 10px 4px 10px;
     border-radius: 1.125rem;
     line-height: 1;
@@ -1025,7 +1025,7 @@ ul.sub-menu.dropdown-list li a {
     font-size: 1.125rem;
     font-weight: 500;
     width: 100%;
-    background: #EF1012;
+    background: #000053;
     border: 0;
     padding: 1.2rem;
     border-radius: 50px;
@@ -1300,7 +1300,7 @@ ul.sub-menu.dropdown-list li a {
 
 .slick-dots li.slick-active button:before {
     opacity: .75;
-    color: #ef1012;
+    color: #000053;
 }
 
 .s1.home-banner {
@@ -1320,7 +1320,7 @@ ul.sub-menu.dropdown-list li a {
     font-family: "Lexend Deca", sans-serif;
     font-size: 2rem;
     font-weight: 700;
-    color: #EF1012;
+    color: #000053;
     letter-spacing: .5rem;
     line-height: 1;
     display: flex;
@@ -1367,14 +1367,14 @@ ul.sub-menu.dropdown-list li a {
 }
 
 .banner-btns .talk-chat {
-    background: #EF1012;
+    background: #000053;
     color: #ededed;
 }
 
 .banner-btns .talk-chat:hover {
     background: transparent;
-    color: #EF1012 !important;
-    border-color: #EF1012;
+    color: #000053 !important;
+    border-color: #000053;
 }
 
 .banner-btns .talk-phone {
@@ -1531,7 +1531,7 @@ img.vec3 {
 }
 
 .s2 .rfp-section {
-    background: #EF1012;
+    background: #000053;
     border-radius: 1.25rem;
     padding: 0 2.5rem;
 }
@@ -1723,7 +1723,11 @@ img.vec3 {
 }
 
 .resource-img img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
     transition: .5s;
+    border-radius: 20px;
 }
 
 .s5 {
@@ -1815,7 +1819,7 @@ img.vec3 {
     height: 0;
     border-top: 40px solid transparent;
     border-bottom: 40px solid transparent;
-    border-right: 50px solid #EF1012;
+    border-right: 50px solid #000053;
     border-radius: 50%;
     position: absolute;
     content: "";
@@ -1866,7 +1870,7 @@ img.vec3 {
 }
 
 .section.s7 {
-    background: #EF1012;
+    background: #000053;
     padding: 3rem 0;
 }
 
@@ -1923,7 +1927,7 @@ img.vec3 {
 }
 
 .s8 .rfp-section .form-style .form-head>h3 {
-    color: #EF1012;
+    color: #000053;
     font-weight: 600;
 }
 
@@ -1973,7 +1977,7 @@ section.section.s9 {
 }
 
 .div-text span {
-    color: #EF1012;
+    color: #000053;
 }
 
 @media (min-width: 992px) {
@@ -1983,7 +1987,7 @@ section.section.s9 {
 }
 
 .section.s10 {
-    background: #EF1012;
+    background: #000053;
     padding: 3rem 0;
 }
 
@@ -2102,12 +2106,12 @@ span.icon-count>p {
 }
 
 :root {
-    --primary: #d92c2c;
+    --primary: #000053;
     --secondary: #fff1e4;
     --secondary-2: #231f20;
     --text-1: #fff;
     --white: #fff;
-    --black: #EF1012;
+    --black: #000053;
     --transition: all .3s ease-in-out;
 }
 
@@ -2174,7 +2178,7 @@ i {
 * {
     scrollbar-width: thin;
     /* For Firefox */
-    scrollbar-color: #EF1012 #f1f1f1;
+    scrollbar-color: #000053 #f1f1f1;
     /* For Firefox */
 }
 
@@ -2185,7 +2189,7 @@ i {
 }
 
 *::-webkit-scrollbar-thumb {
-    background-color: #EF1012;
+    background-color: #000053;
     background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%, transparent 75%, transparent);
 }
 
@@ -2240,7 +2244,7 @@ img {
 .list-style>li>span:before {
     position: absolute;
     content: "";
-    background: #EF1012;
+    background: #000053;
     width: 1.875rem;
     height: 2px;
     top: 1rem;
@@ -2248,7 +2252,7 @@ img {
 }
 
 .list-style>li>i {
-    color: #EF1012;
+    color: #000053;
     margin: .3rem 0 0;
 }
 
@@ -2293,7 +2297,7 @@ img {
 
 .primary-btn {
     font-family: "Lexend Deca", sans-serif;
-    background: #EF1012;
+    background: #000053;
     color: #ffffff;
     display: inline-flex;
     align-items: center;
@@ -2307,8 +2311,8 @@ img {
 
 .primary-btn:hover {
     background: transparent;
-    border-color: #EF1012;
-    color: #EF1012;
+    border-color: #000053;
+    color: #000053;
 }
 
 .secondary-btn {
@@ -2638,7 +2642,7 @@ button {
     justify-content: center;
     flex-wrap: wrap;
     gap: 1rem;
-    background: #EF1012;
+    background: #000053;
     float: right;
     padding: .3rem .6rem !important;
     border-radius: 0 0 0 1.125rem;
@@ -2660,7 +2664,7 @@ span.line {
     .header-top ul:before {
         position: absolute;
         content: "";
-        /* background: #EF1012; */
+        /* background: #000053; */
         width: 100%;
         height: 100%;
         top: 0;
@@ -2690,11 +2694,11 @@ span.line {
     border-radius: 50%;
     margin: 0 .3rem 0 0;
     border: 2px solid var(--white);
-    box-shadow: inset 0 0 0 2px #EF1012;
+    box-shadow: inset 0 0 0 2px #000053;
 }
 
 .header-top ul>li>span>i {
-    color: #EF1012;
+    color: #000053;
 }
 
 .header-bottom>.container {
@@ -2705,7 +2709,7 @@ span.line {
 }
 
 .header-bottom .site-branding {
-    margin: 10px 0;
+    margin: 0 0 10px;
 }
 
 .menu-style>ul {
@@ -2724,11 +2728,11 @@ span.line {
 }
 
 .menu-style>ul>li>a:hover {
-    color: #EF1012;
+    color: #000053;
 }
 
 .header-bottom .menu-style>ul>.contact-btn>a {
-    background: #EF1012 !important;
+    background: #000053 !important;
     padding: .7rem 2rem;
     color: #fff;
     border-radius: 50px;
@@ -2737,7 +2741,7 @@ span.line {
 }
 
 .header-bottom .menu-style>ul>.contact-btn>a:hover {
-    background: #EF1012;
+    background: #000053;
     color: var(--white);
 }
 
@@ -2759,7 +2763,7 @@ a.primary-btn i {
 }
 
 .reviews-meta h2 span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .reviews-meta img {
@@ -3072,12 +3076,12 @@ a.primary-btn i {
 
 .para ul li i,
 .para b {
-    color: #EF1012 !important;
+    color: #000053 !important;
     margin-right: 5px;
 }
 
 .para ul li a {
-    color: #EF1012 !important;
+    color: #000053 !important;
 }
 
 ul.inline-list {
@@ -3124,7 +3128,7 @@ ul.sub-menu.dropdown-list li a {
 }
 
 ul.sub-menu.dropdown-list li:hover a {
-    color: #EF1012;
+    color: #000053;
     border-left: 5px solid;
 }
 
@@ -3235,7 +3239,7 @@ ul.sub-menu.dropdown-list li:hover a {
 
     .responsive-menu .menu-span-2 {
         width: 2.6rem;
-        background: #EF1012;
+        background: #000053;
     }
 
     .responsive-menu .menu-span-3 {
@@ -3470,7 +3474,7 @@ footer.footer-main {
 .form-style .form-body .form-group input:focus,
 .form-style .form-body .form-group textarea:focus,
 .form-style .form-body .form-group select:focus {
-    border-color: #EF1012 !important;
+    border-color: #000053 !important;
 }
 
 .form-style .form-body .form-group:not(:last-child) {
@@ -3522,7 +3526,7 @@ footer.footer-main {
     font-family: "Lexend Deca", sans-serif;
     font-size: .875rem;
     font-weight: 600;
-    color: #EF1012;
+    color: #000053;
     padding: 6px 10px 4px 10px;
     border-radius: 1.125rem;
     line-height: 1;
@@ -3541,7 +3545,7 @@ footer.footer-main {
     font-size: 1.125rem;
     font-weight: 500;
     width: 100%;
-    background: #EF1012;
+    background: #000053;
     border: 0;
     padding: 1.2rem;
     border-radius: 50px;
@@ -3554,8 +3558,8 @@ footer.footer-main {
 
 .form-style .form-submit>.form-btn:hover {
     background: #fff;
-    color: #EF1012;
-    border: 2px solid #EF1012;
+    color: #000053;
+    border: 2px solid #000053;
 }
 
 .footer-menu.menu-style>ul {
@@ -4131,7 +4135,7 @@ ul.books-list li {
 .market-book-slider .slide-flex .slide-details:before {
     position: absolute;
     content: "";
-    background-image: linear-gradient(to right, var(--secondary-2) 50%, #ef1012 50%);
+    background-image: linear-gradient(to right, var(--secondary-2) 50%, #000053 50%);
     width: 50px;
     height: 100%;
     left: 0;
@@ -4399,7 +4403,7 @@ footer .logo-sec p {
 }
 
 .links-sec h3 {
-    color: #ef1012;
+    color: var(--white);
     font-size: 30px;
 }
 
@@ -4413,7 +4417,7 @@ footer .logo-sec p {
 }
 
 .links-sec ul li a:hover {
-    color: #ef1012;
+    color: #000053;
 }
 
 .contact-sec ul>li>span {
@@ -4429,7 +4433,7 @@ footer .logo-sec p {
 }
 
 .contact-sec ul>li>span>i {
-    color: #EF1012;
+    color: #000053;
 }
 
 .contact-sec img {
@@ -4461,14 +4465,14 @@ footer .logo-sec p {
 .aff-price p {
     font-size: 17px;
     font-weight: 500;
-    color: #ef1012;
+    color: #000053;
 }
 
 .pack-1 {
     background: #f5f5f5;
     padding: 30px;
     border-radius: 10px;
-    border-top: 3px solid #ef1012;
+    border-top: 3px solid #000053;
     height: 660px;
 }
 
@@ -4506,7 +4510,7 @@ footer .logo-sec p {
 
 .pack-1 span {
     font-weight: 500;
-    color: #ef1012;
+    color: #000053;
 }
 
 .pack-1 h3 span {
@@ -4544,7 +4548,7 @@ footer .logo-sec p {
 }
 
 .lives-meta h2 span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .pack-1 ul li::before {
@@ -4555,16 +4559,16 @@ footer .logo-sec p {
     width: 18px;
     height: 18px;
     background-image: url("../img/icon-check.webp");
-    filter: hue-rotate(184deg);
+    filter: hue-rotate(90deg);
     background-size: cover;
     background-position: center;
-    color: #ef1012;
+    color: #000053;
 }
 
 .pack-1 ul li i {
-    color: #ef1012;
+    color: #000053;
     margin-right: 10px;
-    background: #ef10122e;
+    background: #0000532e;
     border-radius: 50%;
     font-size: 20px;
 }
@@ -4580,11 +4584,11 @@ li.head::before {
 }
 
 .pricing h2 span {
-    color: #ef1012;
+    color: #000053;
 }
 
 .lower-pack {
-    background: #ef1012;
+    background: #000053;
 }
 
 .lower-pack .heading p span {
@@ -4644,15 +4648,15 @@ li.head::before {
     width: 45px;
     height: 45px;
     margin-right: 20px;
-    border: 2px solid #ef1012;
+    border: 2px solid #000053;
     border-radius: 40px;
-    color: #ef1012;
+    color: #000053;
     text-align: center;
     line-height: 40px;
 }
 
 .last-sec-meta h2 span {
-    color: #ef1012;
+    color: #000053;
 }
 
 .last-sec-meta h4 {
@@ -4698,15 +4702,15 @@ li.head::before {
 .qout a {
     color: #000;
     font-size: 16px;
-    border: 2px solid #ef1012;
+    border: 2px solid #000053;
     padding: 4px 20px 7px 20px;
     border-radius: 60px;
     font-weight: 600;
 }
 
 .qout a:hover {
-    color: #ef1012;
-    border: 2px solid #ef1012;
+    color: #000053;
+    border: 2px solid #000053;
     transition: 0.5s;
 }
 
@@ -4722,7 +4726,7 @@ li.head::before {
 }
 
 .printing-vid {
-    background: #ef1012;
+    background: #000053;
 }
 
 video {
@@ -4754,7 +4758,7 @@ video {
 }
 
 .com {
-    border: 1px solid #ef1012;
+    border: 1px solid #000053;
     border-radius: 10px;
     padding: 20px;
     height: 100%;
@@ -4766,14 +4770,14 @@ video {
 }
 
 .form-area {
-    border: 2px solid #ef1012;
+    border: 2px solid #000053;
     border-radius: 40px;
     margin-top: 40px;
     padding: 30px;
 }
 
 .form-head h2 span {
-    color: #ef1012;
+    color: #000053;
 
 }
 
@@ -4856,7 +4860,7 @@ video {
 }
 
 .audio-sec h2 span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .publication-sec {
@@ -4865,25 +4869,25 @@ video {
 
 .printing-page {
     font-size: 60px;
-    color: #ef1012;
+    color: #000053;
 }
 
 .heading-ani {
     color: #ffffff !important;
-    background: #ef1012;
+    background: #000053;
     border-radius: 10px;
     padding: 0px 20px;
 }
 
 .marketing-page {
     font-style: italic;
-    color: #ef1012;
+    color: #000053;
     font-weight: 700;
 }
 
 .audiobook-page {
     position: relative;
-    color: #EF1012;
+    color: #000053;
 }
 
 .audio-img {
@@ -4935,7 +4939,7 @@ video {
 }
 
 .reviews-main h5 span {
-    color: #ef1012;
+    color: #000053;
 }
 
 .review {
@@ -4943,7 +4947,7 @@ video {
     padding: 25px;
     background: #f7f7f7;
     border-radius: 10px;
-    border-top: 2px solid #ef1012;
+    border-top: 2px solid #000053;
 }
 
 .map-sec {
@@ -4978,7 +4982,7 @@ video {
 
 .review-name h4 {
     font-size: 15px;
-    color: #ef1012;
+    color: #000053;
 }
 
 .review-name p {
@@ -4990,14 +4994,14 @@ video {
 
 
 .review-name p span {
-    color: #ef1012;
+    color: #000053;
 }
 
 .about-page hr {
     margin: 0 auto;
     opacity: 1;
     width: 270px;
-    border: 2px solid #ef1012;
+    border: 2px solid #000053;
 }
 
 .about-one-img img {
@@ -5013,7 +5017,7 @@ video {
 }
 
 .about-page p span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .about-content,
@@ -5023,10 +5027,10 @@ video {
 }
 
 .cta-about {
-    background-image: url(../img/about-bg.webp);
     border-radius: 40px;
     padding: 30px;
     margin-top: 5rem;
+    background: var(--black);
 }
 
 .cta-meta button {
@@ -5044,11 +5048,11 @@ video {
 }
 
 .cta-meta h2 span {
-    color: #000000;
+    color: #fff;
 }
 
 .mision-meta h2 span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .mision-meta p {
@@ -5058,9 +5062,9 @@ video {
 .values {
     padding: 20px 0 50px;
     margin-top: 1rem;
-    background-image: url("../img/red-shade.webp");
     background-repeat: no-repeat;
     background-size: cover;
+    background-image: url(../img/banner-bg.webp);
 }
 
 .values-heading {
@@ -5068,11 +5072,11 @@ video {
 }
 
 .values-heading h2 span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .values-meta p {
-    color: #fff;
+    color: #000;
 }
 
 .values-meta h5 span {
@@ -5081,13 +5085,13 @@ video {
 }
 
 .values-meta h5 {
-    color: #fff;
+    color: var(--primary);
     font-size: 20px;
     margin-top: 40px;
 }
 
 .about-meta h2 span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .about-meta p {
@@ -5099,8 +5103,8 @@ video {
 }
 
 .portfolio-images ul li img {
+    aspect-ratio: 2/3;
     width: 80%;
-    height: 375px;
     margin: 0 auto;
     border-radius: 10px;
     /* box-shadow: 10px 30px 30px rgba(35, 31, 32, 80%); */
@@ -5491,11 +5495,11 @@ video {
     color: #220508;
     padding: 10px;
     border-radius: 10px;
-    border: 2px solid #d92c2c;
+    border: 2px solid #000053;
 }
 
 .multiple-books ul li.and-more {
-    color: #d92c2c;
+    color: #000053;
 }
 
 .addi-slider .published-box:after,
@@ -5525,7 +5529,7 @@ h2.starting-p {
 
 h2.starting-p span {
     font-weight: 800;
-    color: #ef1012;
+    color: #000053;
     font-size: 30px;
 }
 
@@ -5541,7 +5545,7 @@ span.blink-soft {
 
 .extra-cta {
     padding: 5rem 0 !important;
-    background: #ef1012;
+    background: #000053;
 }
 
 .extra-cta h2 {
@@ -5582,7 +5586,7 @@ section.sec_2 {
 }
 
 .sec_head h2 {
-    color: #EF1012;
+    color: #000053;
     font-size: 58px ;
 }
 
@@ -5600,7 +5604,7 @@ section.sec_2 {
 }
 
 .sec_head ul li.sec_li span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .sec_img img {
@@ -5714,7 +5718,7 @@ section.sec_5 {
 }
 
 .step_head h3 {
-    color: #EF1012;
+    color: #000053;
     font-weight: 600;
     font-size: 40px;
 }
@@ -5966,7 +5970,7 @@ section.sec_9 {
 }
 
 .cta_head button {
-    background: #ef1012;
+    background: #000053;
     padding: 8px;
     border-radius: 10px;
     color: #fff;
@@ -6004,7 +6008,7 @@ section.sec_9 {
 }
 
 .port-meta h2 span {
-    color: #EF1012;
+    color: #000053;
 }
 
 .home-com .hommie p,
@@ -6073,7 +6077,7 @@ h2#swal2-title {
 
 label.error {
     padding: 0 1.5rem;
-    color: #EF1012;
+    color: #000053;
     margin: .25rem 0 0;
 }
 
@@ -6085,4 +6089,8 @@ label.error {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.div-img img {
+    border-radius: 20px;
 }

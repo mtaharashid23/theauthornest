@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="logo-sec text-center">
                     <a href="index.php">
-                        <img src="img/footer-logo.webp" alt="Footer logo of The Author Nest">
+                        <img src="img/footer-logo.png" alt="Footer logo of The Author Nest">
                     </a>
                     <p>Your Reliable Global Ally in Writing, Publishing, and Marketing Your Book.</p>
                 </div>
@@ -55,11 +55,11 @@
                         <h3>Contact</h3>
                         <ul>
                             <li><span class="nitro-lazy"><i class="fa-solid fa-phone"></i></span><a
-                                    href="tel:+1 (206) 203 7424">+1 (206) 203 7424</a></li>
+                                    href="tel:+1 (206) 388 2791">+1 (206) 388 2791</a></li>
                             <li><span><i class="fa-solid fa-envelope"></i></span><a
                                     href="mailto:info@theauthornest.com">info@theauthornest.com</span></a>
                             </li>
-                            <li><span><i class="fa-solid fa-location-dot"></i></span><a href="javascript:;">150 EB ST LBBY 1810 SMB 86780 CASPER, WY 82601</a></li>
+                            <li><span><i class="fa-solid fa-location-dot"></i></span><a href="javascript:;">5900, BALCONES DRIVE STE 100, AUSTIN TX 78731</a></li>
                         </ul>
                     </div>
                     <ul class="d-flex">
@@ -504,51 +504,78 @@
         });
     });
 </script>
-<!-- Start of LiveChat (www.livechat.com) code -->
+<!-- ✅ START of LiveChat (www.livechat.com) code ✅ -->
 <script>
     window.__lc = window.__lc || {};
     window.__lc.license = 19197234;
     window.__lc.integration_name = "manual_channels";
-    window.__lc.product_name = "livechat";;
-    (function (n, t, c) {
+    window.__lc.product_name = "livechat";
+    window.__lc.asyncInit = function() {
+        LiveChatWidget.on('ready', function() {
+            console.log('LiveChat ready - opening chat automatically.');
+            LiveChatWidget.call('maximize'); // ✅ auto open on page load
+        });
+    };
+
+    (function(n, t, c) {
         function i(n) {
-            return e._h ? e._h.apply(null, n) : e._q.push(n)
+            return e._h ? e._h.apply(null, n) : e._q.push(n);
         }
         var e = {
             _q: [],
             _h: null,
             _v: "2.0",
-            on: function () {
-                i(["on", c.call(arguments)])
+            on: function() {
+                i(["on", c.call(arguments)]);
             },
-            once: function () {
-                i(["once", c.call(arguments)])
+            once: function() {
+                i(["once", c.call(arguments)]);
             },
-            off: function () {
-                i(["off", c.call(arguments)])
+            off: function() {
+                i(["off", c.call(arguments)]);
             },
-            get: function () {
+            get: function() {
                 if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
-                return i(["get", c.call(arguments)])
+                return i(["get", c.call(arguments)]);
             },
-            call: function () {
-                i(["call", c.call(arguments)])
+            call: function() {
+                i(["call", c.call(arguments)]);
             },
-            init: function () {
+            init: function() {
                 var n = t.createElement("script");
-                n.async = !0, n.type = "text/javascript", n.src = "https://cdn.livechatinc.com/tracking.js",
-                    t.head.appendChild(n)
+                n.async = true;
+                n.type = "text/javascript";
+                n.src = "https://cdn.livechatinc.com/tracking.js";
+                t.head.appendChild(n);
             }
         };
-        !n.__lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
-    }(window, document, [].slice))
+        if (!n._lc || !n._lc.asyncInit) {
+            e.init();
+        }
+        n.LiveChatWidget = n.LiveChatWidget || e;
+    })(window, document, [].slice);
+
+    // ✅ SINGLE new_event handler
+    function onNewEvent(event) {
+        console.log('New event:', event);
+        // If agent sends a new message, force open chat
+        if (event.type === 'message' && event.author && event.author.type === 'agent') {
+            console.log('Agent sent a new message - forcing chat open.');
+            LiveChatWidget.call('maximize');
+        }
+    }
+
+    // ✅ Register new_event once page fully loaded
+    window.addEventListener('load', function() {
+        LiveChatWidget.on('new_event', onNewEvent);
+    });
 </script>
+
 <noscript>
-    <a href="https://www.livechat.com/chat-with/19197234/" rel="nofollow">Chat with us</a>
-    , powered by 
+    <a href="https://www.livechat.com/chat-with/19197234/" rel="nofollow">Chat with us</a>, powered by
     <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
 </noscript>
-<!-- End of LiveChat code -->
+<!-- ✅ END of LiveChat code ✅ -->
 </div>
 </body>
 

@@ -3,8 +3,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-7 div-text">
-                        <h1 class="heading">Top-Quality <span>Custom Book Illustration </span>Services</h1>
-                        <h2 class="starting-p">Starting From <span class="">$49</span></h2>
+                        <h1 class="heading">Top-Quality <span>Custom Book Illustration </span>Services</h1>                        
                         <ul class="list-style for-mul">
                             <li><i class="fa-solid fa-circle-check"></i> <span>Versatile Illustration Styles to Match
                                     Your Brand.</span></li>
@@ -16,9 +15,8 @@
                         </ul>
                         <div class="banner-btns"> <a href="request-free-proposal.php"
                                 class="talk-chat extra-ress-2"> Get
-                                Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                                    class="fa-solid fa-phone"></i>+1
-                                (206) 203 7424</a> </div>
+                                Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                                    class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                     </div>
                     <div class="col-md-5 div-img">
                         <img alt="" width="446" height="596" src="img/illustration-banner-img.webp">
@@ -158,7 +156,7 @@
                         <div class="pack-1">
                             <h3><span style="color:#000; font-size:14px;">Starter </span><span>$</span>49
                             </h3>
-                            <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                            <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                                     For:</span> Quick, Simple Illustrations – Perfect for authors looking for a single
                                 element or character for a children's book.</p>
                             <ul>
@@ -180,7 +178,7 @@
                     <div class="col-md-4">
                         <div class="pack-1">
                             <h3><span style="color:#000; font-size:14px;">Essential </span><span>$</span>149</h3>
-                            <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                            <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                                     For:</span> More Detailed Book Illustrations – Ideal for authors who need a
                                 high-quality illustration or character design.</p>
                             <ul>
@@ -205,7 +203,7 @@
                             <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Author </span>Branding
                                 <span>Bundle</span></h4> -->
                             <h3><span style="color:#000; font-size:14px;">Premium PRO </span><span>$</span>349</h3>
-                            <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                            <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                                     For:</span> Full-Scale, Detailed Book Illustrations – Best for authors with complex
                                 or multi-element illustrations.</p>
                             <ul>
@@ -331,7 +329,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #EF1012;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">FAQs </h2>

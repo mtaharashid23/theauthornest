@@ -26,9 +26,8 @@
                             <img alt="a img" src="img/addi-10.png">
                         </div> -->
                 <div class="banner-btns"> <a href="#request" class="talk-chat extra-ress-2"> Get
-                        Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                            class="fa-solid fa-phone"></i>+1
-                        (206) 203 7424</a> </div>
+                        Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                            class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
             <div class="col-md-5 div-img"><img width="501" height="611" alt="Book Cover"
                     src="img/marketing-banner.webp">
@@ -150,7 +149,7 @@
                 <div class="pack-1" style="height: 610px;">
                     <h3 style="color:#000; font-size:14px;"><span
                             style="font-weight:700; font-size:17px;">StartUp</span> Bundle</h3>
-                    <p style="color: #ef1012; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> Perfect for authors just starting out, looking for a solid foundation
                     </p>
                     <ul>
@@ -182,7 +181,7 @@
                                 <span>Bundle</span></h4> -->
                     <h3 style="color:#000; font-size:14px;"><span
                             style="font-weight:700; font-size:17px;">Standard</span> Package</h3>
-                    <p style="color: #ef1012; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> authors looking for a more comprehensive book launch strategy</p>
                     <ul>
                         <h5>What you get:</h5>
@@ -216,7 +215,7 @@
                                 <span>Bundle</span></h4> -->
                     <h3 style="color:#000; font-size:14px;"><span
                             style="font-weight:700; font-size:17px;">Premium</span> Package</h3>
-                    <p style="color: #ef1012; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> authors who want a full-service, long-term strategy that covers
                         everything.</p>
                     <ul>
@@ -262,7 +261,7 @@
 </section>
 <section class="section s5 nitro-lazy">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-md-4 div-img" data-aos="fade-right" data-aos-duration="2000">
                 <img alt="" width="437" height="536" src="img/expert-book2.webp">
             </div>
@@ -281,9 +280,8 @@
                             for added visibility.</span></li>
                 </ul>
                 <div class="banner-btns innder"> <a href="request-free-proposal.php" class="talk-chat extra-ress-2"> Get
-                        Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i
-                            class="fa-solid fa-phone"></i>+1
-                        (206) 203 7424</a> </div>
+                        Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i
+                            class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
         </div>
     </div>

@@ -28,7 +28,7 @@
                     <ul>
                         <li>
                             <span class="nitro-lazy"><i class="fa-solid fa-phone"></i></span>
-                            <a href="tel:+1 (206) 203 7424"> +1 (206) 203 7424</a>
+                            <a href="tel:+1 (206) 388 2791"> +1 (206) 388 2791</a>
                         </li>
                         <span class="line"></span>
                         <li>
@@ -44,19 +44,19 @@
                 <div class="container">
                     <div class="site-branding">
                         <a href="index.php" class="responsive-branding hide-mobile">
-                            <img alt="logo icon" width="58" height="36" src="img/new-logo.webp">
+                            <img alt="logo icon" width="58" height="36" src="img/logo.png">
                         </a>
                     </div>
                     <div class="header-right">
                         <div class="header-contact hide-desktop">
-                            <a href="tel:+1 (206) 203 7424" class="primary-btn">
-                                <i class="fa-solid fa-phone"></i> +1 (206) 203 7424
+                            <a href="tel:+1 (206) 388 2791" class="primary-btn">
+                                <i class="fa-solid fa-phone"></i> +1 (206) 388 2791
                             </a>
                         </div>
                         <div class="primary-menu menu-style">
                             <div class="responsive_site_branding responsive_menu_close hide-desktop">
                                 <a href="index.php" class="responsive-branding hide-desktop">
-                                    <img alt="logo icon" width="58" height="36" src="img/new-logo.webp">
+                                    <img alt="logo icon" width="58" height="36" src="img/logo.png">
                                 </a>
                                 <span class="responsive-menu-close">X</span>
                             </div>

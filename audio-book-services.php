@@ -6,7 +6,7 @@
                 <h1 class="heading"><span class="audiobook-page"><img src="img/audio-waves.webp" class="audio-img"
                             alt="">Audiobook Services </span>To Captivate Listeners</h1>
                 <p style="font-size: 18px; font-weight: 500;">Audiobooks can significantly expand your
-                    reach—some authors report <span style="color: #EF1012;">up to 70%</span> wider distribution
+                    reach—some authors report <span style="color: #000053;">up to 70%</span> wider distribution
                     when adding audio formats.</p>
                 <ul class="list-style for-mul">
                     <li> <i class="fa-solid fa-circle-check"></i> <span>High-quality audiobook production with
@@ -19,9 +19,8 @@
                             like Audible and iTunes.</span></li>
                 </ul>
                 <div class="banner-btns"> <a href="#request" class="talk-chat"> Get Started
-                    </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                            class="fa-solid fa-phone"></i>+1
-                        (206) 203 7424</a> </div>
+                    </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                            class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
             <div class="col-md-5 div-img"><img width="501" style="width:60%;" height="611" alt="Book Cover"
                     src="img/audio-new.png">
@@ -181,7 +180,7 @@
                     <h3><span style="color:#000; font-size:14px;">25-Page Audiobook
                         </span><span>$</span>749
                     </h3>
-                    <!-- <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                    <!-- <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                                     For:</span> Quick, Simple Illustrations – Perfect for authors looking for a single
                                 element or character for a children's book.</p> -->
                     <ul>
@@ -209,7 +208,7 @@
                                 <span>Bundle</span></h4> -->
                     <h3><span style="color:#000; font-size:14px;">50-Page Audiobook </span><span>$</span>1,499
                     </h3>
-                    <!-- <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                    <!-- <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                                     For:</span> More Detailed Book Illustrations – Ideal for authors who need a
                                 high-quality illustration or character design.</p> -->
                     <ul>
@@ -240,7 +239,7 @@
                                 <span>Bundle</span></h4> -->
                     <h3><span style="color:#000; font-size:14px;">100-Page Audiobook </span><span>$</span>2,999
                     </h3>
-                    <!-- <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                    <!-- <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                                     For:</span> Full-Scale, Detailed Book Illustrations – Best for authors with complex
                                 or multi-element illustrations.</p> -->
                     <ul>
@@ -284,8 +283,7 @@
             <img src="img/audio-logos.webp" data-aos="fade-up" data-aos-duration="2000" alt="">
             <div class="banner-btns justify-content-center"> <a href="request-free-proposal.php"
                     class="talk-chat extra-ress-2"> Get Started </a>
-                <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i class="fa-solid fa-phone"></i>+1
-                    (206) 203 7424</a> </div>
+                <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
         </div>
     </div>
 </section>
@@ -453,9 +451,8 @@
                     </ul>
                     <div class="banner-btns"> <a href="request-free-proposal.php" class="talk-chat extra-ress-2">
                             Get Started
-                        </a> <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i
-                                class="fa-solid fa-phone"></i>+1
-                            (206) 203 7424</a> </div>
+                        </a> <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i
+                                class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                 </div>
             </div>
             <div class="col-md-4">
@@ -483,9 +480,8 @@
                     </p>
                     <div class="banner-btns"> <a href="request-free-proposal.php" class="talk-chat extra-ress-2">
                             Get Started
-                        </a> <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i
-                                class="fa-solid fa-phone"></i>+1
-                            (206) 203 7424</a> </div>
+                        </a> <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i
+                                class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                 </div>
             </div>
         </div>
@@ -509,9 +505,8 @@
                             </ul> -->
                     <div class="banner-btns"> <a href="request-free-proposal.php" class="talk-chat extra-ress-2">
                             Get Started
-                        </a> <a href="tel:+1 (206) 203 7424" class="talk-phone exta-ress"><i
-                                class="fa-solid fa-phone"></i>+1
-                            (206) 203 7424</a> </div>
+                        </a> <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i
+                                class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                 </div>
             </div>
             <div class="col-md-4">

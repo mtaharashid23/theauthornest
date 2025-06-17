@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $services = htmlspecialchars($_POST["services"] ?? "");
     $message = htmlspecialchars($_POST["message"] ?? "");
 
-    $to = "muhammadtahabinrashid@gmail.com";
+    $to = "epicvinreport@gmail.com";
     $subject = "New Inquiry for $services Service";
     $body = "Name: $name\nEmail: $email\nPhone: $phone\nService: $services\nMessage: $message";
     $headers = "From: $email";

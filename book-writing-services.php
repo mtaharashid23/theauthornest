@@ -3,9 +3,9 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-7 div-text">
-                <h1 class="heading">Professional Book Writing Services – <span style="color:#ef1012;">Tell Your Story
+                <h1 class="heading">Professional Book Writing Services – <span style="color:#000053;">Tell Your Story
                         with Confidence</span></h1>
-                <h2 class="starting-p">Starting at just <span class="">$30 </span>per page with tailored packages to
+                <h2 class="starting-p">Starting at just <span class="">$9.99 </span>per page with tailored packages to
                     match your goals.</h2>
                 <p>
                     <strong>Have a story to tell but need help turning it into a publish-ready book?</strong>
@@ -15,9 +15,8 @@
                     authentic voice and vision.
                 </p>
                 <div class="banner-btns"> <a href="#request" class="talk-chat"> Get
-                        Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                            class="fa-solid fa-phone"></i>+1
-                        (206) 203 7424</a> </div>
+                        Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                            class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
             <div class="col-md-5 div-img">
                 <img alt="" width="446" height="596" src="img/writing-banner.webp">
@@ -92,55 +91,55 @@
             <div class="col-md-12">
                 <div class="portfolio-images">
                     <ul class="port">
-                        <a href="https://a.co/d/eMnYjPq" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/1.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/cZFsaXN" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/2.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/gRfyiAj" target="blank">
+                        <a  href="">
                             <li><img src="img/portfolio/3.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/1HmCu3i" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/4.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/emJinap" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/5.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/6zzVD4L" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/6.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/dYVB5Zk" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/7.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/7sjdp1z" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/8.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/aHP1a0d" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/9.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/hYJBeua" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/10.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/6jJijUw" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/11.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/eGBIBbZ" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/12.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/6JLmyoA" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/13.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/6PNXrxf" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/14.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/gJ9Dh4F" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/15.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/8LudVOq" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/16.jpg" alt=""></li>
                         </a>
-                        <a href="https://a.co/d/7AYVdQy" target="blank">
+                        <a href="">
                             <li><img src="img/portfolio/17.jpg" alt=""></li>
                         </a>
                     </ul>
@@ -242,7 +241,7 @@
                     <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Amazon </span>Publishing <span>Bundle</span></h4> -->
                     <h3><span style="color:#000; font-size:14px;">25 Page Book </span><span>$</span>839
                     </h3>
-                    <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> Children’s Books, Short eBooks, Lead Magnets, Guides, and Cookbooks</p>
                     <ul>
                         <h5>What you get:</h5>
@@ -266,7 +265,7 @@
                     <!-- <h4 style="font-size:16px; font-weight: 700;">Bestseller <span>Book </span>Marketing
                                 <span>Bundle</span></h4> -->
                     <h3><span style="color:#000; font-size:14px;">50 Page Book </span><span>$</span>1,499</h3>
-                    <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> Mid-Length eBooks, Short Memoirs, and Business Guides</p>
                     <ul>
                         <h5>What you get:</h5>
@@ -293,7 +292,7 @@
                     <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Author </span>Branding
                                 <span>Bundle</span></h4> -->
                     <h3><span style="color:#000; font-size:14px;">75 Page Book </span><span>$</span>2,249</h3>
-                    <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> Full-Length Guides, Non-Fiction
                         Books, and Authoritative eBooks</p>
                     <ul>
@@ -320,7 +319,7 @@
                     <!-- <h4 style="font-size:16px; font-weight: 700;">Bestseller <span>Book </span>Marketing
                                 <span>Bundle</span></h4> -->
                     <h3><span style="color:#000; font-size:14px;">100 Page Book </span><span>$</span>2,999</h3>
-                    <p style="color: #ef1012; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
+                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
                             For:</span> Comprehensive Non-Fiction, Business
                         Books, or In-Depth Guides</p>
                     <ul>
@@ -344,7 +343,12 @@
                     </div>
                 </div>
             </div>
-            <p class="mt-5"><span style="color:#ef1012;">** </span>The packages outlined here reflect standard project scopes. Final pricing may vary based on factors such as project complexity, subject matter, and specific content requirements. For a customized quote that aligns with your unique goals, feel free to call us at <a href="tel:+1 (206) 203 7424" style="color:#ef1012;">+1 (206) 203 7424</a>, start a <a href="javascript:;" class="chat" style="color:#ef1012;">live chat</a>, or submit a <a href="#request" style="color:#ef1012;">proposal request</a>.</p>
+            <p class="mt-5"><span style="color:#000053;">** </span>The packages outlined here reflect standard project
+                scopes. Final pricing may vary based on factors such as project complexity, subject matter, and specific
+                content requirements. For a customized quote that aligns with your unique goals, feel free to call us at
+                <a href="tel:+1 (206) 388 2791" style="color:#000053;">+1 (206) 388 2791</a>, start a <a
+                    href="javascript:;" class="chat" style="color:#000053;">live chat</a>, or submit a <a
+                    href="#request" style="color:#000053;">proposal request</a>.</p>
         </div>
     </div>
 </section>
@@ -409,7 +413,7 @@
 </section>
 <section class="section s9">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-md-4 div-img" data-aos="fade-right" data-aos-duration="2000">
                 <img alt="" width="437" height="536" src="img/expert-book2.webp">
             </div>
@@ -419,22 +423,24 @@
                 <ul class="list-style">
                     <li> <i class="fa-solid fa-circle-check"></i> <span>End-to-end support from concept to final draft
 
-</span>
+                        </span>
                     </li>
                     <li> <i class="fa-solid fa-circle-check"></i> <span>Skilled writers and expert editorial teams
                         </span>
                     </li>
-                    <li> <i class="fa-solid fa-circle-check"></i> <span>Access to subject-matter specialists for niche genres and topics</span>
+                    <li> <i class="fa-solid fa-circle-check"></i> <span>Access to subject-matter specialists for niche
+                            genres and topics</span>
                     </li>
-                    <li> <i class="fa-solid fa-circle-check"></i> <span>Strategic guidance on book marketing and author branding</span>
+                    <li> <i class="fa-solid fa-circle-check"></i> <span>Strategic guidance on book marketing and author
+                            branding</span>
                     </li>
-                    <li> <i class="fa-solid fa-circle-check"></i> <span>You maintain full rights and royalties to your completed manuscript</span></li>
+                    <li> <i class="fa-solid fa-circle-check"></i> <span>You maintain full rights and royalties to your
+                            completed manuscript</span></li>
                 </ul>
                 <div class="banner-btns innder"> <a href="request-free-proposal.php" class="talk-chat">
                         Get
-                        Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone"><i
-                            class="fa-solid fa-phone"></i>+1
-                        (206) 203 7424</a> </div>
+                        Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone"><i
+                            class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
         </div>
     </div>

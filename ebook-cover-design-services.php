@@ -5,7 +5,7 @@
                     <div class="col-md-7 div-text">
                         <h1 class="heading">Top <span>eBook Cover Design </span>to Grab Readers’ Attention</h1>
                         <p style="font-size: 25px;">Get Your Customized Cover <span
-                                style="color:#EF1012; font-weight:900;">in Less Than a Week*</span></p>
+                                style="color:#000053; font-weight:900;">in Less Than a Week*</span></p>
                         <ul class="list-style for-mul">
                             <h2 class="starting-p">Starting from only <span class="">$199</span></h2>
                             <ul class="list-style for-mul">
@@ -25,9 +25,8 @@
                         </div> -->
                             <div class="banner-btns"> <a href="request-free-proposal.php"
                                     class="talk-chat extra-ress-2"> Get
-                                    Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                                        class="fa-solid fa-phone"></i>+1
-                                    (206) 203 7424</a> </div>
+                                    Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                                        class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                         </ul>
                     </div>
                     <div class="col-md-5 div-img">
@@ -329,7 +328,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #EF1012;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">FAQs </h2>

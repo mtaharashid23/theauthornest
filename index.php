@@ -8,18 +8,18 @@
                     Your Story Deserves the <br><span class="heading-ani"> Spotlight!</span>
                 </h1>
                 <p style="font-size: 25px;">
-                    Partner with a <span style="color:#EF1012; font-weight:900;">Trusted Global Team</span> for Expert
+                    Partner with a <span style="color:#000053; font-weight:900;">Trusted Global Team</span> for Expert
                     Writing, Publishing, and Marketing Solutions.
                 </p>
                 <div class="banner-btns">
                     <a href="#rfp-top" class="talk-chat"> Get Started </a>
-                    <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile">
-                        <i class="fa-solid fa-phone"></i> +1 (206) 203 7424
+                    <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile">
+                        <i class="fa-solid fa-phone"></i> +1 (206) 388 2791
                     </a>
                 </div>
             </div>
             <div class="col-md-5 div-img">
-                <img width="501" height="611" alt="Book Cover" src="img/hero-book-new.png">
+                <img width="501" height="611" alt="Book Cover" src="img/hero-book-new.webp">
             </div>
         </div>
     </div>
@@ -97,7 +97,7 @@
                         <span>Bundle</span></h4>
                     <h3><span style="color:#000; font-size:14px;">Starting From </span><span>$</span>299
                     </h3>
-                    <p style="color: #ef1012; font-size: 14px;">Bring Your Story Life</p>
+                    <p style="color: #000053; font-size: 14px;">Bring Your Story Life</p>
                     <ul>
                         <h5>What you get:</h5>
                         <li>Editorial Review of the Book</li>
@@ -126,7 +126,7 @@
                     <h4 style="font-size:16px; font-weight: 700;"><span>Author </span>Branding
                         <span>Bundle</span></h4>
                     <h3><span style="color:#000; font-size:14px;">Starting From </span><span>$</span>899</h3>
-                    <p style="color: #ef1012; font-size: 14px;">Establish Your Credibility and Authority</p>
+                    <p style="color: #000053; font-size: 14px;">Establish Your Credibility and Authority</p>
                     <ul>
                         <h5>What you get:</h5>
                         <li>Author Coaching and Strategy Sessions</li>
@@ -157,7 +157,7 @@
                     <h4 style="font-size:16px; font-weight: 700;">Bestseller <span>Book </span>Marketing
                         <span>Bundle</span></h4>
                     <h3><span style="color:#000; font-size:14px;">Starting From </span><span>$</span>4,999</h3>
-                    <p style="color: #ef1012; font-size: 14px;">End to End Solutions</p>
+                    <p style="color: #000053; font-size: 14px;">End to End Solutions</p>
                     <ul>
                         <h5>What you get:</h5>
                         <li>Author Coaching and Strategy Sessions</li>

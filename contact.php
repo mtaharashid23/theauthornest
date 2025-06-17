@@ -1,5 +1,5 @@
 ﻿<?php include "include/header.php"; ?>
-<section class="section home-banner" style="background-image:none !important; background-color:#231f20;">
+<section class="section home-banner mb-0" style="background-image:none !important; background-color:#231f20;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-5 left-side">
@@ -67,7 +67,7 @@
                         </div>
                         <div class="details">
                             <span class="det-head">Phone:</span>
-                            <span class="det-head-sub"> <a href="tel:+1 (206) 203 7424">+1 (206) 203 7424</a></span>
+                            <span class="det-head-sub"> <a href="tel:+1 (206) 388 2791">+1 (206) 388 2791</a></span>
 
                         </div>
                     </li>
@@ -77,7 +77,7 @@
                         </div>
                         <div class="details">
                             <span class="det-head">Address:</span>
-                            <span class="det-head-sub">150 EB ST LBBY 1810 SMB 86780 CASPER, WY 82601</span>
+                            <span class="det-head-sub">5900, BALCONES DRIVE STE 100, AUSTIN TX 78731</span>
                         </div>
                     </li>
                 </ul>

@@ -4,7 +4,7 @@
                 <div class="row align-items-center">
                     <div class="col-md-7 div-text">
                         <h1 class="heading">Book Publishing Services for <span class="">Aspiring</span> Authors</h1>
-                        <p style="font-size: 25px;">Ready To <span style="color:#EF1012; font-weight:900;">Become a
+                        <p style="font-size: 25px;">Ready To <span style="color:#000053; font-weight:900;">Become a
                                 Published Author</span> Today?</p>
                         <h2 class="starting-p">Starting from only <span class="">$299</span></h2>
                         <ul class="list-style for-mul">
@@ -23,9 +23,8 @@
                             <img alt="a img" src="img/addi-10.png">
                         </div> -->
                         <div class="banner-btns"> <a href="#request" class="talk-chat extra-ress-2"> Get
-                                Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                                    class="fa-solid fa-phone"></i>+1
-                                (206) 203 7424</a> </div>
+                                Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                                    class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                     </div>
                     <div class="col-md-5 div-img">
                         <img alt="" width="446" height="596" src="img/publishing-banner.webp">
@@ -201,55 +200,55 @@
                     <div class="col-md-12">
                         <div class="portfolio-images">
                             <ul class="port">
-                                <a href="https://a.co/d/eMnYjPq" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/1.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/cZFsaXN" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/2.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/gRfyiAj" target="blank">
+                                <a  href="">
                                     <li><img src="img/portfolio/3.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/1HmCu3i" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/4.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/emJinap" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/5.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/6zzVD4L" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/6.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/dYVB5Zk" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/7.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/7sjdp1z" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/8.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/aHP1a0d" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/9.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/hYJBeua" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/10.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/6jJijUw" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/11.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/eGBIBbZ" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/12.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/6JLmyoA" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/13.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/6PNXrxf" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/14.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/gJ9Dh4F" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/15.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/8LudVOq" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/16.jpg" alt="image" class="img-fluid"></li>
                                 </a>
-                                <a href="https://a.co/d/7AYVdQy" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/17.jpg" alt="image" class="img-fluid"></li>
                                 </a>
                             </ul>
@@ -618,7 +617,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #EF1012;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">Q/A Session </h2>

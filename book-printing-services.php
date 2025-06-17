@@ -22,9 +22,8 @@
                                     printed books.</span></li>
                         </ul>
                         <div class="banner-btns"> <a href="#request" class="talk-chat"> Get
-                                Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                                    class="fa-solid fa-phone"></i>+1
-                                (206) 203 7424</a> </div>
+                                Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                                    class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                     </div>
                     <div class="col-md-5 div-img"><img width="501" height="611" alt="Book Cover"
                             src="img/printing-banner.webp">

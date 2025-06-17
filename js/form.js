@@ -68,3 +68,17 @@ $(document).ready(function () {
         });
     });
 });
+
+
+function replaceHash() {
+	document.querySelectorAll("a").forEach((a) => {
+		let href = a.getAttribute("href");
+		a.href = href ?
+			href.startsWith("#") && href.endsWith("#") ?
+			href.replace("#", "javascript:void(0)") :
+			href :
+			"javascript:void(0)";
+	});
+}
+
+replaceHash()

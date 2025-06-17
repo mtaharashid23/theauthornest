@@ -26,7 +26,7 @@
 }
 
 .blog-content a{
-    color: #EF1012;
+    color: #000053;
 }
 
 .f-image {
@@ -44,7 +44,7 @@
 }
 
 .blog-cta-box {
-    background: #EF1012;
+    background: #000053;
     padding: 30px;
     border-radius: 20px;
     margin-bottom:20px;
@@ -94,7 +94,7 @@ a.cta-btn {
 
 a.cta-btn:hover {
     background: var(--white);
-    color: #EF1012;
+    color: #000053;
 }
 img.cta-ic {
     position: absolute;
@@ -137,7 +137,7 @@ font-family: "Lexend Deca", sans-serif !important;
     font-size: 30px !important;
     font-weight: 400;
     text-align: center;
-    background: #EF1012;
+    background: #000053;
     border-radius: 10px;
     color: #fff;
     padding: 5px 20px 10px 20px;
@@ -176,7 +176,7 @@ ul.toc-list li:before{
     content:"-";
     position:absolute;
     left:0;
-    color:#EF1012;
+    color:#000053;
     font-size:40px;
     line-height:0.4;
 
@@ -262,7 +262,7 @@ a.blog-btn {
     font-weight: 700;
     line-height: 45px;
     text-align: center;
-    color: #EF1012;
+    color: #000053;
 }
 
 section.blog-grid-section {
@@ -319,7 +319,7 @@ ul.toc-list::-webkit-scrollbar-thumb {
 
 /* Handle on hover */
 ul.toc-list::-webkit-scrollbar-thumb:hover {
-  background: #EF1012; 
+  background: #000053; 
 }
 
 /*********************************************************

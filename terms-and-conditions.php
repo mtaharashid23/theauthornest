@@ -50,7 +50,7 @@
                     <p>To initiate a refund, please:</p>
                     <ul>
                         <li><i class="fa-solid fa-circle-check"></i> Contact our customer support team either by calling
-                            <a href="tel:+1 (206) 203 7424">+1 (206) 203 7424</a> or emailing <a
+                            <a href="tel:+1 (206) 388 2791">+1 (206) 388 2791</a> or emailing <a
                                 href="mailto:info@theauthornest.com"><span >info@theauthornest.com</span></a>
                             within
                             the
@@ -145,8 +145,8 @@
                     <p>For any questions or concerns about these terms, please reach out to us:</p>
                     <p><b>Email:</b> info@theauthornest.com
                     </p>
-                    <p><b>Phone:</b> +1 (206) 203 7424 </p>
-                    <p><b>Address:</b> 150 EB ST LBBY 1810 SMB 86780 CASPER, WY 82601</p>
+                    <p><b>Phone:</b> +1 (206) 388 2791 </p>
+                    <p><b>Address:</b> 5900, BALCONES DRIVE STE 100, AUSTIN TX 78731</p>
                     <p>Thank you for choosing The Author Nest. We are committed to supporting your journey to
                         successful book publication and look forward to our collaboration!</p>
                 </div>

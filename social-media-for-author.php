@@ -23,9 +23,8 @@
                         </div> -->
                         <div class="banner-btns"> <a href="request-free-proposal.php"
                                 class="talk-chat extra-ress-2"> Get
-                                Started </a> <a href="tel:+1 (206) 203 7424" class="talk-phone phons-mobile"><i
-                                    class="fa-solid fa-phone"></i>+1
-                                (206) 203 7424</a> </div>
+                                Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
+                                    class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
                     </div>
                     <div class="col-md-5 div-img">
                         <img alt="" class="social-media-banner-img" src="img/social-media-banner-img.webp">
@@ -265,55 +264,55 @@
                     <div class="col-md-12">
                         <div class="portfolio-images">
                             <ul class="port">
-                                <a href="https://a.co/d/eMnYjPq" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/1.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/cZFsaXN" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/2.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/gRfyiAj" target="blank">
+                                <a  href="">
                                     <li><img src="img/portfolio/3.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/1HmCu3i" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/4.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/emJinap" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/5.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/6zzVD4L" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/6.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/dYVB5Zk" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/7.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/7sjdp1z" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/8.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/aHP1a0d" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/9.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/hYJBeua" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/10.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/6jJijUw" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/11.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/eGBIBbZ" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/12.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/6JLmyoA" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/13.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/6PNXrxf" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/14.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/gJ9Dh4F" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/15.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/8LudVOq" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/16.jpg" alt=""></li>
                                 </a>
-                                <a href="https://a.co/d/7AYVdQy" target="blank">
+                                <a href="">
                                     <li><img src="img/portfolio/17.jpg" alt=""></li>
                                 </a>
                             </ul>
@@ -380,7 +379,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #EF1012;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">FAQs </h2>
