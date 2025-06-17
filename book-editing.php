@@ -1,5 +1,5 @@
 ﻿<?php include "include/header.php"; ?>
-<section class="section s1 home-banner nitro-lazy">
+<section class="section s1 home-banner nitro-lazy" id="request">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-7 div-text">
@@ -22,23 +22,12 @@
                         Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
                             class="fa-solid fa-phone"></i> +1 (206) 388 2791</a> </div>
             </div>
-            <div class="col-md-5 div-img">
-                <img alt="" width="446" height="596" src="img/editing-banner.webp">
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section s2" id="request">
-    <div class="container">
-        <div class="form-area">
-            <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
-                    <div class="div-img">
-                        <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
-                    </div>
-                </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+            <div class="col-md-5">
+                <div class="form-wrapper">
                     <div class="form-head text-center">
+                        <figure>
+                            <img src="favicon.png" alt="The Author Nest Logo" width="100" height="100">
+                        </figure>
                         <h2>Collaborate Directly With Our <span>Expert Editors</span>.</h2>
                     </div>
                     <div class="footer-rfp form-style">
@@ -72,7 +61,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <textarea id="message" name="message" class="input-field" rows="3"
+                                    <textarea id="message" name="message" class="input-field" rows="1"
                                         placeholder="Tell Us What You’re Looking For"></textarea>
                                 </div>
                                 <div class="form-submit">
@@ -86,7 +75,7 @@
         </div>
     </div>
 </section>
-<section class="section s4 nitro-lazy">
+<section class="section s4 nitro-lazy pt-5">
     <div class="container">
         <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>Versatile Editing Options</h2>

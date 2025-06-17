@@ -1,5 +1,5 @@
 ﻿<?php include "include/header.php"; ?>
-<section class="section s1 home-banner nitro-lazy">
+<section class="section s1 home-banner nitro-lazy" id="request">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-7 div-text">
@@ -22,23 +22,12 @@
                     </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
                             class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
-            <div class="col-md-5 div-img"><img width="501" style="width:60%;" height="611" alt="Book Cover"
-                    src="img/audio-new.png">
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section s2" id="request">
-    <div class="container">
-        <div class="form-area">
-            <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
-                    <div class="div-img">
-                        <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
-                    </div>
-                </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+            <div class="col-md-5">
+                <div class="form-wrapper">
                     <div class="form-head text-center">
+                        <figure>
+                            <img src="favicon.png" alt="image" width="100" height="100" class="img-fluid">
+                        </figure>
                         <h2>Request <span>Free Consultation</span></h2>
                     </div>
                     <div class="footer-rfp form-style">
@@ -72,7 +61,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <textarea id="message" name="message" class="input-field" rows="3"
+                                    <textarea id="message" name="message" class="input-field" rows="1"
                                         placeholder="Tell Us What You’re Looking For"></textarea>
                                 </div>
                                 <div class="form-submit">
@@ -168,111 +157,6 @@
         </div>
     </div>
 </section>
-<section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
-    <div class="container">
-        <div class="row">
-            <div class="heading text-center">
-                <h2>Popular Audiobook <span>Packages</span></h2>
-            </div>
-            <div class="col-md-4">
-                <div class="pack-1" style="height:560px ;">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Amazon </span>Publishing <span>Bundle</span></h4> -->
-                    <h3><span style="color:#000; font-size:14px;">25-Page Audiobook
-                        </span><span>$</span>749
-                    </h3>
-                    <!-- <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
-                                    For:</span> Quick, Simple Illustrations – Perfect for authors looking for a single
-                                element or character for a children's book.</p> -->
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>High-Quality Narration Recording</li>
-                        <li>Narration Accuracy Check</li>
-                        <li>Audiobook Cover Design</li>
-                        <li>Chapter Splitting (e.g., at logical points for listeners)</li>
-                        <li>Audio Quality Check</li>
-                        <li>Audio Mastering</li>
-                        <li>Retail Audio Sample</li>
-                        <li>Distribution on Major Platforms including Amazon, Audible, and iTunes</li>
-                        <li>2 Rounds of Revisions</li>
-                        <li>Estimated Timeline: Completion in 4 weeks</li>
-                        <li>Marketing & Promotion Add-On (Audiobook ads and social media promotion)</li>
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="pack-1" style="height:560px ;">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;">Bestseller <span>Book </span>Marketing
-                                <span>Bundle</span></h4> -->
-                    <h3><span style="color:#000; font-size:14px;">50-Page Audiobook </span><span>$</span>1,499
-                    </h3>
-                    <!-- <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
-                                    For:</span> More Detailed Book Illustrations – Ideal for authors who need a
-                                high-quality illustration or character design.</p> -->
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>High-Quality Narration Recording</li>
-                        <li>Narration Accuracy Check</li>
-                        <li>Audiobook Cover Design</li>
-                        <li>Chapter Splitting</li>
-                        <li>Audio Quality Check</li>
-                        <li>Audio Mastering</li>
-                        <li>Retail Audio Sample</li>
-                        <li>Distribution on Major Platforms – Amazon, Audible, and iTunes</li>
-                        <li>4 Rounds of Revisions</li>
-                        <li>Estimated Timeline: Completion in 6 weeks</li>
-                        <li>Marketing Campaign Add-On: Personalized audiobook marketing with tailored strategies
-                            for increasing sales.</li>
-                        <li>Audiobook Trailer Add-On: 60-second animated promo video with professional
-                            voice-over and royalty-free music for social platforms.</li>
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="pack-1" style="height:560px ;">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Author </span>Branding
-                                <span>Bundle</span></h4> -->
-                    <h3><span style="color:#000; font-size:14px;">100-Page Audiobook </span><span>$</span>2,999
-                    </h3>
-                    <!-- <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
-                                    For:</span> Full-Scale, Detailed Book Illustrations – Best for authors with complex
-                                or multi-element illustrations.</p> -->
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>High-Quality Narration Recording (multiple voice options available)</li>
-                        <li>Narration Accuracy Check</li>
-                        <li>Audiobook Cover Design</li>
-                        <li>Chapter Splitting</li>
-                        <li>Audio Quality Check</li>
-                        <li>Audio Mastering</li>
-                        <li>Retail Audio Sample</li>
-                        <li>Distribution on Major Platforms – Amazon, Audible, iTunes, and additional audiobook
-                            retailers</li>
-                        <li>8 Rounds of Revisions</li>
-                        <li>Estimated Timeline: Completion in 8 weeks</li>
-                        <h6 class="mt-3">Add-On Options:</h6>
-                        <li>Personalized Marketing Campaign: Full-scale marketing and promotional strategy
-                            to boost audiobook sales.</li>
-                        <li>Audiobook Trailer & Promo Video: High-quality animated or slideshow-style
-                            trailer to promote your audiobook on social media.</li>
-                        <li>International Distribution – Additional distribution to global platforms for
-                            expanded reach (e.g., international Audible, Spotify).</li>
-                        <li>Audiobook Transcription & Subtitles: Add transcriptions for accessibility and
-                            promotional purposes.</li>
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Learn More</a>
-                    </div>
-                </div>
-            </div>           
-        </div>
-    </div>
-</section>
 <section class="audio-sec">
     <div class="container">
         <div class="heading text-center" data-aos="fade-donw" data-aos-duration="1200">
@@ -283,7 +167,8 @@
             <img src="img/audio-logos.webp" data-aos="fade-up" data-aos-duration="1200" alt="">
             <div class="banner-btns justify-content-center"> <a href="request-free-proposal.php"
                     class="talk-chat extra-ress-2"> Get Started </a>
-                <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
+                <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i class="fa-solid fa-phone"></i>+1 (206)
+                    388 2791</a> </div>
         </div>
     </div>
 </section>

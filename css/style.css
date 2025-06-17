@@ -6150,3 +6150,79 @@ label.error {
     background: var(--primary);
     color: var(--white);    
 }
+
+.printing-com .com img {
+    transition: all 0.3s ease;
+}
+
+.printing-com .com:hover img {
+    filter: brightness(0) invert(1);
+}
+
+/* faq-section */
+.faq-section {
+	background: var(--ghost-blue);
+}
+.faq-section .card:hover {
+	border-color: var(--primary);
+	box-shadow: 0 0 20px 5px #0087FD20;
+}
+
+.faq-section .card:hover .card-header .card-link {
+	color: var(--primary);
+}
+
+.faq-section .card-header {
+	background: 0 0;
+	border: none;
+	outline: 0 !important;
+	padding: 0;
+}
+
+.faq-section .card-header .card-link {
+	display: block;
+	width: 100%;
+	font-size: 1.25rem;
+	font-weight: 600;	
+	text-align: left;
+	padding: 0;
+	transition: .3s;
+	background: transparent;
+	border: none;
+	outline: none;	
+}
+
+.faq-section .card {
+	transition: .3s;
+	margin-bottom: 1.25rem;
+	border: 1px solid #C9C9C9;
+	background: var(--ghost-blue);
+	border-radius: 1rem;
+	color: #828282;
+	font-size: 16px;
+	line-height: 24px;
+	padding: 1.5rem 1.25rem;
+}
+
+.faq-section .card-body {
+	padding: 0;
+}
+
+.faq-section .card-body p {
+	margin: 1rem 0 0;
+}
+
+.faq-section .card-header .card-link.collapsed:after,
+.faq-section .card-header .card-link:after {
+	content: "";
+	background: url("../images/plus.png") no-repeat center / cover;
+	height: 26px;
+	width: 26px;
+	display: inline-block;
+	position: absolute;
+	right: 20px
+}
+
+.faq-section .card-header .card-link:after {
+	background: url("../images/minus.png") no-repeat center / cover;
+}

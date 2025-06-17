@@ -1,5 +1,5 @@
 ﻿<?php include "include/header.php"; ?>
-<section class="section s1 home-banner nitro-lazy">
+<section class="section s1 home-banner nitro-lazy" id="request">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-7 div-text">
@@ -29,23 +29,12 @@
                         Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
                             class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
-            <div class="col-md-5 div-img"><img width="501" height="611" alt="Book Cover"
-                    src="img/marketing-banner.webp">
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section s2" id="request">
-    <div class="container">
-        <div class="form-area">
-            <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
-                    <div class="div-img">
-                        <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
-                    </div>
-                </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+            <div class="col-md-5">
+                <div class="form-wrapper">
                     <div class="form-head text-center">
+                        <figure>
+                            <img src="favicon.png" alt="image" width="100" height="100" class="img-fluid">
+                        </figure>
                         <h2>Let's Discuss Your Next <span>Bestseller</span>.</h2>
                     </div>
                     <div class="footer-rfp form-style">
@@ -79,7 +68,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <textarea id="message" name="message" class="input-field" rows="3"
+                                    <textarea id="message" name="message" class="input-field" rows="1"
                                         placeholder="Tell Us What You’re Looking For"></textarea>
                                 </div>
                                 <div class="form-submit">
@@ -93,7 +82,7 @@
         </div>
     </div>
 </section>
-<section class="section s3" data-aos="fade-up" data-aos-duration="1200">
+<section class="section s3 pt-5" data-aos="fade-up" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center">
             <h2>Book Marketing Services Designed For You.</h2>
@@ -133,126 +122,6 @@
                         <h3>Interviews and Event Appearances</h3>
                         <p>Gain results through podcast, TV, and radio interviews, and features in print and
                             online media. Secure speaking engagements and write articles.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
-    <div class="container">
-        <div class="row">
-            <div class="heading text-center">
-                <h2>Popular Book Marketing <span>Packages</span></h2>
-            </div>
-            <div class="col-md-4">
-                <div class="pack-1" style="height: 610px;">
-                    <h3 style="color:#000; font-size:14px;"><span
-                            style="font-weight:700; font-size:17px;">StartUp</span> Bundle</h3>
-                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
-                            For:</span> Perfect for authors just starting out, looking for a solid foundation
-                    </p>
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>Comprehensive Book Editing & Proofreading</li>
-                        <li>Professional Book Formatting (ebook, paperback, and hardcover)</li>
-                        <li>2D + 3D Cover Design (front and back)</li>
-                        <li>Targeted Market Research Plan</li>
-                        <li>Book Pricing Strategy</li>
-                        <li>Competitor Analysis</li>
-                        <li>Target Market Segmentation</li>
-                        <li>Author Website with Clear CTA</li>
-                        <li>10 Unique Social Media Posts (Facebook and Instagram)</li>
-                        <li>Social Media Setup & Optimization</li>
-                        <li>Compelling Author Bio</li>
-                        <li>Email Marketing Templates</li>
-                        <li>Landing Page Template</li>
-                        <li>Bonus: Free 30-Minute Social Media Strategy Consultation to kickstart your online
-                            presence with personalized recommendations</li>
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Request a Quote</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="pack-1" style="height: 610px;">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;">Bestseller <span>Book </span>Marketing
-                                <span>Bundle</span></h4> -->
-                    <h3 style="color:#000; font-size:14px;"><span
-                            style="font-weight:700; font-size:17px;">Standard</span> Package</h3>
-                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
-                            For:</span> authors looking for a more comprehensive book launch strategy</p>
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>Comprehensive Book Editing & Proofreading</li>
-                        <li>Professional Book Formatting (ebook, paperback, and hardcover)</li>
-                        <li>2D + 3D Cover Design (front and back)</li>
-                        <li>Targeted Market Research Plan</li>
-                        <li>Book Pricing Strategy</li>
-                        <li>Competitor Analysis</li>
-                        <li>Target Market Segmentation</li>
-                        <li>Author Website with Clear CTA & SEO</li>
-                        <li>20 Unique Social Media Posts (Facebook, Instagram, Twitter X)</li>
-                        <li>Social Media Setup & Optimization</li>
-                        <li>Author Bio</li>
-                        <li>Amazon Optimization & Publishing</li>
-                        <li>Professional LinkedIn Profile</li>
-                        <li>1 Paid Press Release</li>
-                        <li>Book Launch Toolkit</li>
-                        <li>1-on-1 Book Launch Strategy Call</li>
-                        <li>Bonus: Free 30-Day Post-Launch Follow-Up to track results, adjust strategies, and
-                            keep your momentum going</li>
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Request a Quote</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="pack-1" style="height: 610px;">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Author </span>Branding
-                                <span>Bundle</span></h4> -->
-                    <h3 style="color:#000; font-size:14px;"><span
-                            style="font-weight:700; font-size:17px;">Premium</span> Package</h3>
-                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
-                            For:</span> authors who want a full-service, long-term strategy that covers
-                        everything.</p>
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>Comprehensive Book Editing & Proofreading</li>
-                        <li>Professional Book Formatting (ebook, paperback, and hardcover)</li>
-                        <li>2D + 3D Cover Design (front and back)</li>
-                        <li>Targeted Market Research Plan</li>
-                        <li>Competitor Analysis</li>
-                        <li>Book Pricing Strategy</li>
-                        <li>Target Market Segmentation</li>
-                        <li>Author Website with Clear CTA & SEO</li>
-                        <li>30 Unique Social Media Posts (Facebook, Instagram, Tiktok, Twitter X)</li>
-                        <li>Social Media Setup & Optimization</li>
-                        <li>Compelling Author Bio</li>
-                        <li>10 Onsite Blogs</li>
-                        <li>Amazon Optimization & Publishing</li>
-                        <li>Professional LinkedIn Profile</li>
-                        <li>Paid Marketing Campaign</li>
-                        <li>2 Paid Press Releases</li>
-                        <li>Audiobook Production</li>
-                        <li>Social Media Distribution Plan</li>
-                        <li>Social Media Post Scheduling</li>
-                        <li>Marketing Strategy Call</li>
-                        <li>Book Merch & Stationery Design</li>
-                        <li>Community Participation Link Building</li>
-                        <li>Full Book Publishing Service</li>
-                        <li>1 Podcast Interview</li>
-                        <li>Podcast Media Kit</li>
-                        <li>Book Trailer Production</li>
-                        <li>Email List Building</li>
-                        <li>Webinar Hosting</li>
-                        <li>Bonus: Free 6-Month Marketing Calendar to plan and execute post-launch campaigns,
-                            including email newsletters, book signings, and more</li>
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Request a Quote</a>
                     </div>
                 </div>
             </div>
