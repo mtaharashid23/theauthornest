@@ -1,5 +1,5 @@
 ﻿<?php include "include/header.php"; ?>
-<section class="section s1 home-banner nitro-lazy">
+<section class="section s1 home-banner nitro-lazy" id="request">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-7 div-text">
@@ -18,23 +18,12 @@
                         Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
                             class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
-            <div class="col-md-5 div-img">
-                <img alt="" width="446" height="596" src="img/writing-banner.webp">
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section s2" id="request">
-    <div class="container">
-        <div class="form-area">
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="div-img" data-aos="fade-right" data-aos-duration="2000">
-                        <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
-                    </div>
-                </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+            <div class="col-md-5">                
+                <div class="form-wrapper">                
                     <div class="form-head text-center">
+                        <figure>
+                            <img src="favicon.png" alt="image" class="img-fluid" width="100" height="100">
+                        </figure>
                         <h2>Let’s Bring Your Next <span>Bestseller</span> to Life.</h2>
                     </div>
                     <div class="footer-rfp form-style">
@@ -68,7 +57,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <textarea id="message" name="message" class="input-field" rows="3"
+                                    <textarea id="message" name="message" class="input-field" rows="1"
                                         placeholder="Tell Us What You’re Looking For"></textarea>
                                 </div>
                                 <div class="form-submit">
@@ -77,8 +66,7 @@
                             </form>
                         </div>
                     </div>
-                </div>
-            </div>
+                </div>            
         </div>
     </div>
 </section>
@@ -97,7 +85,7 @@
                         <a href="">
                             <li><img src="img/portfolio/2.jpg" alt=""></li>
                         </a>
-                        <a  href="">
+                        <a href="">
                             <li><img src="img/portfolio/3.jpg" alt=""></li>
                         </a>
                         <a href="">
@@ -148,7 +136,7 @@
         </div>
     </div>
 </section>
-<section class="section s6" data-aos="fade-up" data-aos-duration="2000">
+<section class="section s6" data-aos="fade-up" data-aos-duration="1200">
     <div class="container writing-com">
         <div class="heading text-center">
             <h2>Our Roadmap to Your Publishing Success</h2>
@@ -199,7 +187,7 @@
 </section>
 <section class="section multi">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>Publish a Wide Variety of Books</h2>
             <p>We specialize in publishing books across a range of genres, including:</p>
         </div>
@@ -230,133 +218,11 @@
         </div>
     </div>
 </section>
-<section class="pricing section" data-aos="fade-down" data-aos-duration="2000">
-    <div class="container">
-        <div class="row">
-            <div class="heading text-center">
-                <h2>Standard Book Writing <span>Packages</span></h2>
-            </div>
-            <div class="col-md-3">
-                <div class="pack-1">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Amazon </span>Publishing <span>Bundle</span></h4> -->
-                    <h3><span style="color:#000; font-size:14px;">25 Page Book </span><span>$</span>839
-                    </h3>
-                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
-                            For:</span> Children’s Books, Short eBooks, Lead Magnets, Guides, and Cookbooks</p>
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>Free Cover Design</li>
-                        <li>Royalty Free Images Included</li>
-                        <li>Formatting Check for All File Formats</li>
-                        <li>Multiple Print-Ready Formats (eBook, paperback, and hardcover)</li>
-                        <li>Delivery within 2 Weeks</li>
-                        <li>Free Author Consultation</li>
-                        <li>Unlimited FREE Revisions</li>
-                        <li>Dedicated Project Manager</li>
-
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="pack-1">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;">Bestseller <span>Book </span>Marketing
-                                <span>Bundle</span></h4> -->
-                    <h3><span style="color:#000; font-size:14px;">50 Page Book </span><span>$</span>1,499</h3>
-                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
-                            For:</span> Mid-Length eBooks, Short Memoirs, and Business Guides</p>
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>Free Custom Cover Design</li>
-                        <li>Royalty-Free Images Included</li>
-                        <li>Author Bio (Included)</li>
-                        <li>Custom Chapter Layout Design</li>
-                        <li>Table of Contents Design</li>
-                        <li>Formatting Check for All File Formats</li>
-                        <li>Multiple Print-Ready Formats</li>
-                        <li>Delivery Within 2 Weeks</li>
-                        <li>Free Author Consultation</li>
-                        <li>Unlimited FREE Revisions</li>
-                        <li>Dedicated Project Manager</li>
-                        <li>100% Satisfaction Guarantee</li>
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="pack-1">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Author </span>Branding
-                                <span>Bundle</span></h4> -->
-                    <h3><span style="color:#000; font-size:14px;">75 Page Book </span><span>$</span>2,249</h3>
-                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
-                            For:</span> Full-Length Guides, Non-Fiction
-                        Books, and Authoritative eBooks</p>
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>Free Cover Design</li>
-                        <li>Free Author Bio</li>
-                        <li>Royalty Free Images Included</li>
-                        <li>Formatting Check for All File Formats</li>
-                        <li>Multiple Print-Ready Formats (eBook, paperback, and hardcover)</li>
-                        <li>Delivery within 3 Weeks</li>
-                        <li>Free Author Consultation</li>
-                        <li>Free Book Planning Session (Included)</li>
-                        <li>Unlimited FREE Revisions</li>
-                        <li>Dedicated Project Manager</li>
-
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="pack-1">
-                    <!-- <h4 style="font-size:16px; font-weight: 700;">Bestseller <span>Book </span>Marketing
-                                <span>Bundle</span></h4> -->
-                    <h3><span style="color:#000; font-size:14px;">100 Page Book </span><span>$</span>2,999</h3>
-                    <p style="color: #000053; font-size: 14px;"><span style="color:#000; font-weight:800;">Ideal
-                            For:</span> Comprehensive Non-Fiction, Business
-                        Books, or In-Depth Guides</p>
-                    <ul>
-                        <h5>What you get:</h5>
-                        <li>Free Cover Design</li>
-                        <li>Free Author Bio</li>
-                        <li>Royalty Free Images Included</li>
-                        <li>Formatting Check for All File Formats</li>
-                        <li>Multiple Print-Ready Formats (eBook, paperback, and hardcover)</li>
-                        <li>Delivery within 1 Month</li>
-                        <li>Amazon Publishing (Included)</li>
-                        <li>Free Author Consultation</li>
-                        <li>Free Book Planning Session (Included)</li>
-                        <li>Free Book Launch Guidance</li>
-                        <li>Unlimited FREE Revisions</li>
-                        <li>Dedicated Project Manager</li>
-
-                    </ul>
-                    <div class="banner-btns justify-content-center">
-                        <a href="#rfp-top" class="talk-chat">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <p class="mt-5"><span style="color:#000053;">** </span>The packages outlined here reflect standard project
-                scopes. Final pricing may vary based on factors such as project complexity, subject matter, and specific
-                content requirements. For a customized quote that aligns with your unique goals, feel free to call us at
-                <a href="tel:+1 (206) 388 2791" style="color:#000053;">+1 (206) 388 2791</a>, start a <a
-                    href="javascript:;" class="chat" style="color:#000053;">live chat</a>, or submit a <a
-                    href="#request" style="color:#000053;">proposal request</a>.</p>
-        </div>
-    </div>
-</section>
 <section class="section s8">
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Your Story Deserves to <span>Be Told</span></h2>
                         <p>Claim Your Free Proposal Now.</p>
@@ -403,7 +269,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="div-img" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="div-img" data-aos="fade-right" data-aos-duration="1200">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                     </div>
                 </div>
@@ -414,10 +280,10 @@
 <section class="section s9">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-4 div-img" data-aos="fade-right" data-aos-duration="2000">
+            <div class="col-md-4 div-img" data-aos="fade-right" data-aos-duration="1200">
                 <img alt="" width="437" height="536" src="img/expert-book2.webp">
             </div>
-            <div class="col-md-8 div-text" data-aos="fade-left" data-aos-duration="2000">
+            <div class="col-md-8 div-text" data-aos="fade-left" data-aos-duration="1200">
                 <h2>Professional Ghostwriting Services — 100% Ownership Guaranteed</h2>
                 <p>Partner with our team for collaborative, start-to-finish book creation tailored to your vision.</p>
                 <ul class="list-style">
@@ -445,7 +311,7 @@
         </div>
     </div>
 </section>
-<section class="section s7" data-aos="fade-in" data-aos-duration="2000">
+<section class="section s7" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center width-70 m-auto">
             <h2>Q/A Session </h2>

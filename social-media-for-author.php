@@ -32,7 +32,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s6" data-aos="fade-down" data-aos-duration="2000">
+        <section class="section s6" data-aos="fade-down" data-aos-duration="1200">
             <div class="container social-com">
                 <div class="heading text-center">
                     <h2>The Complete Author Marketing Experience</h2>
@@ -96,12 +96,12 @@
             <div class="container">
                 <div class="form-area">
                     <div class="row align-items-center">
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="div-img">
                                 <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="form-head text-center">
                                 <h2>Boost Engagement, <span>Connect With Readers</span> Now!</h2>
                             </div>
@@ -150,7 +150,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="2000"
+        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="1200"
             style="padding:100px 0;">
             <div class="container">
                 <div class="row">
@@ -162,12 +162,12 @@
                 </div>
                 <div class="ttff">
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/social-1.webp" alt="Book idea concept">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Build Connections with Your Fans</h3>
                                 <p>Forge lasting relationships with your audience through meaningful interactions. We
@@ -180,7 +180,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Create Shareable, Engaging Content</h3>
                                 <p>Get your content seen and shared by more people. Our team crafts compelling posts,
@@ -190,19 +190,19 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/social-2.webp" alt="Book writing process">
                             </div>
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/social-3.webp" alt="Ebooks">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Boost Sales with Targeted Campaigns</h3>
                                 <p>Drive awareness and connect with readers using data-driven targeting designed to
@@ -213,7 +213,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service mt-3">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Stay Relevant Across Platforms</h3>
                                 <p>Consistency is key. Our experts ensure your brand message remains strong and relevant
@@ -223,7 +223,7 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/social-4.webp" alt="Books">
                             </div>
@@ -232,7 +232,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s9 extra-cta" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s9 extra-cta" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6">
@@ -325,7 +325,7 @@
             <div class="container">
                 <div class="form-area">
                     <div class="row align-items-center">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="form-head text-center">
                                 <h2>Unlock the Power of <span>Social Media </span>for Authors!</h2>
                             </div>
@@ -370,7 +370,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="div-img">
                                 <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                             </div>
@@ -379,7 +379,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">FAQs </h2>

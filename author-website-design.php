@@ -47,7 +47,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s9 extra-cta aos-init aos-animate" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s9 extra-cta aos-init aos-animate" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6">
@@ -70,7 +70,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s6" data-aos="fade-down" data-aos-duration="2000">
+        <section class="section s6" data-aos="fade-down" data-aos-duration="1200">
             <div class="container author-com">
                 <div class="heading text-center">
                     <h2>The Seamless Process Behind Your Perfect Author Website</h2>
@@ -118,7 +118,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="2000"
+        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="1200"
             style="padding:100px 0;">
             <div class="container">
                 <div class="row">
@@ -130,12 +130,12 @@
                 </div>
                 <div class="ttff">
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/authors-1.webp" alt="Book idea concept">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Design a Website That Reflects Your Brand</h3>
                                 <p>Your website is an extension of your brand. We design personalized websites that
@@ -147,7 +147,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>User-Friendly Websites That Retain Visitors</h3>
                                 <p>A beautiful website is important, but a functional one is crucial. Our designs focus
@@ -158,19 +158,19 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/authors-2.webp" alt="Book writing process">
                             </div>
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/authors-3.webp" alt="Book idea concept">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Full Control of Your Site with Our Easy Dashboard</h3>
                                 <p>We empower authors with easy-to-use tools to manage their sites. Our intuitive
@@ -182,7 +182,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Enhance Your Website with Minimal Effort</h3>
                                 <p>Keep your website fresh with minimal effort. We integrate tools that make updating
@@ -192,7 +192,7 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/authors-4.webp" alt="Book writing process">
                             </div>
@@ -205,12 +205,12 @@
             <div class="container">
                 <div class="form-area">
                     <div class="row align-items-center">
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="div-img">
                                 <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="form-head text-center">
                                 <h2>Let us Build a <span>Website </span>That Reflects Your Author Brand!</h2>
                             </div>
@@ -259,7 +259,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">FAQs </h2>

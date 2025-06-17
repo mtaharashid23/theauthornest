@@ -32,12 +32,12 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Request <span>Free Consultation</span></h2>
                     </div>
@@ -86,7 +86,7 @@
         </div>
     </div>
 </section>
-<section class="section s3 audio-com" data-aos="fade-in" data-aos-duration="2000">
+<section class="section s3 audio-com" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center">
             <h2>Listen Up: What Makes The Author Nest' Audiobook Services Exceptional?</h2>
@@ -134,7 +134,7 @@
 </section>
 <section class="section multi">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>We Publish Across Every Genre</h2>
             <p>
                 No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
@@ -168,7 +168,7 @@
         </div>
     </div>
 </section>
-<section class="pricing section" data-aos="fade-down" data-aos-duration="2000">
+<section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
     <div class="container">
         <div class="row">
             <div class="heading text-center">
@@ -275,19 +275,19 @@
 </section>
 <section class="audio-sec">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-donw" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-donw" data-aos-duration="1200">
             <h2>We distribute to leading platforms including <span>Audible, Amazon, iTunes,</span>
                 and more than 10 global audiobook stores.</h2>
             <p>Unsure of the best platforms for your audiobook? We’ll place it on every top platform worldwide,
                 giving it the global stage it deserves.</p>
-            <img src="img/audio-logos.webp" data-aos="fade-up" data-aos-duration="2000" alt="">
+            <img src="img/audio-logos.webp" data-aos="fade-up" data-aos-duration="1200" alt="">
             <div class="banner-btns justify-content-center"> <a href="request-free-proposal.php"
                     class="talk-chat extra-ress-2"> Get Started </a>
                 <a href="tel:+1 (206) 388 2791" class="talk-phone exta-ress"><i class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
         </div>
     </div>
 </section>
-<div class="slider" data-aos="fade-in" data-aos-duration="2000">
+<div class="slider" data-aos="fade-in" data-aos-duration="1200">
     <div class="slide-track">
         <div class="slide">
             <img src="img/audi-1.webp" alt="">
@@ -357,7 +357,7 @@
         </div>
     </div>
 </div>
-<section class="section s4 nitro-lazy" style="padding-top:100px;" data-aos="fade-down" data-aos-duration="2000">
+<section class="section s4 nitro-lazy" style="padding-top:100px;" data-aos="fade-down" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center">
             <h2>Genre-Based Audiobook Production: Find Your Fit!</h2>
@@ -517,7 +517,7 @@
         </div>
     </div>
 </section>
-<section class="section s7" data-aos="fade-in" data-aos-duration="2000">
+<section class="section s7" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center width-70 m-auto">
             <h2>Q/A Session </h2>

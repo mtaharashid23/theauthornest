@@ -36,12 +36,12 @@
             <div class="container">
                 <div class="form-area">
                     <div class="row align-items-center">
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
-                            <div class="div-img" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                            <div class="div-img" data-aos="fade-right" data-aos-duration="1200">
                                 <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="form-head text-center">
                                 <h2>Request Free<span> Publishing Consultation</span>.</h2>
                             </div>
@@ -93,11 +93,11 @@
         <section class="pricing section inner-pricing">
             <div class="container">
                 <div class="row">
-                    <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+                    <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
                         <h2>Your Author Needs, Our Publishing Expertise: <span>Tailored Solutions for Success</span>
                         </h2>
                     </div>
-                    <div class="col-md-4" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="col-md-4" data-aos="fade-right" data-aos-duration="1200">
                         <div class="pack-1">
                             <h4>Amazon Book Publishing Essentials </h4>
                             <p>Ideal for authors focusing solely <br><span>on Amazon</span></p>
@@ -125,7 +125,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4" data-aos="fade-in" data-aos-duration="2000">
+                    <div class="col-md-4" data-aos="fade-in" data-aos-duration="1200">
                         <div class="pack-1">
                             <h4>Multi-Platform Publishing Bundle </h4>
                             <p>Perfect for authors looking to distribute across <span>various platforms</span></p>
@@ -149,7 +149,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4" data-aos="fade-left" data-aos-duration="2000">
+                    <div class="col-md-4" data-aos="fade-left" data-aos-duration="1200">
                         <div class="pack-1">
                             <h4>360° Comprehensive Publishing Solution</h4>
                             <p>For a complete, expert-managed <span>publishing experience</span></p>
@@ -259,7 +259,7 @@
         </section>
         <section class="section multi">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>We Publish Across Every Genre</h2>
             <p>
                 No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
@@ -293,7 +293,7 @@
         </div>
     </div>
 </section>
-        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="2000"
+        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="1200"
             style="padding:100px 0;">
             <div class="container">
                 <div class="row">
@@ -306,12 +306,12 @@
                 </div>
                 <div class="ttff">
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/book-cover-publishing.webp" alt="">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>1</span> Cover Design</h3>
                                 <p>Create visually stunning books with designs that captivate and engage. Our expert
@@ -326,7 +326,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>2</span> Formatting</h3>
                                 <p>Our professional layouts ensure a seamless reading experience by adhering to the
@@ -340,19 +340,19 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/formating.webp" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/illustration.webp" alt="">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>3</span>Illustrations</h3>
                                 <p>Enhance your book with captivating illustrations that bring your vision to life. Our
@@ -367,7 +367,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service mt-3">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>4</span>Editing</h3>
                                 <p>With decades of editorial experience, we meticulously refine every aspect of your
@@ -381,19 +381,19 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/services-img-2.webp" alt="Book writing process">
                             </div>
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/proofreading.webp" alt="">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>5</span> Book Proofreading</h3>
                                 <p>Book Proofreading involves a comprehensive final review to eliminate typos, spelling
@@ -406,7 +406,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>6</span>All Leading Publishing Platforms</h3>
                                 <p>We ensure your book reaches a global audience by publishing it on all leading
@@ -418,19 +418,19 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/leading-publishing.webp" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="row align-items-center main-service mt-3">
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/services-img-5.webp" alt="Book printing">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>7</span>Printing</h3>
                                 <p>With generations of printing expertise, we provide exceptional quality in every
@@ -444,7 +444,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3><span>8</span>Marketing</h3>
                                 <p>Our expert marketing team crafts compelling outreach campaigns designed to generate
@@ -457,7 +457,7 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/services-img-4.webp" alt="Books">
                             </div>
@@ -468,13 +468,13 @@
         </section>
         <section class="section s5 nitro-lazy">
             <div class="container">
-                <div class="heading text-center" data-aos="fade-up" data-aos-duration="2000">
+                <div class="heading text-center" data-aos="fade-up" data-aos-duration="1200">
                     <h2>Our Published Blogs</h2>
                     <p>Learn with us through our proven marketing principles combined with modern-day branding and
                         storytelling expertise</p>
                 </div>
                 <div class="row resources-style ttff">
-                    <div class="col-md-4 resource-box" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="col-md-4 resource-box" data-aos="fade-right" data-aos-duration="1200">
                         <div class="resource-img">
                             <a href="fine-tune-blog.php"><img alt="A Concise Book Publishing Guide" width="164"
                                     height="221" src="img/resource-img-1.webp"></a>
@@ -498,7 +498,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-4 resource-box" data-aos="fade-left" data-aos-duration="2000">
+                    <div class="col-md-4 resource-box" data-aos="fade-left" data-aos-duration="1200">
                         <div class="resource-img">
                             <a href="your-complete-guide-blog.php"><img alt="A Concise Book Publishing Guide"
                                     width="164" height="221" src="img/resource-img-3.webp"></a>
@@ -514,7 +514,7 @@
                 <div class="text-center"> <a href="../blogs.php" class="primary-btn">Explore More</a> </div>
             </div>
         </section>
-        <section class="section s7" style="background:none !important;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s7" style="background:none !important;" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="heading text-center">
                     <h2 style="color:#000;">Book Publishing Services in The USA
@@ -562,7 +562,7 @@
             <div class="container">
                 <div class="form-area">
                     <div class="row align-items-center">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="form-head text-center">
                                 <h2>Hire the Best Publishing <span>Services Online</span>!</h2>
                                 <p>Talk to Our Publishing Experts</p>
@@ -608,7 +608,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="div-img">
                                 <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                             </div>
@@ -617,7 +617,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">Q/A Session </h2>

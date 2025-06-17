@@ -30,22 +30,22 @@
                 <div class="links-sec">
                     <h3>Services</h3>
                     <ul>
-                        <li><a href="book-writing-services.php">Book Writing Service</a></li>
-                        <li><a href="book-editing-services.php">Book Editing Service</a></li>
-                        <li><a href="book-publishing-services.php">Book Publishing Service</a></li>
-                        <li><a href="book-marketing-services.php">Book Marketing Service</a></li>
-                        <li><a href="book-printing-services.php">Book Printing Service</a></li>
+                        <li><a href="book-writing.php">Book Writing Service</a></li>
+                        <li><a href="book-editing.php">Book Editing Service</a></li>
+                        <li><a href="book-publishing.php">Book Publishing Service</a></li>
+                        <li><a href="book-marketing.php">Book Marketing Service</a></li>
+                        <li><a href="book-printing.php">Book Printing Service</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="links-sec mt-5">
                     <ul>
-                        <li><a href="audio-book-services.php">Audiobook Service</a></li>
+                        <li><a href="audio-book.php">Audiobook Service</a></li>
                         <li><a href="social-media-for-author.php">Social Media For Author</a></li>
-                        <li><a href="ebook-cover-design-services.php">Ebook Cover Design</a></li>
-                        <li><a href="author-website-design-services.php">Author Website Design</a></li>
-                        <li><a href="book-illustration-services.php">Book Illustration</a></li>
+                        <li><a href="ebook-cover-design.php">Ebook Cover Design</a></li>
+                        <li><a href="author-website-design.php">Author Website Design</a></li>
+                        <li><a href="book-illustration.php">Book Illustration</a></li>
                     </ul>
                 </div>
             </div>
@@ -361,30 +361,6 @@
             $(this).next("div").slideToggle(300);
         });
     }
-</script>
-
-<script>
-    let typeJsText = document.querySelector(".typeJsText");
-    let textArray = typeJsText.dataset.typetext.split("");
-    let counter = -1;
-    typeJsText.innerHTML = "";
-
-    function typeJs() {
-        if (counter < typeJsText.dataset.typetext.length) {
-            counter++;
-            typeJsText.innerHTML += typeJsText.dataset.typetext.charAt(counter);
-            textArray = typeJsText.dataset.typetext.split("");
-        } else {
-            textArray.pop();
-            typeJsText.innerHTML = textArray.join("");
-            if (textArray.length == 0) {
-                counter = -1;
-            }
-        }
-    }
-    setInterval(() => {
-        typeJs();
-    }, 200);
 </script>
 
 <script>

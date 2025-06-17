@@ -29,12 +29,12 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Start Your Publishing Journey with a <span>Free Proposal</span></h2>
                     </div>
@@ -84,7 +84,7 @@
     </div>
 </section>
 
-<section class="pricing section" data-aos="fade-down" data-aos-duration="2000">
+<section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
     <div class="container">
         <div class="row">
             <div class="heading text-center">
@@ -190,7 +190,7 @@
     </div>
 </section>
 
-<section class="lower-pack section" data-aos="fade-in" data-aos-duration="2000">
+<section class="lower-pack section" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -210,7 +210,7 @@
     </div>
 </section>
 
-<section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="2000" style="padding:100px 0;">
+<section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="1200" style="padding:100px 0;">
     <div class="container">
         <div class="row">
             <div class="heading text-center">
@@ -223,12 +223,12 @@
         </div>
         <div class="ttff">
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/services-img-1.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3><span>1</span> Your Vision, Our Words</h3>
                         <p>
@@ -243,7 +243,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3><span>2</span> Refine Your Manuscript with Precision</h3>
                         <p>
@@ -256,19 +256,19 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/services-img-2.webp" alt="Book writing process">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/services-img-3.webp" alt="Ebooks">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3><span>3</span> Launch Your Book with Confidence</h3>
                         <p>
@@ -283,7 +283,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service mt-3">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3><span>4</span> Promote Your Book the Right Way</h3>
                         <p>
@@ -296,19 +296,19 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/services-img-4.webp" alt="Books">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/services-img-5.webp" alt="Book printing">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3><span>5</span> Print with Excellence</h3>
                         <p>
@@ -327,7 +327,7 @@
 
 <section class="section multi">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>We Publish Across Every Genre</h2>
             <p>
                 No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
@@ -364,7 +364,7 @@
 
 <section class="section s5 nitro-lazy">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-up" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-up" data-aos-duration="1200">
             <h2>Our Published Blogs</h2>
             <p>
                 Explore expert insights on writing, publishing, and marketing—rooted in real-world strategies and modern
@@ -372,7 +372,7 @@
             </p>
         </div>
         <div class="row resources-style ttff">
-            <div class="col-md-4 resource-box" data-aos="fade-right" data-aos-duration="2000">
+            <div class="col-md-4 resource-box" data-aos="fade-right" data-aos-duration="1200">
                 <div class="resource-img">
                     <a href="fine-tune-blog.php"><img alt="A Concise Book Publishing Guide" width="164" height="221"
                             src="img/resource-img-1.webp"></a>
@@ -398,7 +398,7 @@
                     </div>
                 </a>
             </div>
-            <div class="col-md-4 resource-box" data-aos="fade-left" data-aos-duration="2000">
+            <div class="col-md-4 resource-box" data-aos="fade-left" data-aos-duration="1200">
                 <div class="resource-img">
                     <a href="your-complete-guide-blog.php"><img alt="A Concise Book Publishing Guide" width="164"
                             height="221" src="img/resource-img-3.webp"></a>
@@ -416,7 +416,7 @@
     </div>
 </section>
 
-<section class="section s6" data-aos="fade-down" data-aos-duration="2000">
+<section class="section s6" data-aos="fade-down" data-aos-duration="1200">
     <div class="container home-com">
         <div class="heading text-center">
             <h2>Our Commitment to You</h2>
@@ -476,7 +476,7 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>
                             Ready to <span>Publish</span> and <span>Promote</span>
@@ -529,7 +529,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="div-img" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="div-img" data-aos="fade-right" data-aos-duration="1200">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                     </div>
                 </div>
@@ -538,7 +538,7 @@
     </div>
 </section>
 
-<section class="section s9" data-aos="fade-in" data-aos-duration="2000">
+<section class="section s9" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -556,7 +556,7 @@
     </div>
 </section>
 
-<section class="section s10" data-aos="fade-in" data-aos-duration="2000">
+<section class="section s10" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center width-70 m-auto">
             <h2>Frequently Asked Questions</h2>

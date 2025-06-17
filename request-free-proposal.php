@@ -4,7 +4,7 @@
                 <div class="form-area">
                     <div class="row align-items-center">
                         <div class="col-md-6">
-                            <div class="div-img aos-init aos-animate" data-aos="fade-right" data-aos-duration="2000">
+                            <div class="div-img aos-init aos-animate" data-aos="fade-right" data-aos-duration="1200">
                                 <img alt="Request A Free Proposal" width="436" height="463" src="img/request-1.webp">
                             </div>
                         </div>
@@ -13,7 +13,7 @@
                                 <h2>Request Your <span>Free Proposal </span>Now</h2>
                             </div>
                             <div class="footer-rfp form-style aos-init aos-animate" data-aos="fade-left"
-                                data-aos-duration="2000">
+                                data-aos-duration="1200">
                                 <div class="form-body">
                                     <form class="entryform">
                                 <div class="form-group">

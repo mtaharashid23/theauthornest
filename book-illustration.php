@@ -24,7 +24,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s6" data-aos="fade-down" data-aos-duration="2000">
+        <section class="section s6" data-aos="fade-down" data-aos-duration="1200">
             <div class="container ill-com">
                 <div class="heading text-center">
                     <h2>Our Creative Illustration Process</h2>
@@ -74,12 +74,12 @@
             <div class="container">
                 <div class="form-area">
                     <div class="row align-items-center">
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="div-img">
                                 <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="form-head text-center">
                                 <h2><span>Illustrations</span> That Bring Your Story to Life.</h2>
                             </div>
@@ -128,7 +128,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s9 extra-cta" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s9 extra-cta" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6">
@@ -146,7 +146,7 @@
                 </div>
             </div>
         </section>
-        <section class="pricing section" data-aos="fade-down" data-aos-duration="2000">
+        <section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
             <div class="container">
                 <div class="row">
                     <div class="heading text-center">
@@ -226,7 +226,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="2000"
+        <section class="section s3" id="section-3" data-aos="fade-down" data-aos-duration="1200"
             style="padding:100px 0;">
             <div class="container">
                 <div class="row">
@@ -238,12 +238,12 @@
                 </div>
                 <div class="ttff">
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/illus-3.webp" alt="Book idea concept">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Tailored Artwork for Your Story</h3>
                                 <p>Every story is unique, and your illustrations should be too. We work closely with you
@@ -255,7 +255,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>High-Quality Visuals That Spark Reader Interest</h3>
                                 <p>Our team specializes in creating illustrations that spark the imagination. With
@@ -265,19 +265,19 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/illus-1.webp" alt="Book writing process">
                             </div>
                         </div>
                     </div>
                     <div class="row align-items-center main-service">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/illus-2.webp" alt="Ebooks">
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3> Illustrations That Reflect Your Story</h3>
                                 <p>Your illustrations should be as meaningful as your words. We craft each design to
@@ -289,7 +289,7 @@
                         </div>
                     </div>
                     <div class="row align-items-center main-service mt-3">
-                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                             <div class="service-meta">
                                 <h3>Unique, Handcrafted Designs</h3>
                                 <p>Each illustration is carefully handcrafted by our talented artists, resulting in
@@ -299,7 +299,7 @@
                                     More</a>
                             </div>
                         </div>
-                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                        <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                             <div class="service-img">
                                 <img src="img/illus-4.webp" alt="Books">
                             </div>
@@ -329,7 +329,7 @@
                 </div>
             </div>
         </section>
-        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="2000">
+        <section class="section s11" style="background: #000053;" data-aos="fade-in" data-aos-duration="1200">
             <div class="container">
                 <div class="heading text-center width-70 m-auto">
                     <h2 style="color:#fff !important;">FAQs </h2>

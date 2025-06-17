@@ -39,12 +39,12 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Let's Discuss Your Next <span>Bestseller</span>.</h2>
                     </div>
@@ -93,7 +93,7 @@
         </div>
     </div>
 </section>
-<section class="section s3" data-aos="fade-up" data-aos-duration="2000">
+<section class="section s3" data-aos="fade-up" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center">
             <h2>Book Marketing Services Designed For You.</h2>
@@ -139,7 +139,7 @@
         </div>
     </div>
 </section>
-<section class="pricing section" data-aos="fade-down" data-aos-duration="2000">
+<section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
     <div class="container">
         <div class="row">
             <div class="heading text-center">
@@ -262,10 +262,10 @@
 <section class="section s5 nitro-lazy">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-4 div-img" data-aos="fade-right" data-aos-duration="2000">
+            <div class="col-md-4 div-img" data-aos="fade-right" data-aos-duration="1200">
                 <img alt="" width="437" height="536" src="img/expert-book2.webp">
             </div>
-            <div class="col-md-8 div-text" data-aos="fade-left" data-aos-duration="2000">
+            <div class="col-md-8 div-text" data-aos="fade-left" data-aos-duration="1200">
                 <h2>Leaving No Stones Unturned to Build Your Book’s Success </h2>
                 <p>Getting your book the reach it deserves is the only thing on our minds. Here’s just a taste
                     of the successes you can experience on your book’s marketing journey.</p>
@@ -286,7 +286,7 @@
         </div>
     </div>
 </section>
-<section class="section s6" data-aos="fade-down" data-aos-duration="2000">
+<section class="section s6" data-aos="fade-down" data-aos-duration="1200">
     <div class="container merketing-com">
         <div class="heading text-center">
             <h2>How Our Book Marketing Process Works?</h2>
@@ -331,7 +331,7 @@
 </section>
 <section class="section multi">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>We Publish Across Every Genre</h2>
             <p>
                 No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
@@ -365,7 +365,7 @@
         </div>
     </div>
 </section>
-<section class="section s7" data-aos="fade-in" data-aos-duration="2000">
+<section class="section s7" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center width-70 m-auto">
             <h2>Q/A Session </h2>

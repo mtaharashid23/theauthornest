@@ -4,11 +4,11 @@
         <div class="row">
             <div class="col-md-5 left-side">
                 <div class="footer-rfp form-style">
-                    <div class="heading" data-aos="fade-down" data-aos-duration="2000">
+                    <div class="heading" data-aos="fade-down" data-aos-duration="1200">
                         <h2 style="color:#fff;">Get in Touch</h2>
                         <p style="color:#fff;">Have a question or need assistance? Fill out the form below, and our team will get back to you promptly.</p>
                     </div>
-                    <div class="form-body" id="hero-form" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="form-body" id="hero-form" data-aos="fade-right" data-aos-duration="1200">
                         <form class="entryform">
                             <div class="form-group">
                                 <div class="group-item">
@@ -49,8 +49,8 @@
                 </div>
             </div>
             <div class="col-md-7 right-side">
-                <h2 data-aos="fade-down" data-aos-duration="2000">Contact Details</h2>
-                <ul class="contact-details" data-aos="fade-left" data-aos-duration="2000">
+                <h2 data-aos="fade-down" data-aos-duration="1200">Contact Details</h2>
+                <ul class="contact-details" data-aos="fade-left" data-aos-duration="1200">
                     <li>
                         <div class="icon">
                             <img src="img/contact-ic1.webp">

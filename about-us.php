@@ -184,7 +184,7 @@
     </div>
 </section>
 <div class="container">
-    <section class="cta-about" data-aos="fade-in" data-aos-duration="2000">
+    <section class="cta-about" data-aos="fade-in" data-aos-duration="1200">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -205,12 +205,12 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Let’s help your story reach more <span>readers around the world.</span></h2>
                     </div>

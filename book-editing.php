@@ -32,12 +32,12 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Collaborate Directly With Our <span>Expert Editors</span>.</h2>
                     </div>
@@ -88,7 +88,7 @@
 </section>
 <section class="section s4 nitro-lazy">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>Versatile Editing Options</h2>
             <p>
                 We provide a comprehensive range of editing services tailored to meet your unique needs whether you
@@ -160,7 +160,7 @@
         </div>
     </div>
 </section>
-<section class="pricing section" data-aos="fade-down" data-aos-duration="2000">
+<section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
     <div class="container">
         <div class="row">
             <div class="heading text-center">
@@ -246,7 +246,7 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Hire Top-Tier Editing <span>Services Online</span>!</h2>
                         <p>Connect with our experienced editors today and bring your manuscript to professional
@@ -295,7 +295,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="div-img" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="div-img" data-aos="fade-right" data-aos-duration="1200">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                     </div>
                 </div>
@@ -303,7 +303,7 @@
         </div>
     </div>
 </section>
-<section class="section s6" data-aos="fade-up" data-aos-duration="2000">
+<section class="section s6" data-aos="fade-up" data-aos-duration="1200">
     <div class="container editing-com">
         <div class="heading text-center">
             <h2>Our Proven Editing Process</h2>
@@ -354,7 +354,7 @@
 </section>
 <section class="section multi">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
             <h2>We Publish Across Every Genre</h2>
             <p>
                 No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
@@ -388,7 +388,7 @@
         </div>
     </div>
 </section>
-<section class="section s7" data-aos="fade-in" data-aos-duration="2000">
+<section class="section s7" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
         <div class="heading text-center width-70 m-auto">
             <h2>Q/A Session.</h2>

@@ -8,10 +8,7 @@
     <link rel="icon" href="favicon.png" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lexend+Deca:wght@100..900&display=swap"
-        rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -64,30 +61,30 @@
                                 <li><a href="index.php">Home</a></li>
                                 <li class="dropdown first">Our Services <i class="fas fa-chevron-down"></i>
                                     <ul class="sub-menu dropdown-list">
-                                        <li class="first"><a href="book-writing-services.php">Book Writing
+                                        <li class="first"><a href="book-writing.php">Book Writing
                                                 Service</a></li>
-                                        <li class="first"><a href="book-editing-services.php">Book Editing
+                                        <li class="first"><a href="book-editing.php">Book Editing
                                                 Service</a></li>
-                                        <li class="first"><a href="book-publishing-services.php">Book Publishing
+                                        <li class="first"><a href="book-publishing.php">Book Publishing
                                                 Service</a></li>
-                                        <li class="first"><a href="book-marketing-services.php">Book Marketing
+                                        <li class="first"><a href="book-marketing.php">Book Marketing
                                                 Service</a>
                                         </li>
-                                        <li class="first"><a href="book-printing-services.php">Book Printing
+                                        <li class="first"><a href="book-printing.php">Book Printing
                                                 Service</a>
                                         </li>
-                                        <li class="first"><a href="audio-book-services.php">Audiobook Service</a>
+                                        <li class="first"><a href="audio-book.php">Audiobook Service</a>
                                         </li>
                                         <li class="first"><a href="social-media-for-author.php">Social Media For
                                                 Author</a>
                                         </li>
-                                        <li class="first"><a href="ebook-cover-design-services.php">Ebook Cover
+                                        <li class="first"><a href="ebook-cover-design.php">Ebook Cover
                                                 Design</a>
                                         </li>
-                                        <li class="first"><a href="author-website-design-services.php">Author
+                                        <li class="first"><a href="author-website-design.php">Author
                                                 Website Design</a>
                                         </li>
-                                        <li class="first"><a href="book-illustration-services.php">Book
+                                        <li class="first"><a href="book-illustration.php">Book
                                                 Illustration</a>
                                         </li>
                                     </ul>
