@@ -377,12 +377,9 @@
         </div>
     </div>
 </section>
-<section class="section s7" data-aos="fade-in" data-aos-duration="1200">
+<section class="section faq-section bg-transparent" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
-        <div class="heading text-center width-70 m-auto">
-            <h2>Q/A Session.</h2>
-        </div>
-        <div class="row">
+        <!-- <div class="row">
             <div class="col-md-6">
                 <div class="accordion">
                     <div class="accordion__item">
@@ -523,6 +520,142 @@
                         <div class="accordion__item__content" style="display:none;">
                             <p>Your satisfaction is our priority. If you are not satisfied, we will work with
                                 you to address your concerns and make necessary adjustments.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="heading text-center width-70 m-auto">
+            <h2>FAQ's</h2>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-12">
+                <div id="accordion" data-aos="fade-up">
+                    <div class="row justify-content-center mt-4">
+                        <div class="col-lg-10">
+                            <div class="card">
+                                <div class="card-header">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseOne">
+                                        Q1: What services do you offer for book publishing?
+                                    </button>
+                                </div>
+                                <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p>
+                                            A: We offer comprehensive publishing solutions to support your entire
+                                            journey. Our services include manuscript editing, professional formatting
+                                            for print and digital platforms, ISBN registration, and global distribution.
+                                            Our team ensures your book meets all industry standards, presenting it
+                                            professionally to readers worldwide.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseTwo">
+                                        Q2: How do you help with manuscript editing?
+                                    </button>
+                                </div>
+                                <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p>
+                                            A: Our professional editing team collaborates with you to improve the
+                                            clarity, structure, and overall flow of your manuscript while preserving
+                                            your unique voice. We provide comprehensive editing and thorough
+                                            proofreading to ensure your book is polished, error-free, and ready for
+                                            publication.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseThree">
+                                        Q3: What is the process for getting an ISBN?
+                                    </button>
+                                </div>
+                                <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p>
+                                            A: We assist you in registering an International Standard Book Number ISBN
+                                            to uniquely identify your book in the global marketplace. Our team handles
+                                            the technical details and guides you through the entire process ensuring
+                                            your book receives a valid ISBN for both print and digital editions, making
+                                            it ready for distribution and cataloging worldwide.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseFour">
+                                        Q4: Do you assist with copyright protection?
+                                    </button>
+                                </div>
+                                <div id="collapseFour" class="collapse" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p>
+                                            A: Yes, we provide guidance on securing copyright protection for your work.
+                                            Our team helps you understand your rights as an author and supports you in
+                                            taking the necessary steps to legally protect your book from unauthorized
+                                            use or reproduction.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseFive">
+                                        Q5: Which publishing platforms do you use?
+                                    </button>
+                                </div>
+                                <div id="collapseFive" class="collapse" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p>
+                                            A: We support a range of trusted publishing platforms, including Amazon KDP,
+                                            IngramSpark, and other industry-standard services for both print and digital
+                                            publishing. Our team works closely with you to select the platform that best
+                                            fits your book’s goals, audience, and distribution needs.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                        Q6: Is online book marketing right for me?
+                                    </button>
+                                </div>
+                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p>
+                                            A: Absolutely. Online book marketing is valuable for authors at any stage
+                                            whether you’re launching your first book or aiming to grow your readership.
+                                            We customize marketing strategies based on your genre, goals, and target
+                                            audience to help you boost visibility, connect with readers, and build your
+                                            author brand effectively.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                        Q7: What competitive advantages will I get from book marketing?
+                                    </button>
+                                </div>
+                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                    <div class="card-body">
+                                        <p>
+                                            A: Our book marketing services are designed to help you reach the right
+                                            audience, increase your book's visibility, and ultimately drive sales. We
+                                            use data-driven strategies, social media outreach, and email campaigns to
+                                            ensure your book stands out.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

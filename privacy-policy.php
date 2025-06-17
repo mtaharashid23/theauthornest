@@ -97,7 +97,7 @@
                         external parties without your consent.</p>
                     <p>Under CalOPPA, California residents have the right to request information about the personal data
                         we’ve collected, as well as request its deletion. To make such a request, please contact us at
-                        [<a href="mailto:info@theauthornest.com">info@theauthornest.com</a>.
+                        info@theauthornest.com.
                     </p>
                 </div>
                 <div class="para">
