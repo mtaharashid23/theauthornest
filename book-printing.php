@@ -529,11 +529,11 @@
                             </div>
                             <div class="card">
                                 <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSeven">
                                         Q7: What competitive advantages will I get from book marketing?
                                     </button>
                                 </div>
-                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body">
                                         <p>
                                             A: Our book marketing services are designed to help you reach the right

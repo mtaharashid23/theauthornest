@@ -140,12 +140,12 @@
         </div>
         <div class="ttff">
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/social-1.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Build Connections with Your Fans</h3>
                         <p>Forge lasting relationships with your audience through meaningful interactions. We
@@ -158,7 +158,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Create Shareable, Engaging Content</h3>
                         <p>Get your content seen and shared by more people. Our team crafts compelling posts,
@@ -168,19 +168,19 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/social-2.webp" alt="Book writing process">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/social-3.webp" alt="Ebooks">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Boost Sales with Targeted Campaigns</h3>
                         <p>Drive awareness and connect with readers using data-driven targeting designed to
@@ -191,7 +191,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service mt-3">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Stay Relevant Across Platforms</h3>
                         <p>Consistency is key. Our experts ensure your brand message remains strong and relevant
@@ -201,7 +201,7 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/social-4.webp" alt="Books">
                     </div>
@@ -303,7 +303,7 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Unlock the Power of <span>Social Media </span>for Authors!</h2>
                     </div>
@@ -348,7 +348,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                     </div>
@@ -647,11 +647,11 @@
                             </div>
                             <div class="card">
                                 <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSeven">
                                         Q7: What competitive advantages will I get from book marketing?
                                     </button>
                                 </div>
-                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body">
                                         <p>
                                             A: Our book marketing services are designed to help you reach the right

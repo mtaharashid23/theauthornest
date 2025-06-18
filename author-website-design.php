@@ -175,12 +175,12 @@
         </div>
         <div class="ttff">
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/authors-1.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Design a Website That Reflects Your Brand</h3>
                         <p>Your website is an extension of your brand. We design personalized websites that
@@ -192,7 +192,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>User-Friendly Websites That Retain Visitors</h3>
                         <p>A beautiful website is important, but a functional one is crucial. Our designs focus
@@ -203,19 +203,19 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/authors-2.webp" alt="Book writing process">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/authors-3.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Full Control of Your Site with Our Easy Dashboard</h3>
                         <p>We empower authors with easy-to-use tools to manage their sites. Our intuitive
@@ -227,7 +227,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Enhance Your Website with Minimal Effort</h3>
                         <p>Keep your website fresh with minimal effort. We integrate tools that make updating
@@ -237,7 +237,7 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/authors-4.webp" alt="Book writing process">
                     </div>
@@ -524,11 +524,11 @@
                             </div>
                             <div class="card">
                                 <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSeven">
                                         Q7: What competitive advantages will I get from book marketing?
                                     </button>
                                 </div>
-                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body">
                                         <p>
                                             A: Our book marketing services are designed to help you reach the right

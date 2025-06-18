@@ -145,12 +145,12 @@
         </div>
         <div class="ttff">
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/illus-3.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Tailored Artwork for Your Story</h3>
                         <p>Every story is unique, and your illustrations should be too. We work closely with you
@@ -162,7 +162,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>High-Quality Visuals That Spark Reader Interest</h3>
                         <p>Our team specializes in creating illustrations that spark the imagination. With
@@ -172,19 +172,19 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/illus-1.webp" alt="Book writing process">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/illus-2.webp" alt="Ebooks">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3> Illustrations That Reflect Your Story</h3>
                         <p>Your illustrations should be as meaningful as your words. We craft each design to
@@ -196,7 +196,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service mt-3">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Unique, Handcrafted Designs</h3>
                         <p>Each illustration is carefully handcrafted by our talented artists, resulting in
@@ -206,7 +206,7 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/illus-4.webp" alt="Books">
                     </div>
@@ -510,11 +510,11 @@
                             </div>
                             <div class="card">
                                 <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSeven">
                                         Q7: What competitive advantages will I get from book marketing?
                                     </button>
                                 </div>
-                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body">
                                         <p>
                                             A: Our book marketing services are designed to help you reach the right

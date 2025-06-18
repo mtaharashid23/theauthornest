@@ -444,7 +444,7 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Hire the Best Publishing <span>Services Online</span>!</h2>
                         <p>Talk to Our Publishing Experts</p>
@@ -490,7 +490,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                     </div>
@@ -736,11 +736,11 @@
                             </div>
                             <div class="card">
                                 <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSeven">
                                         Q7: What competitive advantages will I get from book marketing?
                                     </button>
                                 </div>
-                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body">
                                         <p>
                                             A: Our book marketing services are designed to help you reach the right

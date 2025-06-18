@@ -88,12 +88,12 @@
         </div>
         <div class="ttff">
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/ebook-f-1.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Reflect Your Book’s Heart and Soul</h3>
                         <p>Your eBook cover should embody the core of your story. Our designers focus on
@@ -105,7 +105,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Design a Memorable, Standout Cover</h3>
                         <p>A standout cover is key to attracting readers. We create covers that leave a lasting
@@ -115,19 +115,19 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/ebook-f-2.webp" alt="Book writing process">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/ebook-f-3.webp" alt="Book idea concept">
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Make a Strong First Impression</h3>
                         <p>A strong first impression is crucial. Our eBook covers are crafted to ensure your
@@ -139,7 +139,7 @@
                 </div>
             </div>
             <div class="row align-items-center main-service">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="service-meta">
                         <h3>Attract Readers with a High-Impact Cover</h3>
                         <p>A high-impact cover draws readers in and encourages them to explore your book. Our
@@ -149,7 +149,7 @@
                             More</a>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="service-img">
                         <img src="img/ebook-f-4.webp" alt="Book writing process">
                     </div>
@@ -256,7 +256,7 @@
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
                     <div class="form-head text-center">
                         <h2>Captivate Readers with a <span>Stunning eBook Cover</span></h2>
                     </div>
@@ -301,7 +301,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="1200">
                     <div class="div-img">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                     </div>
@@ -585,11 +585,11 @@
                             </div>
                             <div class="card">
                                 <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
+                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSeven">
                                         Q7: What competitive advantages will I get from book marketing?
                                     </button>
                                 </div>
-                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
+                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordion">
                                     <div class="card-body">
                                         <p>
                                             A: Our book marketing services are designed to help you reach the right

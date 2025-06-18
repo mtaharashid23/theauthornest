@@ -6100,8 +6100,9 @@ h2#swal2-title {
 }
 
 label.error {
-    padding: 0 1.5rem;
-    color: #000053;
+    font-size: 12px;
+    padding: 0 1em;
+    color: #ff0000;
     margin: .25rem 0 0;
 }
 
