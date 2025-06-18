@@ -15,6 +15,51 @@
     <link href="css/style.css" rel="stylesheet">    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16459673344"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'AW-16459673344');
+    </script>
+    <?php
+        // ✅ Only add the event on the thank-you page
+        if (basename($_SERVER['PHP_SELF']) == 'thank-you.php') :
+        ?>
+        <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-16459673344/WUG9CKTV4sEZEIDeyqg9',
+            'value': 25.0,
+            'currency': 'USD'
+        });
+    </script>
+    <?php endif; ?>
+    <!-- Event snippet for Email clicks conversion page -->
+    <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-16459673344/4usVCKfV4sEZEIDeyqg9',
+            'value': 25.0,
+            'currency': 'USD'
+        });
+    </script>
+    <!-- Event snippet for Phone number clicks conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-16459673344/yetOCKrV4sEZEIDeyqg9'});
+    </script>
+    <!-- Event snippet for Address clicks conversion page -->
+    <script>
+        gtag('event', 'conversion', {
+            'send_to': 'AW-16459673344/24-gCK3V4sEZEIDeyqg9',
+            'value': 25.0,
+            'currency': 'USD'
+        });
+    </script>
+    <!-- Event snippet for Book an Appointment conversion page -->
+    <script>
+        gtag('event', 'conversion', {'send_to': 'AW-16459673344/6l_-CO7r3MQZEIDeyqg9'});
+    </script>
 </head>
 
 <body id="content">

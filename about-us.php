@@ -14,85 +14,53 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <div class="about-meta">
-                    <h2>Where It <span>Started</span></h2>
+                    <h2>Where It <span>All Began</span></h2>
                     <p>
-                        The story of The Author Nest began in 1997, when a 17-year-old Aaron Kenn affectionately known
-                        today as The Big Bird embarked on his publishing journey at a small, local publishing house.
-                        Fueled by a deep love for books and their power to inspire change, Aaron committed himself to
-                        mastering the craft of writing, editing, and publishing.
+                        The Author Nest was born from a passion for storytelling and a belief in the transformative power of books. Founded by Aaron Kenn, affectionately known as The Big Bird, the vision was clear: empower authors with the tools, guidance, and creative freedom they need to bring their stories to life.
                     </p>
                     <p>
-                        Over the years, he collaborated with numerous book writing and publishing firms, earning a
-                        reputation for his keen editorial eye and strategic marketing skills. While working full-time,
-                        Aaron also earned his degree in Economics from the London School of Economics, managing and
-                        mentoring teams of editors, publishers, and marketers along the way. His holistic approach not
-                        only helped authors shape their stories but also ensured they reached the right readers.
+                        Through years of dedication and collaboration with leading publishing experts, Aaron built a team that champions every step of the journey—from writing and editing to publishing and marketing. His commitment to helping authors shape meaningful narratives and connect with the right readers laid the foundation for what The Author Nest is today.
                     </p>
                     <p>
-                        After a decade of invaluable experience, Aaron made a bold decision to step away from corporate
-                        publishing and create a space where authors were more than just clients. They were partners. He
-                        began assisting friends and family in bringing their stories to life, which quickly grew into
-                        something bigger. What started as a small class for aspiring writers evolved into The Author
-                        Nest a full-fledged platform dedicated to empowering authors through expert guidance, creative
-                        freedom, and personalized support.
+                        What started as a simple desire to help others share their stories has grown into a trusted platform where writers find expert support, genuine partnership, and a community that believes every voice matters.
                     </p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="about-one-img">
-                    <img src="img/about1.webp" alt="">
+                    <img src="img/about1.webp" alt="About The Author Nest">
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 <section class="lives">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
                 <div class="about-one-img">
-                    <img src="img/about2.webp" alt="">
+                    <img src="img/about2.webp" alt="Changing Lives">
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="lives-meta">
                     <h2>Changing <span>Lives</span></h2>
                     <p>
-                        Later that same year, Aaron Kenn’s life was shaken by a heartbreaking tragedy the sudden passing
-                        of Lisa, the 9-year-old daughter of a close friend, during a family vacation. The loss was
-                        devastating and left Aaron with a deep sense of grief and a renewed awareness of life’s
-                        fragility. In the midst of mourning, he felt a powerful calling: to honor the life and potential
-                        Lisa would never have the chance to fully realize.
+                        Behind The Author Nest is a deep understanding that stories do more than entertain—they heal, inspire, and preserve the legacy of voices that deserve to be heard. This belief has shaped our mission to support aspiring authors at every stage of their publishing journey.
                     </p>
                     <p>
-                        While helping the family sort through Lisa’s belongings, Aaron came across a journal filled with
-                        her vivid drawings and imaginative stories. Inspired by Aaron’s journey as a writer, Lisa had
-                        begun crafting her own magical world innocent, whimsical, and full of heart. Though her little
-                        book was never officially published, it became a cherished treasure among friends and family,
-                        resonating deeply with all who read it.
+                        Each story entrusted to us is treated with care, respect, and a commitment to excellence. Whether it’s a personal memoir, a business book, or a children’s tale, we help transform ideas into beautifully crafted books that reach and resonate with readers worldwide.
                     </p>
                     <p>
-                        This experience became a turning point for Aaron. It revealed to him the incredible power of
-                        storytelling not just to entertain, but to heal, inspire, and preserve legacy. Fueled by Lisa’s
-                        memory and the impact of her untold stories, Aaron found new purpose.
-                    </p>
-                    <p>
-                        Together with a group of like-minded co-founders, he established The Author Nest a one-window
-                        solution for aspiring authors, offering complete services from writing, editing, and printing to
-                        marketing and audiobook production. The mission was clear: to give every voice a platform and
-                        ensure that no meaningful story goes untold.
-                    </p>
-                    <p>
-                        Aaron’s journey, rooted in both personal loss and transformation, continues to shape the heart
-                        of The Author Nest. Through this platform, he is dedicated to guiding others through the
-                        publishing process, helping them create lasting legacies just as Lisa’s stories continue to
-                        inspire those who remember her.
+                        Today, The Author Nest stands as a one-stop partner for authors, offering comprehensive services including writing, editing, printing, marketing, and audiobooks—ensuring that no meaningful story goes untold.
                     </p>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 <section class="purpose">
     <div class="container">
         <div class="row">
@@ -100,9 +68,7 @@
                 <div class="about-meta">
                     <h2>Our <span>Purpose</span></h2>
                     <p>
-                        At The Author Nest, we believe everyone has a story worth sharing. We exist to help individuals
-                        transform their ideas into books that inspire, educate, and create lasting impact. One story has
-                        the power to change many lives and we’re here to make sure yours is told.
+                        We believe every person has a story worth telling. Our purpose is to help you share yours—turning ideas into books that inspire, educate, and create lasting impact. One story has the power to change many lives, and we’re here to make sure yours does.
                     </p>
                 </div>
             </div>
@@ -110,15 +76,14 @@
                 <div class="about-meta">
                     <h2>Our <span>Mission</span></h2>
                     <p>
-                        We are on a mission to empower authors to self-publish 100,000 books by 2037. Through
-                        personalized guidance, expert services, and educational support, our vision is to inspire over
-                        150 million readers worldwide by helping authors bring meaningful stories to life.
+                        Our mission is to empower writers to publish thousands of meaningful books that reach millions of readers around the world. With tailored guidance, professional services, and a passion for storytelling, we help authors bring powerful ideas to life and leave a legacy that endures.
                     </p>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 <div class="container values-heading">
     <div class="row">
         <div class="col-md-12">
@@ -126,63 +91,53 @@
         </div>
     </div>
 </div>
+
 <section class="values">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="values-meta">
-                    <h5><span>1.</span> Honesty & Integrity Always Win</h5>
+                    <h5><span>1.</span> Integrity & Transparency</h5>
                     <p>
-                        We build trust through transparency with our authors, our team, and our work. We deliver honest,
-                        constructive feedback, champion authentic storytelling, and openly share our results and success
-                        stories. Integrity is the foundation of every project we take on.
+                        Trust is at the heart of what we do. We’re open, honest, and transparent with our authors and our team—sharing feedback, celebrating wins, and always acting with integrity.
                     </p>
-                    <h5><span>2.</span> Fail Fast. Fail Forward. Fail Often.</h5>
+                    <h5><span>2.</span> Learn, Grow, Innovate</h5>
                     <p>
-                        We see failure as a stepping stone to growth. We encourage bold ideas, fast experimentation, and
-                        learning from missteps. Every setback is an opportunity to evolve, improve, and push the
-                        boundaries of what’s possible in publishing.
+                        We embrace new ideas, experiment boldly, and learn from every experience. Every challenge is a chance to improve and push boundaries in the world of publishing.
                     </p>
-                    <h5><span>3.</span> Hard Work & Continuous Improvement</h5>
+                    <h5><span>3.</span> Excellence in Every Detail</h5>
                     <p>
-                        Great books aren’t written by accident—they’re built with discipline, resilience, and care.
-                        We’re relentless in our pursuit of excellence, pushing ourselves and our authors to grow beyond
-                        comfort zones and strive for greatness at every stage.
+                        Great books are built with care and commitment. We set high standards for ourselves and our authors, striving for quality and impact in every project.
                     </p>
-                    <h5><span>4.</span> Everyone Is Responsible for Change</h5>
+                    <h5><span>4.</span> Empowerment & Accountability</h5>
                     <p>
-                        Real change starts with action. Every member of our team is empowered to lead, improve, and
-                        innovate. We also listen carefully to our authors—your feedback helps us grow, adapt, and better
-                        serve our creative community.
+                        We believe everyone can drive change. Our team takes ownership, listens to feedback, and works proactively to make our community stronger.
                     </p>
-                    <h5><span>5.</span> Best Is the Standard</h5>
+                    <h5><span>5.</span> Purpose Over Profit</h5>
                     <p>
-                        We don’t settle for good—we aim for great. Every book we help bring to life is crafted with
-                        purpose, professionalism, and precision. From writing to design to marketing, excellence is our
-                        baseline so your story can create lasting impact.
+                        We measure success not just by numbers, but by the stories we help share and the lives they touch. Impact and authenticity guide every decision.
                     </p>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 <section class="mision">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="mision-meta">
-                    <h2>Your Story, <span>Our Mission</span></h2>
+                    <h2>Your Story, <span>Our Commitment</span></h2>
                     <p>
-                        At The Author Nest, we believe every story holds the power to move hearts, shift perspectives,
-                        and leave a legacy. From humble beginnings to becoming a trusted publishing partner, our passion
-                        lies in turning your vision into a published reality. With expert writing, editing, and
-                        marketing services, we don’t just help you publish a book we help you create an impact that lasts.
+                        At The Author Nest, we’re more than a publishing service—we’re your partner in bringing your story to the world. With expert writing, editing, design, and marketing, we help you publish with confidence and create a legacy that lasts.
                     </p>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 <div class="container">
     <section class="cta-about" data-aos="fade-in" data-aos-duration="1200">
         <div class="container">
@@ -190,7 +145,8 @@
                 <div class="col-md-12">
                     <div class="cta-meta">
                         <h2>Ready to Turn Your Story Into a <span>Legacy?</span></h2>
-                        <p class="text-white">Begin your publishing journey with us and discover the difference at The Author Nest—where your story becomes a lasting impact.</p>
+                        <p class="text-white">Begin your publishing journey with us and discover the difference at The
+                            Author Nest—where your story becomes a lasting impact.</p>
                         <div class="text-center"> <button class="primary-btn chat">Chat
                                 With Our
                                 Creative Strategist</button>
