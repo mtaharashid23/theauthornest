@@ -1,4 +1,11 @@
 <?php
+require 'mailer/PHPMailer.php';
+require 'mailer/SMTP.php';
+require 'mailer/Exception.php';
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = htmlspecialchars($_POST["name"] ?? "");
     $email = htmlspecialchars($_POST["email"] ?? "");
@@ -6,16 +13,34 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $services = htmlspecialchars($_POST["services"] ?? "");
     $message = htmlspecialchars($_POST["message"] ?? "");
 
-    $to = "info@theauthornest.com";
-    $subject = "New Inquiry for $services Service";
-    $body = "Name: $name\nEmail: $email\nPhone: $phone\nService: $services\nMessage: $message";
-    $headers = "From: $email";
+    $mail = new PHPMailer(true);
 
-    if (mail($to, $subject, $body, $headers)) {
+    try {
+        // SMTP settings
+        $mail->isSMTP();
+        $mail->Host       = 'smtp.gmail.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'm.shariq1993@gmail.com';          // Your Gmail
+        $mail->Password   = 'iroeqvusbnsuphmv';            // App Password from Google
+        $mail->SMTPSecure = 'tls';
+        $mail->Port       = 587;
+
+        // Sender & recipient
+        $mail->setFrom('yourgmail@gmail.com', 'Website Contact Form');
+        $mail->addAddress('jonathan@theauthornest.com');
+        $mail->addAddress('jahanzebansari503@gmail.com');
+        $mail->addAddress('m.shariq1993@gmail.com');
+
+        // Email content
+        $mail->isHTML(false);
+        $mail->Subject = "New Inquiry for $services Service";
+        $mail->Body    = "Name: $name\nEmail: $email\nPhone: $phone\nService: $services\nMessage: $message";
+
+        $mail->send();
         echo "Message sent successfully!";
-    } else {
+    } catch (Exception $e) {
         http_response_code(500);
-        echo "Failed to send message.";
+        echo "Failed to send message. Error: {$mail->ErrorInfo}";
     }
 } else {
     http_response_code(403);

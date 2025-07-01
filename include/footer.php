@@ -63,14 +63,11 @@
                         </ul>
                     </div>
                     <ul class="d-flex">
-                        <a href="" target="_blank">
+                        <a href="https://www.facebook.com/share/15oixqdYZF/?mibextid=wwXIfr" target="_blank">
                             <li><i class="fa-brands fa-facebook"></i></li>
                         </a>
-                        <a href="" target="_blank">
+                        <a href="https://www.instagram.com/theauthornest1?igsh=MTZ4Z2RhcWpobG41bQ==" target="_blank">
                             <li><i class="fa-brands fa-instagram"></i></li>
-                        </a>
-                        <a href="" target="_blank">
-                            <li><i class="fa-brands fa-linkedin"></i></li>
                         </a>
                     </ul>
                     <img src="img/card-payment.webp" class="mt-3" alt="Card payment options">

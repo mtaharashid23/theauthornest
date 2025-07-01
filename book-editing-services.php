@@ -1,5 +1,5 @@
-<?php include "include/header.php"; ?>
-<section class="section s1 home-banner nitro-lazy" id="request">
+﻿<?php include "include/header.php"; ?>
+<section class="section s1 home-banner nitro-lazy">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-7 div-text">
@@ -22,12 +22,23 @@
                         Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
                             class="fa-solid fa-phone"></i> +1 (206) 388 2791</a> </div>
             </div>
-            <div class="col-md-5">
-                <div class="form-wrapper">
+            <div class="col-md-5 div-img">
+                <img alt="" width="446" height="596" src="img/editing-banner.webp">
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section s2" id="request">
+    <div class="container">
+        <div class="form-area">
+            <div class="row align-items-center">
+                <div class="col-md-6" data-aos="fade-right" data-aos-duration="2000">
+                    <div class="div-img">
+                        <img alt="Request A Free Proposal" width="436" height="463" src="img/rfp-man.webp">
+                    </div>
+                </div>
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="form-head text-center">
-                        <figure>
-                            <img src="favicon.png" alt="The Author Nest Logo" width="100" height="100">
-                        </figure>
                         <h2>Collaborate Directly With Our <span>Expert Editors</span>.</h2>
                     </div>
                     <div class="footer-rfp form-style">
@@ -61,7 +72,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <textarea id="message" name="message" class="input-field" rows="1"
+                                    <textarea id="message" name="message" class="input-field" rows="3"
                                         placeholder="Tell Us What You’re Looking For"></textarea>
                                 </div>
                                 <div class="form-submit">
@@ -75,9 +86,9 @@
         </div>
     </div>
 </section>
-<section class="section s4 nitro-lazy pt-5">
+<section class="section s4 nitro-lazy">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
             <h2>Versatile Editing Options</h2>
             <p>
                 We provide a comprehensive range of editing services tailored to meet your unique needs whether you
@@ -149,11 +160,93 @@
         </div>
     </div>
 </section>
+<section class="pricing section" data-aos="fade-down" data-aos-duration="2000">
+    <div class="container">
+        <div class="row">
+            <div class="heading text-center">
+                <h2>Standard Book Editing <span>Packages</span></h2>
+            </div>
+            <div class="col-md-4">
+                <div class="pack-1">
+                    <h3><span style="color:#000; font-size:14px;">Proofreading </span><span>$</span>4.95<span
+                            style="color:#000; font-size:14px;">/Page </span>
+                    </h3>
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                            For:</span> For a grammatically correct, typo-free book edited by seasoned
+                        proofreaders</p>
+                    <ul>
+                        <h5>What you get:</h5>
+                        <li>Editorial Manuscript Review</li>
+                        <li>Proofread by Experienced Book Editors</li>
+                        <li>Spelling, Grammar, and Punctuation Errors Addressed</li>
+                        <li>Track Changes Visible</li>
+                        <li>Formatted Manuscript</li>
+                        <li>All Rights Transferred</li>
+                    </ul>
+                    <div class="banner-btns justify-content-center">
+                        <a href="#rfp-top" class="talk-chat">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="pack-1">
+                    <h3><span style="color:#000; font-size:14px;">Copy Editing </span><span>$</span>9.95<span
+                            style="color:#000; font-size:14px;">/Page </span></h3>
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                            For:</span> For a surface-level edit by an expert editor to refine and elevate your
+                        book</p>
+                    <ul>
+                        <h5>What you get:</h5>
+                        <li>1:1 Consultation</li>
+                        <li>Editorial Manuscript Review</li>
+                        <li>Experienced Book Editors</li>
+                        <li>Spelling, Grammar, and Punctuation Errors Addressed</li>
+                        <li>Editor’s Comments to Explain Edits</li>
+                        <li>Suggestions to Improve and Elevate Narrative Arc and Flow</li>
+                        <li>Track Changes Visible</li>
+                        <li>Formatted Manuscript</li>
+                        <li>All Rights Transferred</li>
+                    </ul>
+                    <div class="banner-btns justify-content-center">
+                        <a href="#rfp-top" class="talk-chat">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="pack-1">
+                    <!-- <h4 style="font-size:16px; font-weight: 700;"><span>Author </span>Branding
+                                <span>Bundle</span></h4> -->
+                    <h3><span style="color:#000; font-size:14px;">Line Editing </span><span>$</span>14.95<span
+                            style="color:#000; font-size:14px;">/Page </span></h3>
+                    <p style="color: #000053; font-size: 13px;"><span style="color:#000; font-weight:800;">Ideal
+                            For:</span> For in-depth edit that addresses grammar, writing style, and story
+                        structure.</p>
+                    <ul>
+                        <h5>What you get:</h5>
+                        <li>1:1 Consultation</li>
+                        <li>Editorial Manuscript Review</li>
+                        <li>Experienced Book Editors</li>
+                        <li>Spelling, Grammar, and Punctuation Errors Addressed</li>
+                        <li>Editing for Clarity and Consistency in Writing Style</li>
+                        <li>Editor’s Comments to Explain Edits</li>
+                        <li>Suggestions to Improve and Elevate Narrative Arc and Flow</li>
+                        <li>Track Changes Visible</li>
+                        <li>Formatted Manuscript</li>
+                        <li>All Rights Transferred</li>
+                    </ul>
+                    <div class="banner-btns justify-content-center">
+                        <a href="#rfp-top" class="talk-chat">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section s8">
     <div class="container">
         <div class="form-area">
             <div class="row align-items-center">
-                <div class="col-md-6" data-aos="fade-right" data-aos-duration="1200">
+                <div class="col-md-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="form-head text-center">
                         <h2>Hire Top-Tier Editing <span>Services Online</span>!</h2>
                         <p>Connect with our experienced editors today and bring your manuscript to professional
@@ -202,7 +295,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="div-img" data-aos="fade-left" data-aos-duration="1200">
+                    <div class="div-img" data-aos="fade-right" data-aos-duration="2000">
                         <img alt="Request A Free Proposal" width="436" height="463" src="img/lowe-form.webp">
                     </div>
                 </div>
@@ -210,7 +303,7 @@
         </div>
     </div>
 </section>
-<section class="section s6" data-aos="fade-up" data-aos-duration="1200">
+<section class="section s6" data-aos="fade-up" data-aos-duration="2000">
     <div class="container editing-com">
         <div class="heading text-center">
             <h2>Our Proven Editing Process</h2>
@@ -261,7 +354,7 @@
 </section>
 <section class="section multi">
     <div class="container">
-        <div class="heading text-center" data-aos="fade-down" data-aos-duration="1200">
+        <div class="heading text-center" data-aos="fade-down" data-aos-duration="2000">
             <h2>We Publish Across Every Genre</h2>
             <p>
                 No matter your story, we’re here to bring it to life. Our team specializes in publishing a wide range of
@@ -295,9 +388,12 @@
         </div>
     </div>
 </section>
-<section class="section faq-section bg-transparent" data-aos="fade-in" data-aos-duration="1200">
+<section class="section s7" data-aos="fade-in" data-aos-duration="2000">
     <div class="container">
-        <!-- <div class="row">
+        <div class="heading text-center width-70 m-auto">
+            <h2>Q/A Session.</h2>
+        </div>
+        <div class="row">
             <div class="col-md-6">
                 <div class="accordion">
                     <div class="accordion__item">
@@ -438,142 +534,6 @@
                         <div class="accordion__item__content" style="display:none;">
                             <p>Your satisfaction is our priority. If you are not satisfied, we will work with
                                 you to address your concerns and make necessary adjustments.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <div class="heading text-center width-70 m-auto">
-            <h2>FAQ's</h2>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-md-12">
-                <div id="accordion" data-aos="fade-up">
-                    <div class="row justify-content-center mt-4">
-                        <div class="col-lg-10">
-                            <div class="card">
-                                <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseOne">
-                                        Q1: What services do you offer for book publishing?
-                                    </button>
-                                </div>
-                                <div id="collapseOne" class="collapse" data-bs-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>
-                                            A: We offer comprehensive publishing solutions to support your entire
-                                            journey. Our services include manuscript editing, professional formatting
-                                            for print and digital platforms, ISBN registration, and global distribution.
-                                            Our team ensures your book meets all industry standards, presenting it
-                                            professionally to readers worldwide.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseTwo">
-                                        Q2: How do you help with manuscript editing?
-                                    </button>
-                                </div>
-                                <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>
-                                            A: Our professional editing team collaborates with you to improve the
-                                            clarity, structure, and overall flow of your manuscript while preserving
-                                            your unique voice. We provide comprehensive editing and thorough
-                                            proofreading to ensure your book is polished, error-free, and ready for
-                                            publication.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseThree">
-                                        Q3: What is the process for getting an ISBN?
-                                    </button>
-                                </div>
-                                <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>
-                                            A: We assist you in registering an International Standard Book Number ISBN
-                                            to uniquely identify your book in the global marketplace. Our team handles
-                                            the technical details and guides you through the entire process ensuring
-                                            your book receives a valid ISBN for both print and digital editions, making
-                                            it ready for distribution and cataloging worldwide.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseFour">
-                                        Q4: Do you assist with copyright protection?
-                                    </button>
-                                </div>
-                                <div id="collapseFour" class="collapse" data-bs-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>
-                                            A: Yes, we provide guidance on securing copyright protection for your work.
-                                            Our team helps you understand your rights as an author and supports you in
-                                            taking the necessary steps to legally protect your book from unauthorized
-                                            use or reproduction.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseFive">
-                                        Q5: Which publishing platforms do you use?
-                                    </button>
-                                </div>
-                                <div id="collapseFive" class="collapse" data-bs-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>
-                                            A: We support a range of trusted publishing platforms, including Amazon KDP,
-                                            IngramSpark, and other industry-standard services for both print and digital
-                                            publishing. Our team works closely with you to select the platform that best
-                                            fits your book’s goals, audience, and distribution needs.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSix">
-                                        Q6: Is online book marketing right for me?
-                                    </button>
-                                </div>
-                                <div id="collapseSix" class="collapse" data-bs-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>
-                                            A: Absolutely. Online book marketing is valuable for authors at any stage
-                                            whether you’re launching your first book or aiming to grow your readership.
-                                            We customize marketing strategies based on your genre, goals, and target
-                                            audience to help you boost visibility, connect with readers, and build your
-                                            author brand effectively.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header">
-                                    <button class="collapsed card-link" data-bs-toggle="collapse" href="#collapseSeven">
-                                        Q7: What competitive advantages will I get from book marketing?
-                                    </button>
-                                </div>
-                                <div id="collapseSeven" class="collapse" data-bs-parent="#accordion">
-                                    <div class="card-body">
-                                        <p>
-                                            A: Our book marketing services are designed to help you reach the right
-                                            audience, increase your book's visibility, and ultimately drive sales. We
-                                            use data-driven strategies, social media outreach, and email campaigns to
-                                            ensure your book stands out.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
