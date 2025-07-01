@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="logo-sec text-center">
                     <a href="index.php">
-                        <img src="img/footer-logo.png" alt="Footer logo of The Author Nest">
+                        <img src="img/footer-logo.webp" alt="Footer logo of The Author Nest">
                     </a>
                     <p>Your Reliable Global Ally in Writing, Publishing, and Marketing Your Book.</p>
                 </div>

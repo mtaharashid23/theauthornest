@@ -26,7 +26,7 @@
                 <div class="form-wrapper">
                     <div class="form-head text-center">
                         <figure>
-                            <img src="favicon.png" alt="image" width="100" height="100" class="img-fluid">
+                            <img src="favicon.webp" alt="image" width="100" height="100" class="img-fluid">
                         </figure>
                         <h2>Request <span>Free Consultation</span></h2>
                     </div>

@@ -19,9 +19,9 @@
                                         impactful visuals</span></li>
                             </ul>
                             <!-- <div class="banner-ico d-flex mt-3 align-items-center">
-                            <img alt="a img" src="img/addi-9.png">
-                            <img alt="a img" src="img/addi-7.png">
-                            <img alt="a img" src="img/addi-10.png">
+                            <img alt="a img" src="img/addi-9.webp">
+                            <img alt="a img" src="img/addi-7.webp">
+                            <img alt="a img" src="img/addi-10.webp">
                         </div> -->
                             <div class="banner-btns"> <a href="request-free-proposal.php"
                                     class="talk-chat extra-ress-2"> Get
@@ -207,7 +207,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="img/ebook-inner-img.png" style="width: 370px;" alt="">
+                        <img src="img/ebook-inner-img.webp" style="width: 370px;" alt="">
                     </div>
                 </div>
             </div>

@@ -27,7 +27,7 @@
                 <div class="form-wrapper">
                     <div class="form-head text-center">
                         <figure>
-                            <img src="favicon.png" alt="image" width="100" height="100" class="img-fluid">
+                            <img src="favicon.webp" alt="image" width="100" height="100" class="img-fluid">
                         </figure>
                         <h2>Design a <span>Cover That Speaks </span>to Readers </h2>
                     </div>
@@ -247,7 +247,7 @@
                 </div>
             </div>
             <div class="col-md-6 text-center">
-                <img src="img/ebook-inner-img.png" style="width: 370px;" alt="">
+                <img src="img/ebook-inner-img.webp" style="width: 370px;" alt="">
             </div>
         </div>
     </div>

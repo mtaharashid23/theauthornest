@@ -37,10 +37,10 @@
                     <div class="col-md-12">
                         <div class="portfolio-images">
                             <ul class="port">
-                                <li><img src="img/port-web-1.png" alt=""></li>
-                                <li><img src="img/port-web-2.png" alt=""></li>
-                                <li><img src="img/port-web-3.png" alt=""></li>
-                                <li><img src="img/port-web-4.png" alt=""></li>
+                                <li><img src="img/port-web-1.webp" alt=""></li>
+                                <li><img src="img/port-web-2.webp" alt=""></li>
+                                <li><img src="img/port-web-3.webp" alt=""></li>
+                                <li><img src="img/port-web-4.webp" alt=""></li>
                             </ul>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="img/author-inner-img.png" alt="">
+                        <img src="img/author-inner-img.webp" alt="">
                     </div>
                 </div>
             </div>

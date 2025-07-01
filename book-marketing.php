@@ -21,9 +21,9 @@
                             Royalties.</span></li>
                 </ul>
                 <!-- <div class="banner-ico d-flex mt-3 align-items-center">
-                            <img alt="a img" src="img/addi-9.png">
-                            <img alt="a img" src="img/addi-7.png">
-                            <img alt="a img" src="img/addi-10.png">
+                            <img alt="a img" src="img/addi-9.webp">
+                            <img alt="a img" src="img/addi-7.webp">
+                            <img alt="a img" src="img/addi-10.webp">
                         </div> -->
                 <div class="banner-btns"> <a href="#request" class="talk-chat extra-ress-2"> Get
                         Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
@@ -33,7 +33,7 @@
                 <div class="form-wrapper">
                     <div class="form-head text-center">
                         <figure>
-                            <img src="favicon.png" alt="image" width="100" height="100" class="img-fluid">
+                            <img src="favicon.webp" alt="image" width="100" height="100" class="img-fluid">
                         </figure>
                         <h2>Let's Discuss Your Next <span>Bestseller</span>.</h2>
                     </div>

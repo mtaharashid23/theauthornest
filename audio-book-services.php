@@ -23,7 +23,7 @@
                             class="fa-solid fa-phone"></i>+1 (206) 388 2791</a> </div>
             </div>
             <div class="col-md-5 div-img"><img width="501" style="width:60%;" height="611" alt="Book Cover"
-                    src="img/audio-new.png">
+                    src="img/audio-new.webp">
             </div>
         </div>
     </div>

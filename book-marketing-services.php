@@ -21,9 +21,9 @@
                             Royalties.</span></li>
                 </ul>
                 <!-- <div class="banner-ico d-flex mt-3 align-items-center">
-                            <img alt="a img" src="img/addi-9.png">
-                            <img alt="a img" src="img/addi-7.png">
-                            <img alt="a img" src="img/addi-10.png">
+                            <img alt="a img" src="img/addi-9.webp">
+                            <img alt="a img" src="img/addi-7.webp">
+                            <img alt="a img" src="img/addi-10.webp">
                         </div> -->
                 <div class="banner-btns"> <a href="#request" class="talk-chat extra-ress-2"> Get
                         Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i

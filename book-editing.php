@@ -26,7 +26,7 @@
                 <div class="form-wrapper">
                     <div class="form-head text-center">
                         <figure>
-                            <img src="favicon.png" alt="The Author Nest Logo" width="100" height="100">
+                            <img src="favicon.webp" alt="The Author Nest Logo" width="100" height="100">
                         </figure>
                         <h2>Collaborate Directly With Our <span>Expert Editors</span>.</h2>
                     </div>

@@ -67,7 +67,7 @@
                             needs a professional website.
                         </p>
                         <h3 id="sub-2">Your Virtual Business Card</h3>
-                        <p><img src="img/why-2.jfif" alt="attractive book cover design"></p>
+                        <p><img src="img/why-2.webp" alt="attractive book cover design"></p>
                         <p>
                             Imagine this: you’ve just met someone at a literary event, and they’re intrigued by your
                             work. They ask where they can find out more about you. Handing them a link to your

@@ -18,9 +18,9 @@
                                     Your Brand.</span></li>
                         </ul>
                         <!-- <div class="banner-ico d-flex mt-3 align-items-center">
-                            <img alt="a img" src="img/addi-9.png">
-                            <img alt="a img" src="img/addi-7.png">
-                            <img alt="a img" src="img/addi-10.png">
+                            <img alt="a img" src="img/addi-9.webp">
+                            <img alt="a img" src="img/addi-7.webp">
+                            <img alt="a img" src="img/addi-10.webp">
                         </div> -->
                         <div class="banner-btns"> <a href="#request" class="talk-chat extra-ress-2"> Get
                                 Started </a> <a href="tel:+1 (206) 388 2791" class="talk-phone phons-mobile"><i
@@ -201,55 +201,55 @@
                         <div class="portfolio-images">
                             <ul class="port">
                                 <a href="">
-                                    <li><img src="img/portfolio/1.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/1.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/2.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/2.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a  href="">
-                                    <li><img src="img/portfolio/3.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/3.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/4.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/4.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/5.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/5.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/6.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/6.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/7.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/7.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/8.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/8.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/9.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/9.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/10.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/10.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/11.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/11.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/12.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/12.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/13.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/13.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/14.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/14.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/15.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/15.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/16.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/16.webp" alt="image" class="img-fluid"></li>
                                 </a>
                                 <a href="">
-                                    <li><img src="img/portfolio/17.jpg" alt="image" class="img-fluid"></li>
+                                    <li><img src="img/portfolio/17.webp" alt="image" class="img-fluid"></li>
                                 </a>
                             </ul>
                         </div>

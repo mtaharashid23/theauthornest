@@ -142,7 +142,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="img/illus.png" style="width: 280px;" alt="">
+                        <img src="img/illus.webp" style="width: 280px;" alt="">
                     </div>
                 </div>
             </div>
@@ -318,12 +318,12 @@
                     <div class="col-md-12">
                         <div class="portfolio-images">
                             <ul class="port">
-                                <li><img src="img/ill-port-1.png" alt=""></li>
-                                <li><img src="img/ill-port-2.png" alt=""></li>
-                                <li><img src="img/ill-port-3.png" alt=""></li>
-                                <li><img src="img/ill-port-4.png" alt=""></li>
-                                <li><img src="img/ill-port-5.png" alt=""></li>
-                                <li><img src="img/ill-port-6.png" alt=""></li>
+                                <li><img src="img/ill-port-1.webp" alt=""></li>
+                                <li><img src="img/ill-port-2.webp" alt=""></li>
+                                <li><img src="img/ill-port-3.webp" alt=""></li>
+                                <li><img src="img/ill-port-4.webp" alt=""></li>
+                                <li><img src="img/ill-port-5.webp" alt=""></li>
+                                <li><img src="img/ill-port-6.webp" alt=""></li>
                             </ul>
                         </div>
                     </div>

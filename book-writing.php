@@ -22,7 +22,7 @@
                 <div class="form-wrapper">                
                     <div class="form-head text-center">
                         <figure>
-                            <img src="favicon.png" alt="image" class="img-fluid" width="100" height="100">
+                            <img src="favicon.webp" alt="image" class="img-fluid" width="100" height="100">
                         </figure>
                         <h2>Let’s Bring Your Next <span>Bestseller</span> to Life.</h2>
                     </div>
@@ -80,55 +80,55 @@
                 <div class="portfolio-images">
                     <ul class="port">
                         <a href="">
-                            <li><img src="img/portfolio/1.jpg" alt=""></li>
+                            <li><img src="img/portfolio/1.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/2.jpg" alt=""></li>
+                            <li><img src="img/portfolio/2.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/3.jpg" alt=""></li>
+                            <li><img src="img/portfolio/3.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/4.jpg" alt=""></li>
+                            <li><img src="img/portfolio/4.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/5.jpg" alt=""></li>
+                            <li><img src="img/portfolio/5.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/6.jpg" alt=""></li>
+                            <li><img src="img/portfolio/6.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/7.jpg" alt=""></li>
+                            <li><img src="img/portfolio/7.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/8.jpg" alt=""></li>
+                            <li><img src="img/portfolio/8.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/9.jpg" alt=""></li>
+                            <li><img src="img/portfolio/9.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/10.jpg" alt=""></li>
+                            <li><img src="img/portfolio/10.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/11.jpg" alt=""></li>
+                            <li><img src="img/portfolio/11.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/12.jpg" alt=""></li>
+                            <li><img src="img/portfolio/12.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/13.jpg" alt=""></li>
+                            <li><img src="img/portfolio/13.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/14.jpg" alt=""></li>
+                            <li><img src="img/portfolio/14.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/15.jpg" alt=""></li>
+                            <li><img src="img/portfolio/15.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/16.jpg" alt=""></li>
+                            <li><img src="img/portfolio/16.webp" alt=""></li>
                         </a>
                         <a href="">
-                            <li><img src="img/portfolio/17.jpg" alt=""></li>
+                            <li><img src="img/portfolio/17.webp" alt=""></li>
                         </a>
                     </ul>
                 </div>

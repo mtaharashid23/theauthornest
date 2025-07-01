@@ -5,7 +5,7 @@
     <title><?php echo isset($title) ? $title : 'Professional Book Writing Services | The Author Nest';  ?></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="icon" href="favicon.webp" type="image/png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">    
@@ -86,7 +86,7 @@
                 <div class="container">
                     <div class="site-branding">
                         <a href="index.php" class="responsive-branding hide-mobile">
-                            <img alt="logo icon" width="58" height="36" src="img/logo.png">
+                            <img alt="logo icon" width="58" height="36" src="img/logo.webp">
                         </a>
                     </div>
                     <div class="header-right">
@@ -98,7 +98,7 @@
                         <div class="primary-menu menu-style">
                             <div class="responsive_site_branding responsive_menu_close hide-desktop">
                                 <a href="index.php" class="responsive-branding hide-desktop">
-                                    <img alt="logo icon" width="58" height="36" src="img/logo.png">
+                                    <img alt="logo icon" width="58" height="36" src="img/logo.webp">
                                 </a>
                                 <span class="responsive-menu-close">X</span>
                             </div>
