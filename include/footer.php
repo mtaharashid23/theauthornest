@@ -59,7 +59,8 @@
                             <li><span><i class="fa-solid fa-envelope"></i></span><a
                                     href="mailto:info@theauthornest.com">info@theauthornest.com</span></a>
                             </li>
-                            <li><span><i class="fa-solid fa-location-dot"></i></span><a href="javascript:;">5900, BALCONES DRIVE STE 100, AUSTIN TX 78731</a></li>
+                            <li><span><i class="fa-solid fa-location-dot"></i></span><a href="javascript:;">5900,
+                                    BALCONES DRIVE STE 100, AUSTIN TX 78731</a></li>
                         </ul>
                     </div>
                     <ul class="d-flex">
@@ -91,6 +92,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="js/form.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -483,14 +485,14 @@
     window.__lc.license = 19197234;
     window.__lc.integration_name = "manual_channels";
     window.__lc.product_name = "livechat";
-    window.__lc.asyncInit = function() {
-        LiveChatWidget.on('ready', function() {
+    window.__lc.asyncInit = function () {
+        LiveChatWidget.on('ready', function () {
             console.log('LiveChat ready - opening chat automatically.');
             LiveChatWidget.call('maximize'); // ✅ auto open on page load
         });
     };
 
-    (function(n, t, c) {
+    (function (n, t, c) {
         function i(n) {
             return e._h ? e._h.apply(null, n) : e._q.push(n);
         }
@@ -498,23 +500,23 @@
             _q: [],
             _h: null,
             _v: "2.0",
-            on: function() {
+            on: function () {
                 i(["on", c.call(arguments)]);
             },
-            once: function() {
+            once: function () {
                 i(["once", c.call(arguments)]);
             },
-            off: function() {
+            off: function () {
                 i(["off", c.call(arguments)]);
             },
-            get: function() {
+            get: function () {
                 if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
                 return i(["get", c.call(arguments)]);
             },
-            call: function() {
+            call: function () {
                 i(["call", c.call(arguments)]);
             },
-            init: function() {
+            init: function () {
                 var n = t.createElement("script");
                 n.async = true;
                 n.type = "text/javascript";
@@ -539,7 +541,7 @@
     }
 
     // ✅ Register new_event once page fully loaded
-    window.addEventListener('load', function() {
+    window.addEventListener('load', function () {
         LiveChatWidget.on('new_event', onNewEvent);
     });
 </script>
@@ -549,6 +551,39 @@
     <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
 </noscript>
 <!-- ✅ END of LiveChat code ✅ -->
+<script>
+    var platforms_slider = new Swiper('.platforms_slider', {
+        loop: true,
+        autoplay: true,
+        slidesPerView: 1,
+        spaceBetween: 10,
+        // centeredSlides: true,
+        // roundLengths: true,
+        // direction: "horizontal",
+        mousewheelControl: true,
+        // slidesPerView: "auto",
+        freeMode: true,
+        followFinger: true,
+        breakpoints: {
+            1199: {
+                slidesPerView: 5,
+                spaceBetween: 30
+            },
+            768: {
+                slidesPerView: 4,
+                spaceBetween: 30
+            },
+            576: {
+                slidesPerView: 3,
+                spaceBetween: 30
+            },
+            375: {
+                slidesPerView: 2,
+                spaceBetween: 30
+            }
+        },
+    });
+</script>
 </div>
 </body>
 
