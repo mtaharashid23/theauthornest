@@ -42,7 +42,7 @@
 
 <section class="platforms_section padd-y">
     <div class="container">
-        <h3 class="heading">Publishing Platforms</h3>
+        <h3 class="main_heading">Publishing Platforms</h3>
         <div class="swiper platforms_slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
@@ -167,7 +167,7 @@
 <section class="unique_section padd-y">
     <div class="container">
         <div class="unique_title text-center mb-5">
-            <h3 class="heading">What Makes Us Unique</h3>
+            <h3 class="main_heading">What Makes Us Unique</h3>
             <p>
                 At Word stratum, we prioritize authors and aim to deliver exceptional book publishing services.
                 Partnering with us ensures:
@@ -257,7 +257,7 @@
 <section class="partner_section padd-y">
     <div class="container">
         <div class="unique_title text-center">
-            <h3 class="heading">Partner with a Leading Book Publishing Company</h3>
+            <h3 class="main_heading">Partner with a Leading Book Publishing Company</h3>
             <p>
                 Word stratum goes beyond traditional self-publishing. We aim to be your dedicated partner, guiding you
                 every step of the way, from refining your manuscript to achieving publishing success. With unmatched
@@ -274,6 +274,103 @@
     </div>
 </section>
 
-<section class=""></section>
+<section class="publishing_services padd-y">
+    <div class="container">
+        <h3 class="heading mb-5">Publishing Services</h3>
+        <ul class="publishing_services_list">
+            <li>
+                <figure>
+                    <img src="img/publishing-icon1.webp" alt="image" class="img-fluid">
+                </figure>
+                <h4>Cover Design</h4>
+            </li>
+            <li>
+                <figure>
+                    <img src="img/publishing-icon2.webp" alt="image" class="img-fluid">
+                </figure>
+                <h4>Interior Formatting</h4>
+            </li>
+            <li>
+                <figure>
+                    <img src="img/publishing-icon3.webp" alt="image" class="img-fluid">
+                </figure>
+                <h4>Illustration</h4>
+            </li>
+            <li>
+                <figure>
+                    <img src="img/publishing-icon4.webp" alt="image" class="img-fluid">
+                </figure>
+                <h4>Editing</h4>
+            </li>
+            <li>
+                <figure>
+                    <img src="img/publishing-icon5.webp" alt="image" class="img-fluid">
+                </figure>
+                <h4>Printing</h4>
+            </li>
+            <li>
+                <figure>
+                    <img src="img/publishing-icon6.webp" alt="image" class="img-fluid">
+                </figure>
+                <h4>Marketing & Distribution</h4>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<section class="get_started padd-y">
+    <div class="container">
+        <div class="get_started_title text-center mb-5">
+            <h3 class="main_heading">Getting Started with Word Stratum</h3>
+            <p>
+                Ready to bring your book to life? Wordstratum is here to guide you every step of the way. With
+                personalized support and exceptional service, we turn your vision into reality. Together, we will:
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="get_started_card">
+                    <figure class="get_started_card_img">
+                        <img src="img/get-started-img1.webp" alt="image" class="img-fluid">
+                    </figure>
+                    <div class="get_started_card_content">
+                        <h5>Explore your objectives and craft a customized book publishing strategy</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="get_started_card">
+                    <figure class="get_started_card_img">
+                        <img src="img/get-started-img2.webp" alt="image" class="img-fluid">
+                    </figure>
+                    <div class="get_started_card_content">
+                        <h5>Refine your manuscript with expert editing and design solutions</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="get_started_card">
+                    <figure class="get_started_card_img">
+                        <img src="img/get-started-img3.webp" alt="image" class="img-fluid">
+                    </figure>
+                    <div class="get_started_card_content">
+                        <h5>Develop marketing plans to promote your book and reach your audience</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="get_touch padd-y">
+    <div class="container">
+        <div class="get_touch_title">
+            <h3 class="main_heading">Get in Touch Today to Begin the Process</h3>
+            <div>
+                <a href="" class="themeBtn mx-auto">Book Publishing - Word Stratum</a>
+            </div>
+        </div>
+    </div>
+</section>
 
 <?php include "include/footer.php"; ?>
