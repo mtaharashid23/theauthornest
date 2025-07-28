@@ -200,9 +200,7 @@
                                 help. Reach out to us for a custom quote tailored specifically to your project. Whether
                                 by phone, live chat, or proposal, we’ll work with you to create a unique design package
                                 and negotiate a rate that fits your vision and budget.</p>
-                            <div class=" mt-5"> <button class="primary-btn chat">Chat
-                                    With Our
-                                    Creative Strategist</button>
+                            <div class=" mt-5"> <button class="primary-btn chat" onclick="window.location.href='request-free-proposal.php'">Get Started</button>
                             </div>
                         </div>
                     </div>

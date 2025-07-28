@@ -139,7 +139,7 @@
                                 <li><a href="about-us.php">About Us</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                                 <li class="contact-btn">
-                                    <button class="chat">Live Chat</button>
+                                    <button onclick="window.location.href='request-free-proposal.php'">Book a Free Call</button>
                                 </li>
                             </ul>
                         </div>

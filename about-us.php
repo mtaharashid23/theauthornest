@@ -147,9 +147,7 @@
                         <h2>Ready to Turn Your Story Into a <span>Legacy?</span></h2>
                         <p class="text-white">Begin your publishing journey with us and discover the difference at The
                             Author Nest—where your story becomes a lasting impact.</p>
-                        <div class="text-center"> <button class="primary-btn chat">Chat
-                                With Our
-                                Creative Strategist</button>
+                        <div class="text-center"> <button class="primary-btn chat" onclick="window.location.href='request-free-proposal.php'">Get Started</button>
                         </div>
                     </div>
                 </div>

@@ -135,9 +135,7 @@
                     <div class="col-md-6">
                         <div class="heading last-sec-meta">
                             <h2>From Concept to Creation: Your Book’s Visual Story Begins Here!</h2>
-                            <div class=" mt-5"> <button class="primary-btn chat">Chat
-                                    With Our
-                                    Expert Book Illustrator</button>
+                            <div class=" mt-5"> <button class="primary-btn chat" onclick="window.location.href='request-free-proposal.php'">Get Started</button>
                             </div>
                         </div>
                     </div>

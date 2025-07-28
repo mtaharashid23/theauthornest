@@ -211,8 +211,6 @@
                 </div>
                 <div class="banner-btns justify-content-center">
                     <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                    <button href="#rfp-top" class="talk-chat chat"> Start a Live
-                        Chat</button>
                 </div>
             </div>
         </div>

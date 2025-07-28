@@ -84,13 +84,12 @@
     </div>
 </section>
 
-<section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
+<!-- <section class="pricing section" data-aos="fade-down" data-aos-duration="1200">
     <div class="container">
         <div class="row">
             <div class="heading text-center">
                 <h2>Comprehensive Support Throughout Your <span>Author Journey</span></h2>
             </div>
-
             <div class="col-md-4">
                 <div class="pack-1">
                     <h4 style="font-size:16px; font-weight: 700;"><span>Amazon </span>Publishing
@@ -188,7 +187,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="lower-pack section" data-aos="fade-in" data-aos-duration="1200">
     <div class="container">
@@ -200,9 +199,7 @@
                             class="blink-soft">Bestseller Plan Just for You!</span>
                     </p>
                     <div class="banner-btns">
-                        <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                        <button href="#rfp-top" class="talk-chat chat"> Start a Live
-                            Chat</button>
+                        <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>                        
                     </div>
                 </div>
             </div>
@@ -353,9 +350,7 @@
                     </ul>
                 </div>
                 <div class="banner-btns justify-content-center">
-                    <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>
-                    <button href="#rfp-top" class="talk-chat chat"> Start a Live
-                        Chat</button>
+                    <a href="request-free-proposal.php" class="talk-chat"> Book a Free Call</a>                    
                 </div>
             </div>
         </div>
@@ -548,7 +543,7 @@
                         Connect with our Creative Strategist today and take the first step toward bringing your book to
                         life.
                     </p>
-                    <div class="text-center"> <button class="primary-btn chat">Chat Now</button>
+                    <div class="text-center"> <button class="primary-btn chat" onclick="window.location.href='request-free-proposal.php'">Get Started</button>
                     </div>
                 </div>
             </div>
